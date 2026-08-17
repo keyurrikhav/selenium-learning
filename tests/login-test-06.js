@@ -5,105 +5,83 @@ const assert = require('assert');
 const LoginPage =
     require('../pages/login-page-01');
 
+const loginData =
+    require('../test-data/loginData');
+
 
 describe('Login Test Suite', function () {
 
-    // Mocha timeout
     this.timeout(30000);
+
+    let driver;
+    let loginPage;
+
+
+    beforeEach(async function () {
+
+        driver = await new Builder()
+            .forBrowser('chrome')
+            .build();
+
+        loginPage =
+            new LoginPage(driver);
+
+    });
+
+
+    afterEach(async function () {
+
+        await driver.quit();
+
+    });
 
 
     it('should login with valid credentials', async function () {
 
-        // Create browser
-        let driver = await new Builder()
-            .forBrowser('chrome')
-            .build();
+        await loginPage.open();
+
+        await loginPage.enterUsername(
+            loginData.validUser.username
+        );
+
+        await loginPage.enterPassword(
+            loginData.validUser.password
+        );
+
+        await loginPage.clickLogin();
+
+        let heading =
+            await loginPage.getHeading();
+
+        assert.strictEqual(
+            heading,
+            'Secure Area'
+        );
+
+    });
 
 
-        try {
+    it('should reject invalid password', async function () {
 
-            // Create Login Page object
-            let loginPage =
-                new LoginPage(driver);
+        await loginPage.open();
 
+        await loginPage.enterUsername(
+            loginData.invalidPassword.username
+        );
 
-            // Open Login Page
-            await loginPage.open();
+        await loginPage.enterPassword(
+            loginData.invalidPassword.password
+        );
 
+        await loginPage.clickLogin();
 
-            // Enter Username
-            await loginPage.enterUsername(
-                'tomsmith'
-            );
+        let message =
+            await loginPage.getFlashMessage();
 
-
-            // Enter Password
-            await loginPage.enterPassword(
-                'SuperSecretPassword!'
-            );
-
-
-            // Verify username was entered
-            console.log(
-                'Username:',
-                await loginPage.getUsernameValue()
-            );
-
-
-            // Verify password was entered
-            console.log(
-                'Password:',
-                await loginPage.getPasswordValue()
-            );
-
-
-            // Click Login
-            await loginPage.clickLogin();
-
-
-            // Print URL after login
-            console.log(
-                'URL after login:',
-                await driver.getCurrentUrl()
-            );
-
-
-            // Get flash message
-            console.log(
-                'Flash message:',
-                await loginPage.getFlashMessage()
-            );
-
-
-            // Get heading
-            let heading =
-                await loginPage.getHeading();
-
-
-            console.log(
-                'Heading:',
-                heading
-            );
-
-
-            // Verify successful login
-            assert.strictEqual(
-                heading,
-                'Secure Area'
-            );
-
-
-            console.log(
-                'LOGIN TEST PASSED'
-            );
-
-
-        } finally {
-
-            // Close browser
-            await driver.quit();
-
-        }
+        console.log(
+            'Error message:',
+            message
+        );
 
     });
 
