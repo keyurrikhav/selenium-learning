@@ -1,7 +1,8 @@
 const {
     Builder,
     By,
-    until
+    until,
+    Key
 } = require("selenium-webdriver");
 
 const assert = require("assert");
@@ -66,14 +67,15 @@ describe("iFrame Test Suite", function () {
             );
 
 
-        // 5. Clear existing text
-        await editor.clear();
-
-
-        // 6. Enter new text
         let expectedText =
             "Selenium is awesome";
 
+            await editor.click();
+            
+        await editor.sendKeys(
+            Key.CONTROL,
+            "a"
+        );
         await editor.sendKeys(
             expectedText
         );
