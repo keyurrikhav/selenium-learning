@@ -1,15 +1,15 @@
 const { Builder, By, until } = require("selenium-webdriver");
 const fs = require("fs");
 
-async function scrapeProducts() {
+async function scrapeCurrentPage(driver) {
 
-    const driver = await new Builder()
-        .forBrowser("chrome")
-        .build();
+    // const driver = await new Builder()
+    //     .forBrowser("chrome")
+    //     .build();
 
-    try {
+    // try {
 
-        await driver.get("https://books.toscrape.com/");
+    //     await driver.get("https://books.toscrape.com/");
 
         // console.log("Website opened");
         const books = await driver.findElements(
@@ -18,7 +18,7 @@ async function scrapeProducts() {
 
         console.log("Total books:", books.length);
 
-        const data = [];
+        const pageData = [];
 
         const ratingMap = {
             One: 1,
@@ -63,18 +63,96 @@ async function scrapeProducts() {
 
             const rating = ratingMap[ratingWord];
 
-            data.push({
+            pageData.push({
                 title, price, url, rating
             });
             // console.log(data);
         }
+            return pageData;
+    //     fs.writeFileSync(
+    //         "books.json",
+    //         JSON.stringify(data, null, 2)
+    //     );
+
+    //     console.log(`Scraped ${data.length} books`);
+    //     console.log("Data saved to books.json");
+
+    // } finally {
+
+    //     await driver.quit();
+    // }
+}
+async function getNextPageUrl(driver) {
+
+    const nextButtons = await driver.findElements(
+        By.css(".next a")
+    );
+
+    if (nextButtons.length === 0) {
+        return null;
+    }
+
+    const nextUrl = await nextButtons[0]
+        .getAttribute("href");
+
+    return new URL(
+        nextUrl,
+        await driver.getCurrentUrl()
+    ).href;
+}
+
+
+async function scrapeBooks() {
+
+    const driver = await new Builder()
+        .forBrowser("chrome")
+        .build();
+
+    try {
+
+        let currentUrl =
+            "https://books.toscrape.com/";
+
+        const allBooks = [];
+
+        while (currentUrl) {
+
+            console.log(
+                "Scraping:",
+                currentUrl
+            );
+
+            await driver.get(currentUrl);
+
+
+            const pageData =
+                await scrapeCurrentPage(driver);
+
+
+            allBooks.push(...pageData);
+
+
+            console.log(
+                `Books collected: ${allBooks.length}`
+            );
+
+
+            currentUrl =
+                await getNextPageUrl(driver);
+        }
         fs.writeFileSync(
             "books.json",
-            JSON.stringify(data, null, 2)
+            JSON.stringify(
+                allBooks,
+                null,
+                2
+            )
         );
 
-        console.log(`Scraped ${data.length} books`);
-        console.log("Data saved to books.json");
+
+        console.log(
+            `Finished. Total books: ${allBooks.length}`
+        );
 
     } finally {
 
@@ -82,4 +160,5 @@ async function scrapeProducts() {
     }
 }
 
-scrapeProducts();
+
+scrapeBooks();
