@@ -15,22 +15,38 @@ async function scrapeProducts() {
             By.css(".product_pod")
         );
 
-         console.log("Total books:", books.length);
+        console.log("Total books:", books.length);
 
-          for (const book of books)
-       {
-         const title = await book
-            .findElement(By.css("h3 a"))
-            .getText();
+        const data = [];
 
-        const price = await book
-            .findElement(By.css(".price_color"))
-            .getText();
+        for (const book of books) {
+            const title = await book
+                .findElement(By.css("h3 a"))
+                .getAttribute("title");
 
-            console.log({
-                title,price
-            });
-       }
+            const price = await book
+                .findElement(By.css(".price_color"))
+                .getText();
+
+            const url = await book
+                .findElement(By.css("h3 a"))
+                .getAttribute("href");
+
+               // Rating
+            const ratingElement = await book
+                .findElement(By.css(".star-rating"));
+
+            const ratingClass = await ratingElement
+                .getAttribute("class");
+
+            const rating = ratingClass
+                .split(" ")[1];    
+
+                data.push({
+                    title,price,url,rating
+                });
+            console.log(data);
+        }
     } finally {
 
         await driver.quit();
