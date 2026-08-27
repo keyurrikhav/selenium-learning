@@ -1,4 +1,5 @@
 const { Builder, By, until } = require("selenium-webdriver");
+const fs = require("fs");
 
 async function scrapeProducts() {
 
@@ -57,7 +58,7 @@ async function scrapeProducts() {
             const ratingClass = await ratingElement
                 .getAttribute("class");
 
-            const ratingWord  = ratingClass
+            const ratingWord = ratingClass
                 .split(" ")[1];
 
             const rating = ratingMap[ratingWord];
@@ -65,8 +66,16 @@ async function scrapeProducts() {
             data.push({
                 title, price, url, rating
             });
-            console.log(data);
+            // console.log(data);
         }
+        fs.writeFileSync(
+            "books.json",
+            JSON.stringify(data, null, 2)
+        );
+
+        console.log(`Scraped ${data.length} books`);
+        console.log("Data saved to books.json");
+
     } finally {
 
         await driver.quit();
