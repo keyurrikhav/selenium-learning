@@ -19,32 +19,52 @@ async function scrapeProducts() {
 
         const data = [];
 
-        for (const book of books) {
-            const title = await book
-                .findElement(By.css("h3 a"))
-                .getAttribute("title");
+        const ratingMap = {
+            One: 1,
+            Two: 2,
+            Three: 3,
+            Four: 4,
+            Five: 5
+        };
 
-            const price = await book
+        for (const book of books) {
+
+            const title = (await book
+                .findElement(By.css("h3 a"))
+                .getAttribute("title")).trim();
+
+            const priceText = await book
                 .findElement(By.css(".price_color"))
                 .getText();
 
-            const url = await book
+            const price = parseFloat(
+                priceText.replace("£", "").trim()
+            );
+
+            const rawUrl = await book
                 .findElement(By.css("h3 a"))
                 .getAttribute("href");
 
-               // Rating
+            const url = new URL(
+                rawUrl,
+                "https://books.toscrape.com/"
+            ).href;
+
+            // Rating
             const ratingElement = await book
                 .findElement(By.css(".star-rating"));
 
             const ratingClass = await ratingElement
                 .getAttribute("class");
 
-            const rating = ratingClass
-                .split(" ")[1];    
+            const ratingWord  = ratingClass
+                .split(" ")[1];
 
-                data.push({
-                    title,price,url,rating
-                });
+            const rating = ratingMap[ratingWord];
+
+            data.push({
+                title, price, url, rating
+            });
             console.log(data);
         }
     } finally {
