@@ -1,0 +1,284 @@
+[
+  {
+    "companyName": "Perspecta Ltd.",
+    "size": "10 - 49",
+    "location": "Sofia, Bulgaria",
+    "url": "https://perspecta-soft.com/"
+  },
+  {
+    "companyName": "Axmit",
+    "size": "10 - 49",
+    "location": "Tallinn, Estonia",
+    "url": "https://axmit.com/"
+  },
+  {
+    "companyName": "Intspirit",
+    "size": "10 - 49",
+    "location": "Yerevan, Armenia",
+    "url": "http://intspirit.com/"
+  },
+  {
+    "companyName": "Rudra Innovative Software",
+    "size": "50 - 249",
+    "location": "Mohali, India",
+    "url": "https://www.rudrainnovative.com/custom-software-development/"
+  },
+  {
+    "companyName": "Build Me App",
+    "size": "10 - 49",
+    "location": "Toronto, Canada",
+    "url": "https://buildmeapp.io/"
+  },
+  {
+    "companyName": "Sombra",
+    "size": "250 - 999",
+    "location": "Lviv, Ukraine",
+    "url": "https://sombrainc.com/"
+  },
+  {
+    "companyName": "12 Adaptive Marketing",
+    "size": "10 - 49",
+    "location": "Dallas, United States",
+    "url": "https://www.12amagency.com/"
+  },
+  {
+    "companyName": "Technobrains Business Solutions LLP",
+    "size": "50 - 249",
+    "location": "Ahmedabad, India",
+    "url": "https://technobrains.io/"
+  },
+  {
+    "companyName": "DevsData Tech Talent LLC",
+    "size": "50 - 249",
+    "location": "Warsaw, Poland",
+    "url": "https://devsdata.com/"
+  },
+  {
+    "companyName": "GenXAI SoftGrid Pvt. Ltd.",
+    "size": "50 - 249",
+    "location": "Indore, India",
+    "url": "https://www.softgridcomputers.com/"
+  },
+  {
+    "companyName": "Netro Systems Limited",
+    "size": "10 - 49",
+    "location": "Glasgow, United Kingdom",
+    "url": "https://netrosystems.com/"
+  },
+  {
+    "companyName": "Zco Corporation",
+    "size": "250 - 999",
+    "location": "Nashua, United States",
+    "url": "http://www.zco.com/"
+  },
+  {
+    "companyName": "Raindrops InfoTech",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "https://www.raindropsinfotech.com/"
+  },
+  {
+    "companyName": "Esferasoft Solutions Pvt. Ltd.",
+    "size": "50 - 249",
+    "location": "Mohali, India",
+    "url": "http://www.esferasoft.com/"
+  },
+  {
+    "companyName": "Idealogic",
+    "size": "50 - 249",
+    "location": "Tallinn, Estonia",
+    "url": "https://www.idealogic.io/"
+  },
+  {
+    "companyName": "White Label Fox",
+    "size": "10 - 49",
+    "location": "Rajkot, India",
+    "url": "https://whitelabelfox.com/"
+  },
+  {
+    "companyName": "Mantreza Technologies Private Limited",
+    "size": "50 - 249",
+    "location": "Noida, India",
+    "url": "http://www.mantreza.com/"
+  },
+  {
+    "companyName": "Dev Centre House",
+    "size": "50 - 249",
+    "location": "Dublin, Ireland",
+    "url": "https://www.devcentrehouse.eu/"
+  },
+  {
+    "companyName": "Softellar",
+    "size": "10 - 49",
+    "location": "Warsaw, Poland",
+    "url": "https://softellar.com/"
+  },
+  {
+    "companyName": "CMARIX",
+    "size": "50 - 249",
+    "location": "Ahmedabad, India",
+    "url": "https://www.cmarix.com/"
+  },
+  {
+    "companyName": "AdaptNXT Technology Solutions",
+    "size": "10 - 49",
+    "location": "Bengaluru, India",
+    "url": "https://adaptnxt.com/"
+  },
+  {
+    "companyName": "Dashbouquet Development",
+    "size": "50 - 249",
+    "location": "Tallinn, Estonia",
+    "url": "http://www.dashbouquet.com/"
+  },
+  {
+    "companyName": "CitrusLeaf Software",
+    "size": "10 - 49",
+    "location": "Indore, India",
+    "url": "https://citrusleaf.in/"
+  },
+  {
+    "companyName": "Xicom",
+    "size": "50 - 249",
+    "location": "Delhi, India",
+    "url": "http://www.xicom.biz/"
+  },
+  {
+    "companyName": "APPVALES",
+    "size": "10 - 49",
+    "location": "Kyiv, Ukraine",
+    "url": "https://appvales.com/"
+  },
+  {
+    "companyName": "Intermedia",
+    "size": "10 - 49",
+    "location": "Buenos Aires, Argentina",
+    "url": "http://intermediait.com/"
+  },
+  {
+    "companyName": "Erudite Works Private Limited",
+    "size": "10 - 49",
+    "location": "Navsari, India",
+    "url": "http://eruditeworks.com/"
+  },
+  {
+    "companyName": "UST",
+    "size": "50 - 249",
+    "location": "Kyiv, Ukraine",
+    "url": "https://www.ust.com/"
+  },
+  {
+    "companyName": "247 Labs",
+    "size": "50 - 249",
+    "location": "Toronto, Canada",
+    "url": "https://247labs.com/"
+  },
+  {
+    "companyName": "SumatoSoft",
+    "size": "50 - 249",
+    "location": "Boston, United States",
+    "url": "https://sumatosoft.com/"
+  },
+  {
+    "companyName": "Beetroot AB",
+    "size": "250 - 999",
+    "location": "Stockholm, Sweden",
+    "url": "https://beetroot.co/"
+  },
+  {
+    "companyName": "Softteam",
+    "size": "50 - 249",
+    "location": "Tallinn, Estonia",
+    "url": "https://softteam.io/"
+  },
+  {
+    "companyName": "Techwink Services",
+    "size": "10 - 49",
+    "location": "Chandigarh, India",
+    "url": "https://techwink.net/"
+  },
+  {
+    "companyName": "Peerbits",
+    "size": "50 - 249",
+    "location": "Ahmedabad, India",
+    "url": "http://www.peerbits.com/"
+  },
+  {
+    "companyName": "Sigma Software Group",
+    "size": "1,000 - 9,999",
+    "location": "Lviv, Ukraine",
+    "url": "http://sigma.software/"
+  },
+  {
+    "companyName": "Swap Infotech",
+    "size": "50 - 249",
+    "location": "Indore, India",
+    "url": "http://swapinfotech.com/"
+  },
+  {
+    "companyName": "Dot Com Infoway",
+    "size": "50 - 249",
+    "location": "Madurai, India",
+    "url": "https://www.dotcominfoway.com/internet-marketing/?utm_source=Goodfirms&utm_medium=Sponsorship&utm_campaign=DigitalMarketing"
+  },
+  {
+    "companyName": "Immence",
+    "size": "10 - 49",
+    "location": "Vadodara, India",
+    "url": "https://immence.com/"
+  },
+  {
+    "companyName": "Praxent",
+    "size": "50 - 249",
+    "location": "Austin, United States",
+    "url": "https://praxent.com/"
+  },
+  {
+    "companyName": "Aspire SoftServ Private Limited",
+    "size": "50 - 249",
+    "location": "Dover, United States",
+    "url": "https://www.aspiresoftserv.com/"
+  },
+  {
+    "companyName": "League Design Agency",
+    "size": "50 - 249",
+    "location": "Kyiv, Ukraine",
+    "url": "https://league.design/?utm_source=goodfirms.com&utm_medium=referral&utm_campaign=profile"
+  },
+  {
+    "companyName": "Cyfrania",
+    "size": "10 - 49",
+    "location": "Saint Petersburg, United States",
+    "url": "https://cyfrania.com/"
+  },
+  {
+    "companyName": "KVY TECH CO LTD",
+    "size": "10 - 49",
+    "location": "Ho Chi Minh City, Vietnam",
+    "url": "https://kvytechnology.com/"
+  },
+  {
+    "companyName": "Bit Guardian GmbH",
+    "size": "50 - 249",
+    "location": "Grafelfing, Germany",
+    "url": "https://www.bit-guardian.com/"
+  },
+  {
+    "companyName": "Tech FusionEra",
+    "size": "2 - 9",
+    "location": "Indore, India",
+    "url": "https://www.techfusionera.com/"
+  },
+  {
+    "companyName": "Funnel Boost Media",
+    "size": "10 - 49",
+    "location": "San Antonio, United States",
+    "url": "https://www.funnelboostmedia.net/goodfirms/?utm_source=goodfirms&utm_medium=referral&utm_campaign=profile"
+  },
+  {
+    "companyName": "Wolfpack Digital",
+    "size": "50 - 249",
+    "location": "Cluj-Napoca, Romania",
+    "url": "https://www.wolfpack-digital.com/?utm_source=goodfirms"
+  }
+]
