@@ -13,7 +13,7 @@ async function scrapeCurrentPage(driver) {
 
         // console.log("Website opened");
         const books = await driver.findElements(
-            By.css(".product_pod")
+            By.css(".product_pod" )
         );
 
         console.log("Total books:", books.length);
