@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "SDLC Corp",
+    "size": "250 - 999",
+    "location": "Batavia, United States",
+    "url": "https://sdlccorp.com/?utm_source=good-firms&utm_medium=listing&utm_campaign=software-development"
+  },
+  {
+    "companyName": "Instinctools",
+    "size": "250 - 999",
+    "location": "Potomac, United States",
+    "url": "https://www.instinctools.com/?utm_source=goodfirms.co&utm_medium=referral&utm_campaign=profile"
+  },
+  {
+    "companyName": "Empat",
+    "size": "50 - 249",
+    "location": "Miami, United States",
+    "url": "https://empat.tech/?utm_source=Goodfirms&utm_medium=referral"
+  },
+  {
+    "companyName": "Closeloop Technologies",
+    "size": "50 - 249",
+    "location": "Mountain View, United States",
+    "url": "https://closeloop.com/?utm_source=goodfirms&utm_medium=referral&utm_campaign=goodfirm-software-development"
+  },
+  {
+    "companyName": "Unico Connect",
+    "size": "50 - 249",
+    "location": "Mumbai, India",
+    "url": "https://unicoconnect.com/services/ai-development?utm_source=Goodfirms&utm_medium=referral"
+  },
+  {
+    "companyName": "JPLoft",
+    "size": "50 - 249",
+    "location": "Denver, United States",
+    "url": "https://www.jploft.com/software-development-services?utm_source=Goodfirms&utm_medium=referral"
+  },
+  {
+    "companyName": "OpenXcell",
+    "size": "250 - 999",
+    "location": "Las Vegas, United States",
+    "url": "https://www.openxcell.com/custom-software-development-company/?utm_source=Goodfirms&utm_medium=Referral&utm_campaign=goodfirms-software-development-companies"
+  },
+  {
+    "companyName": "Utility",
+    "size": "50 - 249",
+    "location": "NYC, United States",
+    "url": "https://utility.agency/?utm_source=gf&utm_medium=lst&utm_campaign=dev"
+  },
+  {
+    "companyName": "Tallium Inc.",
+    "size": "50 - 249",
+    "location": "Amsterdam, Netherlands",
+    "url": "https://tallium.com/en/services/development/?utm_source=Goodfirms&utm_medium=referral"
+  },
+  {
+    "companyName": "Persol Cross Technology Vietnam",
+    "size": "50 - 249",
+    "location": "Ho Chi Minh City, Vietnam",
+    "url": "https://www.persol-xtech.vn/?utm_source=goodfirms&utm_medium=referral&utm_campaign=goodfirms_profile&utm_content=software_development"
+  },
+  {
+    "companyName": "Chop Dawg",
+    "size": "50 - 249",
+    "location": "Smyrna, United States",
+    "url": "https://www.chopdawg.com/what-well-do-for-you/?utm_source=Goodfirms&utm_medium=referral"
+  },
+  {
+    "companyName": "ELEKS",
+    "size": "1,000 - 9,999",
+    "location": "Tallinn, Estonia",
+    "url": "https://eleks.com/?utm_source=Goodfirms&utm_medium=referral"
+  },
+  {
+    "companyName": "Saigon Technology",
+    "size": "250 - 999",
+    "location": "Reston, United States",
+    "url": "https://saigontechnology.com/services/software-development-outsourcing/?utm_source=Goodfirms&utm_medium=referral"
+  },
+  {
+    "companyName": "Sigli",
+    "size": "50 - 249",
+    "location": "Antwerpen, Belgium",
+    "url": "https://www.sigli.com/?utm_source=Goodfirms&utm_medium=referral"
+  },
+  {
+    "companyName": "Goji Labs",
+    "size": "10 - 49",
+    "location": "Los Angeles, United States",
+    "url": "https://gojilabs.com/lp/custom-web-app-development/?utm_source=goodfirms&utm_medium=referral&utm_campaign=software_development"
+  },
+  {
+    "companyName": "Lumitech",
+    "size": "50 - 249",
+    "location": "Dubai, UAE",
+    "url": "https://lumitech.co/services/web-development?utm_source=Goodfirms&utm_medium=referral"
+  },
+  {
+    "companyName": "Probey Services",
+    "size": "250 - 999",
+    "location": "London, United Kingdom",
+    "url": "https://probeyservices.com/?utm_source=Goodfirms&utm_medium=referral"
+  },
+  {
+    "companyName": "Diffco",
+    "size": "50 - 249",
+    "location": "San Jose, United States",
+    "url": "https://diffco.us/page/ai/?utm_source=goodfirms&utm_medium=ai&utm_campaign=software_development"
+  },
+  {
+    "companyName": "Geeks Ltd",
+    "size": "50 - 249",
+    "location": "London, United Kingdom",
+    "url": "https://www.geeks.ltd/services/software-development?utm_source=goodfirms&utm_medium=referral&utm_campaign=software-development"
+  },
+  {
+    "companyName": "Innovacio Technologies",
+    "size": "50 - 249",
+    "location": "Kolkata, India",
+    "url": "https://www.innovaciotech.com/artificialIntelligence?utm_source=Goodfirms&utm_medium=referral"
+  },
+  {
+    "companyName": "AppMakers USA",
+    "size": "10 - 49",
+    "location": "Los Angeles, United States",
+    "url": "https://appmakersla.com/contact-us/?utmsource=Goodfirms&utmmedium=referral"
+  },
+  {
+    "companyName": "SharpQuest, Inc.",
+    "size": "10 - 49",
+    "location": "Windsor, Canada",
+    "url": "https://www.sharpquest.com/software-development-company/?utm_source=Goodfirms&utm_medium=referral"
+  },
+  {
+    "companyName": "Promatics Technologies",
+    "size": "50 - 249",
+    "location": "Ludhiana, India",
+    "url": "https://www.promaticsindia.com/?utm_source=Goodfirms&utm_medium=referral"
+  },
+  {
+    "companyName": "Orient Software Development Corp.",
+    "size": "250 - 999",
+    "location": "Singapore, Singapore",
+    "url": "https://www.orientsoftware.com/?utm_source=Goodfirms&utm_medium=referral"
+  },
+  {
+    "companyName": "Zoolatech",
+    "size": "250 - 999",
+    "location": "Miami, United States",
+    "url": "https://zoolatech.com/?utm_source=Goodfirms&utm_medium=referral"
+  },
+  {
+    "companyName": "inVerita",
+    "size": "50 - 249",
+    "location": "Medellin, Colombia",
+    "url": "https://inveritasoft.com/industries/healthcare?utm_source=Goodfirms&utm_medium=referral"
+  },
+  {
+    "companyName": "SPD Technology",
+    "size": "250 - 999",
+    "location": "London, United Kingdom",
+    "url": "https://spd.tech/?utm_source=Goodfirms&utm_medium=referral"
+  },
+  {
+    "companyName": "Future Processing",
+    "size": "250 - 999",
+    "location": "Gliwice, Poland",
+    "url": "https://www.future-processing.com/services/software-development-services/software-development/?utm_source=goodfirms.co&utm_medium=referral&utm_campaign=pro_campaign"
+  },
+  {
+    "companyName": "Ajackus",
+    "size": "50 - 249",
+    "location": "Mumbai, India",
+    "url": "https://www.ajackus.com/?utm_source=Goodfirms&utm_medium=referral&utm_campaign=directory"
+  },
+  {
+    "companyName": "Itransition",
+    "size": "250 - 999",
+    "location": "Lakewood, United States",
+    "url": "https://www.itransition.com/?utm_source=goodfirms.co&utm_medium=referral&utm_campaign=software-development-companies"
+  },
+  {
+    "companyName": "Leobit",
+    "size": "50 - 249",
+    "location": "Lviv, Ukraine",
+    "url": "https://leobit.com/?utm_source=goodfirms&utm_campaign=gf-sofware-dev"
+  },
+  {
+    "companyName": "i-hiddentalent",
+    "size": "10 - 49",
+    "location": "Sheridan, United States",
+    "url": "https://i-hiddentalent.com/?utm_source=Goodfirms&utm_medium=referral"
+  },
+  {
+    "companyName": "Innostax",
+    "size": "50 - 249",
+    "location": "Framingham, United States",
+    "url": "https://innostax.com/service/custom-software-development-services/?utm_source=Goodfirms&utm_medium=referral"
+  },
+  {
+    "companyName": "Sketch Development Services",
+    "size": "10 - 49",
+    "location": "Webster Groves, United States",
+    "url": "https://www.sketchdev.io/?utm_source=Goodfirms&utm_medium=referral"
+  },
+  {
+    "companyName": "Parallel Staff",
+    "size": "50 - 249",
+    "location": "Dallas, United States",
+    "url": "https://parallelstaff.com/?utm_source=Goodfirms&utm_medium=referral"
+  },
+  {
+    "companyName": "TRIARE",
+    "size": "50 - 249",
+    "location": "Fairfax, United States",
+    "url": "https://triare.net/?utm_source=Goodfirms&utm_medium=referral"
+  },
+  {
+    "companyName": "Warp Development",
+    "size": "50 - 249",
+    "location": "Cape Town, South Africa",
+    "url": "https://www.warpdevelopment.com/?utm_source=Goodfirms&utm_medium=referral"
+  },
+  {
+    "companyName": "Offshorly Ltd",
+    "size": "50 - 249",
+    "location": "Peterborough, United Kingdom",
+    "url": "https://offshorly.com/goodfirms?utm_source=Goodfirms&utm_medium=referral"
+  },
+  {
+    "companyName": "SimplyPHP",
+    "size": "10 - 49",
+    "location": "Montreal, Canada",
+    "url": "https://simplyphp.com/?utm_source=Goodfirms&utm_medium=referral"
+  },
+  {
+    "companyName": "Scalo",
+    "size": "250 - 999",
+    "location": "Wroclaw, Poland",
+    "url": "https://www.scalosoft.com/?utm_source=Goodfirms&utm_medium=referral"
+  },
+  {
+    "companyName": "imaga",
+    "size": "10 - 49",
+    "location": "Dubai, UAE",
+    "url": "https://imaga.ai/?utm_source=goodfirms.co&utm_medium=referral&utm_campaign=soft-dev"
+  },
+  {
+    "companyName": "Findigo",
+    "size": "10 - 49",
+    "location": "London, United Kingdom",
+    "url": "https://www.findigo.io/services/mvp?utm_source=Goodfirms&utm_medium=referral"
+  },
+  {
+    "companyName": "Gearheart",
+    "size": "10 - 49",
+    "location": "Kyiv, Ukraine",
+    "url": "https://gearheart.io/?utm_source=Goodfirms&utm_medium=referral"
+  },
+  {
+    "companyName": "DreamzTech Solutions Inc.",
+    "size": "50 - 249",
+    "location": "Las Vegas, United States",
+    "url": "https://www.dreamztech.com/services/custom-software-development/?utm_source=Goodfirms&utm_medium=referral"
+  },
+  {
+    "companyName": "UpCodo Digital",
+    "size": "10 - 49",
+    "location": "Noida, India",
+    "url": "https://upcodo.com/?utm_source=Goodfirms&utm_medium=referral"
+  },
+  {
+    "companyName": "Zerone Consulting",
+    "size": "50 - 249",
+    "location": "Kochi, India",
+    "url": "http://www.zerone-consulting.com/?utm_source=Goodfirms&utm_medium=referral"
+  },
+  {
+    "companyName": "Chudovo",
+    "size": "50 - 249",
+    "location": "NYC, United States",
+    "url": "https://chudovo.com/custom-software-development/?utm_source=Goodfirms&utm_medium=referral"
+  },
+  {
+    "companyName": "Sidebench",
+    "size": "50 - 249",
+    "location": "Los Angeles, United States",
+    "url": "http://sidebench.com/?utm_source=Goodfirms&utm_medium=referral"
+  }
+]
