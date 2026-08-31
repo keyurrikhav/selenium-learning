@@ -1,0 +1,284 @@
+[
+  {
+    "companyName": "Zrix",
+    "size": "50 - 249",
+    "location": "Raleigh, United States",
+    "url": "https://www.zrix.com/"
+  },
+  {
+    "companyName": "Micropyramid Informatics Pvt Ltd",
+    "size": "10 - 49",
+    "location": "Hyderabad, India",
+    "url": "https://micropyramid.com/"
+  },
+  {
+    "companyName": "Koombea",
+    "size": "50 - 249",
+    "location": "Chicago, United States",
+    "url": "https://www.koombea.com/"
+  },
+  {
+    "companyName": "QAsolved",
+    "size": "50 - 249",
+    "location": "Brooklyn, United States",
+    "url": "https://qasolved.com/services/quickbooks-support/"
+  },
+  {
+    "companyName": "Softura",
+    "size": "250 - 999",
+    "location": "Chennai, India",
+    "url": "https://www.softura.com/"
+  },
+  {
+    "companyName": "CloudWapp Technologies Pvt. Ltd.",
+    "size": "10 - 49",
+    "location": "Indore, India",
+    "url": "http://cloudwapp.com/"
+  },
+  {
+    "companyName": "Keshav Technosys",
+    "size": "2 - 9",
+    "location": "Ajmer, India",
+    "url": "https://keshavtechnosys.com/"
+  },
+  {
+    "companyName": "Variablesoft",
+    "size": "50 - 249",
+    "location": "Jaipur, India",
+    "url": "https://variablesoft.com/"
+  },
+  {
+    "companyName": "HebronSoft",
+    "size": "50 - 249",
+    "location": "Lviv, Ukraine",
+    "url": "https://hebronsoft.com/"
+  },
+  {
+    "companyName": "Workspace InfoTech Australia PTY Limited",
+    "size": "50 - 249",
+    "location": "Dhaka, Bangladesh",
+    "url": "http://www.workspaceit.com.au/"
+  },
+  {
+    "companyName": "Unilead Software Solution Pvt.Ltd.",
+    "size": "10 - 49",
+    "location": "Hoshiarpur, India",
+    "url": "http://www.unilead.in/"
+  },
+  {
+    "companyName": "abz agency",
+    "size": "10 - 49",
+    "location": "Kyiv, Ukraine",
+    "url": "https://abz.agency/"
+  },
+  {
+    "companyName": "Ever Technologies",
+    "size": "10 - 49",
+    "location": "Sofia, Bulgaria",
+    "url": "https://ever.tech/"
+  },
+  {
+    "companyName": "Boston SoftDesign",
+    "size": "250 - 999",
+    "location": "Newton, United States",
+    "url": "https://bostonsd.com/"
+  },
+  {
+    "companyName": "EDIIIE",
+    "size": "50 - 249",
+    "location": "Gurgaon, India",
+    "url": "https://www.ediiie.com/"
+  },
+  {
+    "companyName": "Smartexe",
+    "size": "50 - 249",
+    "location": "Tel Aviv, Israel",
+    "url": "https://www.smartexe.com/"
+  },
+  {
+    "companyName": "Techverx",
+    "size": "50 - 249",
+    "location": "Plano, United States",
+    "url": "https://www.techverx.com/"
+  },
+  {
+    "companyName": "SprintX",
+    "size": "10 - 49",
+    "location": "Lahore, Pakistan",
+    "url": "https://sprintx.net/"
+  },
+  {
+    "companyName": "Kodexo Labs",
+    "size": "10 - 49",
+    "location": "Austin, United States",
+    "url": "https://kodexolabs.com/"
+  },
+  {
+    "companyName": "LSK Software Consulting",
+    "size": "2 - 9",
+    "location": "Tunis, Tunisia",
+    "url": "https://lsksoft.com/"
+  },
+  {
+    "companyName": "Lobotus Technology Pvt Ltd",
+    "size": "50 - 249",
+    "location": "Bengaluru, India",
+    "url": "http://www.lobotus.com/"
+  },
+  {
+    "companyName": "iPOP Solution",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "https://www.ipopsolution.com/"
+  },
+  {
+    "companyName": "Cognic Systems Pvt LTD",
+    "size": "50 - 249",
+    "location": "Cedar Park, United States",
+    "url": "https://cognicsys.com/"
+  },
+  {
+    "companyName": "V2Soft Pvt Ltd",
+    "size": "250 - 999",
+    "location": "Bengaluru, India",
+    "url": "https://www.v2soft.com/"
+  },
+  {
+    "companyName": "Devsinc",
+    "size": "10000+",
+    "location": "Lahore, Pakistan",
+    "url": "https://devsinc.com/"
+  },
+  {
+    "companyName": "Emvigo Technologies",
+    "size": "10 - 49",
+    "location": "London, United Kingdom",
+    "url": "https://emvigotech.com/"
+  },
+  {
+    "companyName": "Brihat Infotech Private Limited",
+    "size": "10 - 49",
+    "location": "Ranchi, India",
+    "url": "https://brihatinfotech.com/"
+  },
+  {
+    "companyName": "Infylo Techsolutions Ltd",
+    "size": "10 - 49",
+    "location": "Faridabad, India",
+    "url": "https://infylo.com/"
+  },
+  {
+    "companyName": "TechMaximize",
+    "size": "2 - 9",
+    "location": "Delhi, India",
+    "url": "https://www.techmaximize.com/"
+  },
+  {
+    "companyName": "Codexoro Technologies LLP",
+    "size": "2 - 9",
+    "location": "Kochi, India",
+    "url": "https://codexoro.com/"
+  },
+  {
+    "companyName": "MobileXapps",
+    "size": "10 - 49",
+    "location": "Vilnius, Lithuania",
+    "url": "https://mobilexapps.com/"
+  },
+  {
+    "companyName": "Solushyfy",
+    "size": "10 - 49",
+    "location": "Abbottabad, Pakistan",
+    "url": "https://www.solushyfy.com/"
+  },
+  {
+    "companyName": "Prettify Creative",
+    "size": "10 - 49",
+    "location": "Gurgaon, India",
+    "url": "https://www.prettifycreative.com/"
+  },
+  {
+    "companyName": "VelonixFuture Technologies LLP",
+    "size": "2 - 9",
+    "location": "Kochi, India",
+    "url": "https://velonixtechnologies.com/"
+  },
+  {
+    "companyName": "Algorithmic",
+    "size": "2 - 9",
+    "location": "London, United Kingdom",
+    "url": "https://www.algorithmic.co/"
+  },
+  {
+    "companyName": "Salmore Technology",
+    "size": "50 - 249",
+    "location": "Richmond, United States",
+    "url": "https://www.salmoretechnology.com/"
+  },
+  {
+    "companyName": "Techtaru Digital",
+    "size": "10 - 49",
+    "location": "Jaipur, India",
+    "url": "https://techtaru.com/"
+  },
+  {
+    "companyName": "Mirimera",
+    "size": "10 - 49",
+    "location": "Bangkok, Thailand",
+    "url": "https://mirimera.com/"
+  },
+  {
+    "companyName": "Arktik",
+    "size": "10 - 49",
+    "location": "Lviv, Ukraine",
+    "url": "https://www.arktik.tech/"
+  },
+  {
+    "companyName": "ALET India",
+    "size": "10 - 49",
+    "location": "Delhi, India",
+    "url": "https://www.aletindia.com/"
+  },
+  {
+    "companyName": "Wrexim Infotech",
+    "size": "10 - 49",
+    "location": "Indore, India",
+    "url": "http://wreximinfotech.com/"
+  },
+  {
+    "companyName": "Neebal Technologies",
+    "size": "50 - 249",
+    "location": "Fremont, United States",
+    "url": "https://www.neebal.com/"
+  },
+  {
+    "companyName": "Erbis",
+    "size": "50 - 249",
+    "location": "San Francisco, United States",
+    "url": "https://www.erbis.com/"
+  },
+  {
+    "companyName": "Serviots",
+    "size": "10 - 49",
+    "location": "Al Qusais, UAE",
+    "url": "https://serviots.com/"
+  },
+  {
+    "companyName": "Whitecap Canada",
+    "size": "10 - 49",
+    "location": "Toronto, Canada",
+    "url": "https://www.whitecapcanada.com/"
+  },
+  {
+    "companyName": "Uruit",
+    "size": "50 - 249",
+    "location": "Montevideo, Uruguay",
+    "url": "https://www.uruit.com/"
+  },
+  {
+    "companyName": "TOPS Technologies",
+    "size": "50 - 249",
+    "location": "Mountain View, United States",
+    "url": "http://www.tops-int.com/outsourcing/"
+  }
+]

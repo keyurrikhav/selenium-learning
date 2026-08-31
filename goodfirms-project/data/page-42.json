@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "InData Labs",
+    "size": "50 - 249",
+    "location": "Nicosia, Cyprus",
+    "url": "https://indatalabs.com/"
+  },
+  {
+    "companyName": "Xedious Solutions",
+    "size": "10 - 49",
+    "location": "Richardson, United States",
+    "url": "https://xedious.com/"
+  },
+  {
+    "companyName": "Smart IT Concepts",
+    "size": "10 - 49",
+    "location": "Palo Alto, United States",
+    "url": "https://www.smartitconcepts.com/"
+  },
+  {
+    "companyName": "Yburis Infotech",
+    "size": "10 - 49",
+    "location": "NYC, United States",
+    "url": "https://yburis.com/"
+  },
+  {
+    "companyName": "PinnacleWorks Infotech Pvt Ltd",
+    "size": "10 - 49",
+    "location": "Gurgaon, India",
+    "url": "https://pinnacle.works/"
+  },
+  {
+    "companyName": "Kaizen Softworks",
+    "size": "50 - 249",
+    "location": "Montevideo, Uruguay",
+    "url": "https://kzsoftworks.com/"
+  },
+  {
+    "companyName": "Evista",
+    "size": "10 - 49",
+    "location": "Szeged, Hungary",
+    "url": "http://evista-agency.com/"
+  },
+  {
+    "companyName": "CMTech Pty Ltd",
+    "size": "10 - 49",
+    "location": "Brisbane, Australia",
+    "url": "https://www.cmtech.com.au/"
+  },
+  {
+    "companyName": "Meevo Digital",
+    "size": "2 - 9",
+    "location": "Toronto, Canada",
+    "url": "https://meevo.ca/"
+  },
+  {
+    "companyName": "Murano Software",
+    "size": "250 - 999",
+    "location": "Westlake Village, United States",
+    "url": "https://www.muranosoft.com/"
+  },
+  {
+    "companyName": "Tarika Group",
+    "size": "10 - 49",
+    "location": "Marriottsville, United States",
+    "url": "https://tarikagroup.com/"
+  },
+  {
+    "companyName": "Zobi Web Solutions Private Limited",
+    "size": "50 - 249",
+    "location": "Ahmedabad, India",
+    "url": "https://www.zobiwebsolutions.com/#"
+  },
+  {
+    "companyName": "Way2Smile Solutions Pvt Ltd",
+    "size": "10 - 49",
+    "location": "Chennai, India",
+    "url": "https://www.way2smile.com/"
+  },
+  {
+    "companyName": "Acuity Infotech",
+    "size": "2 - 9",
+    "location": "Dubai, UAE",
+    "url": "https://www.acuity.ae/"
+  },
+  {
+    "companyName": "Arrk Group",
+    "size": "50 - 249",
+    "location": "Manchester, United Kingdom",
+    "url": "https://www.arrkgroup.com/"
+  },
+  {
+    "companyName": "Drish Infotech Ltd",
+    "size": "50 - 249",
+    "location": "Chandigarh, India",
+    "url": "https://www.drishinfo.com/"
+  },
+  {
+    "companyName": "DotTrend, Inc.",
+    "size": "2 - 9",
+    "location": "Louisville, United States",
+    "url": "http://www.dottrend.com/"
+  },
+  {
+    "companyName": "Winning Solutions",
+    "size": "2 - 9",
+    "location": "Koblenz, Germany",
+    "url": "https://www.winning-solutions.de/"
+  },
+  {
+    "companyName": "Net Infinity",
+    "size": "2 - 9",
+    "location": "Mumbai, India",
+    "url": "http://www.netinfinity.co.in/"
+  },
+  {
+    "companyName": "BatsHub",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "https://www.batshub.com/"
+  },
+  {
+    "companyName": "Commercial Technologies Plus",
+    "size": "10 - 49",
+    "location": "Colombo, Sri Lanka",
+    "url": "https://commercialtp.com/"
+  },
+  {
+    "companyName": "Enable Startup Co., LTD",
+    "size": "10 - 49",
+    "location": "Da Nang, Vietnam",
+    "url": "https://enablestartup.com/"
+  },
+  {
+    "companyName": "April9 Digital Consulting",
+    "size": "10 - 49",
+    "location": "Brisbane, Australia",
+    "url": "https://www.april9.com.au/"
+  },
+  {
+    "companyName": "TMS Outsource",
+    "size": "10 - 49",
+    "location": "Belgrade, Serbia",
+    "url": "https://tms-outsource.com/"
+  },
+  {
+    "companyName": "GTCSYS",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "https://gtcsys.com/"
+  },
+  {
+    "companyName": "MileStep",
+    "size": "10 - 49",
+    "location": "Dover, United States",
+    "url": "https://milestep.io/"
+  },
+  {
+    "companyName": "InnoTech Solution",
+    "size": "10 - 49",
+    "location": "Karachi, Pakistan",
+    "url": "https://www.innotechsol.co/"
+  },
+  {
+    "companyName": "Tech To U Inc.",
+    "size": "10 - 49",
+    "location": "Calgary, Canada",
+    "url": "https://techtou.com/"
+  },
+  {
+    "companyName": "Thinkitive Technologies Pvt. Ltd.",
+    "size": "250 - 999",
+    "location": "Pune, India",
+    "url": "https://thinkitive.com/"
+  },
+  {
+    "companyName": "Zeeweesoft LLP",
+    "size": "10 - 49",
+    "location": "Indore, India",
+    "url": "https://www.zeeweesoft.com/"
+  },
+  {
+    "companyName": "Highland",
+    "size": "10 - 49",
+    "location": "Chicago, United States",
+    "url": "https://highlandsolutions.com/"
+  },
+  {
+    "companyName": "pixelByte",
+    "size": "10 - 49",
+    "location": "El Paso, United States",
+    "url": "https://pixelbytellc.com/"
+  },
+  {
+    "companyName": "Collonmade Company",
+    "size": "50 - 249",
+    "location": "Vadodara, India",
+    "url": "https://www.collonmade.com/"
+  },
+  {
+    "companyName": "Scalex Technology Solutions",
+    "size": "10 - 49",
+    "location": "Pune, India",
+    "url": "https://scalextech.com/"
+  },
+  {
+    "companyName": "Elysian Intelligence Business Solutions",
+    "size": "50 - 249",
+    "location": "Madurai, India",
+    "url": "https://eibsglobal.com/"
+  },
+  {
+    "companyName": "NJS Web Publishing Systems Pvt.Ltd",
+    "size": "50 - 249",
+    "location": "Hyderabad, India",
+    "url": "https://wpslab.in/"
+  },
+  {
+    "companyName": "TekHqs",
+    "size": "50 - 249",
+    "location": "Richmond, United States",
+    "url": "https://tekhqs.com/"
+  },
+  {
+    "companyName": "Thinksoft",
+    "size": "10 - 49",
+    "location": "Kyiv, Ukraine",
+    "url": "https://thinksoft.net/"
+  },
+  {
+    "companyName": "Nile Bits, LLC.",
+    "size": "10 - 49",
+    "location": "Al Omraneyah, Egypt",
+    "url": "https://www.nilebits.com/"
+  },
+  {
+    "companyName": "Tango",
+    "size": "10 - 49",
+    "location": "Krakow, Poland",
+    "url": "https://tango.agency/"
+  },
+  {
+    "companyName": "Osahan Inc",
+    "size": "2 - 9",
+    "location": "Ludhiana, India",
+    "url": "https://www.osahaninc.com/"
+  },
+  {
+    "companyName": "PlatOps Security",
+    "size": "10 - 49",
+    "location": "Bethesda, United States",
+    "url": "https://www.platops.com/"
+  },
+  {
+    "companyName": "Gulf State Software LLC",
+    "size": "10 - 49",
+    "location": "Houston, United States",
+    "url": "https://www.gulfstatesoftware.com/"
+  },
+  {
+    "companyName": "REX Technologies",
+    "size": "10 - 49",
+    "location": "Lahore, Pakistan",
+    "url": "https://www.rextech.pk/"
+  },
+  {
+    "companyName": "Sankey Solutions",
+    "size": "50 - 249",
+    "location": "Mumbai, India",
+    "url": "https://sankeysolutions.com/"
+  },
+  {
+    "companyName": "Edhaas Digisoft Pvt. Ltd.",
+    "size": "2 - 9",
+    "location": "Pune, India",
+    "url": "https://www.edhaasdigisoft.com/"
+  },
+  {
+    "companyName": "Expert Code Lab",
+    "size": "10 - 49",
+    "location": "Noida, India",
+    "url": "http://www.expertcodelab.com/"
+  },
+  {
+    "companyName": "Askgalore Digital",
+    "size": "10 - 49",
+    "location": "Bhopal, India",
+    "url": "https://askgalore.com/"
+  }
+]
