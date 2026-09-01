@@ -12,6 +12,7 @@
   "type": "module",
   "dependencies": {
     "puppeteer": "^25.9.0",
+    "puppeteer-cluster": "^0.25.0",
     "puppeteer-extra": "^3.3.6",
     "puppeteer-extra-plugin-stealth": "^2.11.2",
     "selenium-webdriver": "^4.46.0"
