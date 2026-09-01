@@ -20,7 +20,7 @@ function escapeCSV(value) {
 
     const text = String(value ?? "");
 
-    if (
+    if  ( 
         text.includes(",") ||
         text.includes('"') ||
         text.includes("\n")
