@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "Pro Serve IT",
+    "size": "50 - 249",
+    "location": "Mississauga, United States",
+    "url": "https://www.proserveit.com/"
+  },
+  {
+    "companyName": "Bamboo Group",
+    "size": "50 - 249",
+    "location": "Tallinn, Estonia",
+    "url": "https://bamboogroup.eu/"
+  },
+  {
+    "companyName": "Logility",
+    "size": "50 - 249",
+    "location": "Irving, United States",
+    "url": "https://www.logility.com/"
+  },
+  {
+    "companyName": "Topo Solutions",
+    "size": "2 - 9",
+    "location": "Hong Kong, China",
+    "url": "https://topo.cc/"
+  },
+  {
+    "companyName": "Aralco",
+    "size": "10 - 49",
+    "location": "Vancouver, Canada",
+    "url": "https://aralco.com/"
+  },
+  {
+    "companyName": "Value Chain",
+    "size": "10 - 49",
+    "location": "Bengaluru, India",
+    "url": "https://valuechain.com/"
+  },
+  {
+    "companyName": "Sparta Systems",
+    "size": "50 - 249",
+    "location": "Jersey City, United States",
+    "url": "https://www.spartasystems.com/"
+  },
+  {
+    "companyName": "Axon",
+    "size": "50 - 249",
+    "location": "",
+    "url": "https://www.axon.dev/"
+  },
+  {
+    "companyName": "Optricity",
+    "size": "10 - 49",
+    "location": "North Carolina, United States",
+    "url": "https://optricity.com/"
+  },
+  {
+    "companyName": "Turvo",
+    "size": "50 - 249",
+    "location": "San Mateo, United States",
+    "url": "https://turvo.com/"
+  },
+  {
+    "companyName": "Navex Global",
+    "size": "1,000 - 9,999",
+    "location": "London, United Kingdom",
+    "url": "https://www.navexglobal.com/"
+  },
+  {
+    "companyName": "Softeon",
+    "size": "250 - 999",
+    "location": "Dortmund, Germany",
+    "url": "https://www.softeon.com/"
+  },
+  {
+    "companyName": "OMP",
+    "size": "250 - 999",
+    "location": "Atlanta, United States",
+    "url": "https://omp.com/"
+  },
+  {
+    "companyName": "NGC",
+    "size": "50 - 249",
+    "location": "NYC, United States",
+    "url": "https://www.ngcsoftware.com/"
+  },
+  {
+    "companyName": "Rasp",
+    "size": "50 - 249",
+    "location": "Sydney, Australia",
+    "url": "https://rasp.com.au/"
+  },
+  {
+    "companyName": "Blute Technologies",
+    "size": "2 - 9",
+    "location": "Scottsdale, United States",
+    "url": "http://www.blute.co.in/"
+  },
+  {
+    "companyName": "IT-Development",
+    "size": "50 - 249",
+    "location": "Lyon, France",
+    "url": "http://www.it-development.com"
+  },
+  {
+    "companyName": "Icreon",
+    "size": "250 - 999",
+    "location": "Noida, India",
+    "url": "http://www.icreon.com"
+  },
+  {
+    "companyName": "Speedflow",
+    "size": "50 - 249",
+    "location": "London, United Kingdom",
+    "url": "http://www.speedflow.com"
+  },
+  {
+    "companyName": "Beesion",
+    "size": "50 - 249",
+    "location": "Fort Lauderdale, United States",
+    "url": "http://www.beesion.com"
+  },
+  {
+    "companyName": "PortaOne",
+    "size": "250 - 999",
+    "location": "Port Coquitlam, Canada",
+    "url": "http://www.portaone.com"
+  },
+  {
+    "companyName": "Twinkle",
+    "size": "2 - 9",
+    "location": "Chennai, India",
+    "url": "http://www.twinkletech.com/"
+  },
+  {
+    "companyName": "bluCursor Infotech Pvt Ltd",
+    "size": "10 - 49",
+    "location": "Indore, India",
+    "url": "https://www.blucursor.com/"
+  },
+  {
+    "companyName": "Arkieva",
+    "size": "50 - 249",
+    "location": "Mangalore, India",
+    "url": "https://arkieva.com/"
+  },
+  {
+    "companyName": "Aptean",
+    "size": "10 - 49",
+    "location": "Indianapolis, United States",
+    "url": "https://www.aptean.com/"
+  },
+  {
+    "companyName": "Opto Software",
+    "size": "10 - 49",
+    "location": "Cleveland, Australia",
+    "url": "http://optosoftware.com.au/"
+  },
+  {
+    "companyName": "Wasp",
+    "size": "2 - 9",
+    "location": "Plano, United States",
+    "url": "https://www.waspbarcode.com/"
+  },
+  {
+    "companyName": "Quinta",
+    "size": "2 - 9",
+    "location": "Bengaluru, India",
+    "url": "https://www.quinta.co.in/"
+  },
+  {
+    "companyName": "Robocom",
+    "size": "10 - 49",
+    "location": "Markham, Canada",
+    "url": "http://www.robocom.com/"
+  },
+  {
+    "companyName": "CBX Software",
+    "size": "250 - 999",
+    "location": "Jersey City, United States",
+    "url": "https://www.cbxsoftware.com/"
+  },
+  {
+    "companyName": "SCM Software",
+    "size": "2 - 9",
+    "location": "Guntur, India",
+    "url": "http://www.scmsoftwarelab.com/"
+  },
+  {
+    "companyName": "Locus",
+    "size": "50 - 249",
+    "location": "Bengaluru, India",
+    "url": "https://locus.sh/"
+  },
+  {
+    "companyName": "Aurion Pro",
+    "size": "1,000 - 9,999",
+    "location": "Melbourne, Australia",
+    "url": "https://www.aurionpro.com/"
+  },
+  {
+    "companyName": "Enablon",
+    "size": "250 - 999",
+    "location": "Chicago, United States",
+    "url": "https://enablon.com/"
+  },
+  {
+    "companyName": "Evavi",
+    "size": "10 - 49",
+    "location": "Dallas, United States",
+    "url": "http://www.evavi.com/"
+  },
+  {
+    "companyName": "NorthSpyre",
+    "size": "10 - 49",
+    "location": "Brooklyn, United States",
+    "url": "https://www.northspyre.com/"
+  },
+  {
+    "companyName": "SOFT4",
+    "size": "50 - 249",
+    "location": "Kaunas, Lithuania",
+    "url": "https://soft4realestate.com/"
+  },
+  {
+    "companyName": "Xchanging",
+    "size": "10 - 49",
+    "location": "Melbourne, Australia",
+    "url": "http://www.xchanging.com/i"
+  },
+  {
+    "companyName": "HANECS",
+    "size": "10 - 49",
+    "location": "Eschborn, Germany",
+    "url": "https://www.hanecs.de/"
+  },
+  {
+    "companyName": "Mobica",
+    "size": "1,000 - 9,999",
+    "location": "Wilmslow, United Kingdom",
+    "url": "https://mobica.com/"
+  },
+  {
+    "companyName": "Cerillion Technologies",
+    "size": "50 - 249",
+    "location": "Pune, India",
+    "url": "http://www.cerillion.com/"
+  },
+  {
+    "companyName": "Intracom Telecom",
+    "size": "1,000 - 9,999",
+    "location": "Athens, Greece",
+    "url": "http://www.intracom-telecom.com"
+  },
+  {
+    "companyName": "REVE Systems",
+    "size": "250 - 999",
+    "location": "Singapore, Singapore",
+    "url": "https://www.revesoft.com/"
+  },
+  {
+    "companyName": "VCC Live",
+    "size": "50 - 249",
+    "location": "Budapest, Hungary",
+    "url": "http://vcc.live"
+  },
+  {
+    "companyName": "KDG",
+    "size": "10 - 49",
+    "location": "Allentown, United States",
+    "url": "https://kyledavidgroup.com/"
+  },
+  {
+    "companyName": "Ecolane",
+    "size": "50 - 249",
+    "location": "Wayne, United States",
+    "url": "http://www.ecolane.com"
+  },
+  {
+    "companyName": "Software Window",
+    "size": "250 - 999",
+    "location": "Udaipur, India",
+    "url": "https://www.softwareswindow.com/"
+  },
+  {
+    "companyName": "Hospitality Software Development Services",
+    "size": "2 - 9",
+    "location": "Berlin, Germany",
+    "url": "http://www.hsdsuk.com"
+  }
+]

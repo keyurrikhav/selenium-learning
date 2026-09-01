@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "Latitude 40 Consulting",
+    "size": "10 - 49",
+    "location": "Broomfield, United States",
+    "url": "https://www.latitude40.com/"
+  },
+  {
+    "companyName": "Leiten LLC",
+    "size": "2 - 9",
+    "location": "Topeka, United States",
+    "url": "https://leiten.io"
+  },
+  {
+    "companyName": "CompuBrain",
+    "size": "50 - 249",
+    "location": "Ahmedabad, India",
+    "url": "https://compubrain.com/"
+  },
+  {
+    "companyName": "DCXworks Private Limited",
+    "size": "10 - 49",
+    "location": "Chennai, India",
+    "url": "https://dcxworks.com/"
+  },
+  {
+    "companyName": "Evigway",
+    "size": "10 - 49",
+    "location": "Dehradun, India",
+    "url": "https://www.evigway.com/"
+  },
+  {
+    "companyName": "Vidagdhan Technologies Private Limited",
+    "size": "2 - 9",
+    "location": "Bhopal, India",
+    "url": "https://vidagdhan.com"
+  },
+  {
+    "companyName": "Starack Viet Nam",
+    "size": "50 - 249",
+    "location": "Ho Chi Minh City, Vietnam",
+    "url": "https://starack.net/"
+  },
+  {
+    "companyName": "Web2Byte",
+    "size": "10 - 49",
+    "location": "Delhi, India",
+    "url": "https://web2byte.com/"
+  },
+  {
+    "companyName": "Scalevista",
+    "size": "10 - 49",
+    "location": "Pune, India",
+    "url": "https://scalevista.com/"
+  },
+  {
+    "companyName": "aenfinite",
+    "size": "2 - 9",
+    "location": "Denver, United States",
+    "url": "https://aenfinite.com"
+  },
+  {
+    "companyName": "Convertec",
+    "size": "2 - 9",
+    "location": "NYC, United States",
+    "url": "https://convertec.ai/"
+  },
+  {
+    "companyName": "Global Cyber Security",
+    "size": "2 - 9",
+    "location": "Bhiwadi, India",
+    "url": "https://globalcybersecurity.in"
+  },
+  {
+    "companyName": "GoGeekz Inc",
+    "size": "2 - 9",
+    "location": "Brampton, Canada",
+    "url": "https://gogeekz.com"
+  },
+  {
+    "companyName": "Harbinger Group",
+    "size": "250 - 999",
+    "location": "Pune, India",
+    "url": "https://www.harbingergroup.com/"
+  },
+  {
+    "companyName": "Webxpanse",
+    "size": "2 - 9",
+    "location": "Dharmapuri, India",
+    "url": "https://webxpanse.in/"
+  },
+  {
+    "companyName": "Elixir Technologies Pvt Ltd",
+    "size": "50 - 249",
+    "location": "Udaipur, India",
+    "url": "https://www.elixirinfo.com/"
+  },
+  {
+    "companyName": "KanhaSoft",
+    "size": "50 - 249",
+    "location": "Ahmedabad, India",
+    "url": "https://kanhasoft.com/"
+  },
+  {
+    "companyName": "Capitalize Digital",
+    "size": "2 - 9",
+    "location": "Cape Town, South Africa",
+    "url": "https://www.capitalize.co.za/"
+  },
+  {
+    "companyName": "Techayal",
+    "size": "2 - 9",
+    "location": "Lahore, Pakistan",
+    "url": "https://techayal.com/"
+  },
+  {
+    "companyName": "Zironsoft",
+    "size": "2 - 9",
+    "location": "Ankara, Turkey",
+    "url": "https://www.zironsoft.com.tr/"
+  },
+  {
+    "companyName": "Galekt",
+    "size": "2 - 9",
+    "location": "Ahmedabad, India",
+    "url": "https://galekt.com"
+  },
+  {
+    "companyName": "Algosphere technologies",
+    "size": "10 - 49",
+    "location": "Pune, India",
+    "url": "https://algospheretechnologies.com/"
+  },
+  {
+    "companyName": "Variyas Labs Pvt. Ltd.",
+    "size": "10 - 49",
+    "location": "Gurgaon, India",
+    "url": "http://www.variyaslabs.com"
+  },
+  {
+    "companyName": "Softprolang",
+    "size": "2 - 9",
+    "location": "Bengaluru, India",
+    "url": "http://www.softprolang.com"
+  },
+  {
+    "companyName": "in5nit",
+    "size": "2 - 9",
+    "location": "Bengaluru, India",
+    "url": "http://www.in5nit.com"
+  },
+  {
+    "companyName": "TekCetra",
+    "size": "1,000 - 9,999",
+    "location": "Delhi, India",
+    "url": "https://www.ottplay.com/tekcetra/index.html"
+  },
+  {
+    "companyName": "Wincent Technologies India Pvt. Ltd.",
+    "size": "10 - 49",
+    "location": "Bengaluru, India",
+    "url": "https://wtipl.com"
+  },
+  {
+    "companyName": "Tecspek",
+    "size": "2 - 9",
+    "location": "Ahmedabad, India",
+    "url": "https://www.tecspek.in/"
+  },
+  {
+    "companyName": "NODEPRIX",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "https://www.nodeprix.com/"
+  },
+  {
+    "companyName": "EllzTech",
+    "size": "10 - 49",
+    "location": "",
+    "url": "https://ellztech.com/"
+  },
+  {
+    "companyName": "adivaha",
+    "size": "10 - 49",
+    "location": "Delhi, India",
+    "url": "https://www.adivaha.com"
+  },
+  {
+    "companyName": "Wish Geeks Techserve",
+    "size": "10 - 49",
+    "location": "Noida, India",
+    "url": "https://wishgeekstechserve.com/"
+  },
+  {
+    "companyName": "OneDigit",
+    "size": "10 - 49",
+    "location": "Tustin, United States",
+    "url": "https://www.theonedigit.com/"
+  },
+  {
+    "companyName": "V2 Digital",
+    "size": "10 - 49",
+    "location": "Sydney, Australia",
+    "url": "https://www.v2.digital/"
+  },
+  {
+    "companyName": "Cloud Systems SARL",
+    "size": "10 - 49",
+    "location": "Beirut, Lebanon",
+    "url": "https://www.cloudsystems.tech"
+  },
+  {
+    "companyName": "Cloveloop",
+    "size": "Freelancer",
+    "location": "Dublin, Ireland",
+    "url": "https://cloveloop.com/"
+  },
+  {
+    "companyName": "Seta Workshop",
+    "size": "10 - 49",
+    "location": "Montevideo, Uruguay",
+    "url": "https://setaworkshop.com/"
+  },
+  {
+    "companyName": "Supreme Technologies",
+    "size": "50 - 249",
+    "location": "Mohali, India",
+    "url": "https://supremesoftwares.com/"
+  },
+  {
+    "companyName": "Webolie Ltd.",
+    "size": "2 - 9",
+    "location": "Sofia, Bulgaria",
+    "url": "https://webolie.com"
+  },
+  {
+    "companyName": "Your Creative",
+    "size": "10 - 49",
+    "location": "Melbourne, Australia",
+    "url": "https://yourcreative.com.au/"
+  },
+  {
+    "companyName": "Proses Web Technologies",
+    "size": "10 - 49",
+    "location": "Vadodara, India",
+    "url": "https://www.prosesindia.com/"
+  },
+  {
+    "companyName": "We Are Blend",
+    "size": "10 - 49",
+    "location": "Buenos Aires, Argentina",
+    "url": "https://weareblend.tech"
+  },
+  {
+    "companyName": "Buzeal LLP",
+    "size": "2 - 9",
+    "location": "Kochi, India",
+    "url": "https://buzeal.com/"
+  },
+  {
+    "companyName": "RWAVE Software Technologies Pvt Ltd",
+    "size": "50 - 249",
+    "location": "Hyderabad, India",
+    "url": "https://rwavesoftech.com/"
+  },
+  {
+    "companyName": "DeltaXignia",
+    "size": "10 - 49",
+    "location": "Worcester, United Kingdom",
+    "url": "https://www.deltaxignia.com/"
+  },
+  {
+    "companyName": "PT TechThink Hub Indonesia",
+    "size": "10 - 49",
+    "location": "Jakarta, Indonesia",
+    "url": "https://techthinkhub.co.id/"
+  },
+  {
+    "companyName": "InveroPulse",
+    "size": "10 - 49",
+    "location": "Johannesburg, South Africa",
+    "url": "https://www.inveropulse.com/"
+  },
+  {
+    "companyName": "SlashTime Solutions Inc.",
+    "size": "2 - 9",
+    "location": "Oakville, Canada",
+    "url": "https://slashtime.com"
+  }
+]

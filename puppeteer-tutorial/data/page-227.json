@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "Communication Crafts",
+    "size": "50 - 249",
+    "location": "Ahmedabad, India",
+    "url": "https://www.communicationcrafts.com"
+  },
+  {
+    "companyName": "Citta Solutions Pvt Ltd",
+    "size": "50 - 249",
+    "location": "Ahmedabad, India",
+    "url": "https://cittasolutions.com/"
+  },
+  {
+    "companyName": "LABORATORY GROUP",
+    "size": "10 - 49",
+    "location": "Budapest, Hungary",
+    "url": "http://www.laboratorygroup.com"
+  },
+  {
+    "companyName": "Nevadia Technology Ltd.",
+    "size": "10 - 49",
+    "location": "Sylhet, Bangladesh",
+    "url": "https://www.nevadiatechnology.com"
+  },
+  {
+    "companyName": "createIT",
+    "size": "50 - 249",
+    "location": "Warsaw, Poland",
+    "url": "https://www.createit.com/"
+  },
+  {
+    "companyName": "300.codes",
+    "size": "10 - 49",
+    "location": "Warsaw, Poland",
+    "url": "https://300.codes"
+  },
+  {
+    "companyName": "BloomDev",
+    "size": "10 - 49",
+    "location": "Toronto, Canada",
+    "url": "https://bloomdev.ca/"
+  },
+  {
+    "companyName": "Miracle Mill GmbH",
+    "size": "10 - 49",
+    "location": "Baar, Switzerland",
+    "url": "https://miraclemill.com/"
+  },
+  {
+    "companyName": "Dootrix",
+    "size": "10 - 49",
+    "location": "Manchester, United Kingdom",
+    "url": "https://dootrix.com/iot/"
+  },
+  {
+    "companyName": "Sondrel",
+    "size": "250 - 999",
+    "location": "Berkshire, United Kingdom",
+    "url": "https://www.sondrel.com/"
+  },
+  {
+    "companyName": "Art+Logic",
+    "size": "50 - 249",
+    "location": "Pasadena, United States",
+    "url": "https://artandlogic.com/"
+  },
+  {
+    "companyName": "Swissprime Technologies",
+    "size": "10 - 49",
+    "location": "Wollerau, Switzerland",
+    "url": "https://swissprime-tech.com/"
+  },
+  {
+    "companyName": "EACOMM Corporation",
+    "size": "50 - 249",
+    "location": "Quezon City, Philippines",
+    "url": "https://www.eacomm.com/"
+  },
+  {
+    "companyName": "Astek Mauritius",
+    "size": "50 - 249",
+    "location": "Ebene, Mauritius",
+    "url": "https://www.astek.mu/en/"
+  },
+  {
+    "companyName": "PlazaLOGIC",
+    "size": "10 - 49",
+    "location": "Xizhi, Taiwan",
+    "url": "https://www.plazalogic.com/"
+  },
+  {
+    "companyName": "Enterra Solutions",
+    "size": "10 - 49",
+    "location": "Newtown, United States",
+    "url": "https://www.enterrasolutions.com/"
+  },
+  {
+    "companyName": "iTELTEQ",
+    "size": "50 - 249",
+    "location": "San Antonio, United States",
+    "url": "http://itelteq.com/site/"
+  },
+  {
+    "companyName": "Callibrity",
+    "size": "10 - 49",
+    "location": "Cincinnati, United States",
+    "url": "https://www.callibrity.com/"
+  },
+  {
+    "companyName": "XENNEO Tech",
+    "size": "10 - 49",
+    "location": "Tampa, United States",
+    "url": "http://www.xenneotech.com/"
+  },
+  {
+    "companyName": "SparkNET Technologies",
+    "size": "2 - 9",
+    "location": "Wayne, United States",
+    "url": "http://www.sparknettech.com"
+  },
+  {
+    "companyName": "OpenArc LLC",
+    "size": "50 - 249",
+    "location": "Wexford, United States",
+    "url": "https://www.openarc.net/"
+  },
+  {
+    "companyName": "MJD Interactive",
+    "size": "10 - 49",
+    "location": "San Diego, United States",
+    "url": "https://www.mjdinteractive.com/"
+  },
+  {
+    "companyName": "ScrumLaunch",
+    "size": "50 - 249",
+    "location": "Los Angeles, United States",
+    "url": "https://www.scrumlaunch.com/"
+  },
+  {
+    "companyName": "We Make Waves",
+    "size": "2 - 9",
+    "location": "London, United Kingdom",
+    "url": "https://wemakewaves.digital/"
+  },
+  {
+    "companyName": "Infigrid Solutions",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "http://www.infigridsolutions.com"
+  },
+  {
+    "companyName": "Trigent Infotech Pvt. Ltd.",
+    "size": "10 - 49",
+    "location": "Noida, India",
+    "url": "https://www.trigent.in"
+  },
+  {
+    "companyName": "Stepwise",
+    "size": "10 - 49",
+    "location": "Warsaw, Poland",
+    "url": "https://stepwise.pl/"
+  },
+  {
+    "companyName": "Ketek",
+    "size": "10 - 49",
+    "location": "Suceava, Romania",
+    "url": "https://www.ketek.ro/"
+  },
+  {
+    "companyName": "Solutionlab Production",
+    "size": "10 - 49",
+    "location": "Vilnius, Lithuania",
+    "url": "https://solutionlab.net/"
+  },
+  {
+    "companyName": "StandardWings Technologies Pvt. Ltd.",
+    "size": "10 - 49",
+    "location": "Nashik, India",
+    "url": "http://www.standardwings.com/"
+  },
+  {
+    "companyName": "Mellon Technologies",
+    "size": "50 - 249",
+    "location": "Hyderabad, India",
+    "url": "http://mellontechnologies.co.in/"
+  },
+  {
+    "companyName": "Onex Yazılım",
+    "size": "10 - 49",
+    "location": "Izmir, Turkey",
+    "url": "https://onexyazilim.com"
+  },
+  {
+    "companyName": "T1 Integration",
+    "size": "2 - 9",
+    "location": "Moscow, Russia",
+    "url": "https://t1-integration.ru/en/"
+  },
+  {
+    "companyName": "HR Footprints",
+    "size": "2 - 9",
+    "location": "Hyderabad, India",
+    "url": "http://www.hrfootprints.com"
+  },
+  {
+    "companyName": "Unity Group",
+    "size": "250 - 999",
+    "location": "Wroclaw, Poland",
+    "url": "https://www.unity.pl/en"
+  },
+  {
+    "companyName": "iSSl",
+    "size": "50 - 249",
+    "location": "Dhaka, Bangladesh",
+    "url": "http://www.issl.com.bd/"
+  },
+  {
+    "companyName": "Techinflo solution pvt ltd",
+    "size": "10 - 49",
+    "location": "Bengaluru, India",
+    "url": "https://www.techinflo.com/"
+  },
+  {
+    "companyName": "EastWest BPO",
+    "size": "250 - 999",
+    "location": "Pasig, Philippines",
+    "url": "https://www.eastwestbpo.com"
+  },
+  {
+    "companyName": "Swip Systems",
+    "size": "10 - 49",
+    "location": "St. Louis, United States",
+    "url": "https://www.swipsystems.com"
+  },
+  {
+    "companyName": "Education Culture Pvt Ltd",
+    "size": "250 - 999",
+    "location": "Ludhiana, India",
+    "url": "https://www.educationculture.net/"
+  },
+  {
+    "companyName": "Induji Tech",
+    "size": "2 - 9",
+    "location": "Kolkata, India",
+    "url": "https://www.indujitech.com"
+  },
+  {
+    "companyName": "Business Thrust SDN BHD",
+    "size": "50 - 249",
+    "location": "Kuala Lumpur, Malaysia",
+    "url": "https://www.bthrust.com.my/"
+  },
+  {
+    "companyName": "Chimera Technologies Pvt Ltd",
+    "size": "50 - 249",
+    "location": "Bengaluru, India",
+    "url": "http://www.chimeratechnologies.com"
+  },
+  {
+    "companyName": "ITSS",
+    "size": "2 - 9",
+    "location": "Delhi, India",
+    "url": "http://www.itssin.com"
+  },
+  {
+    "companyName": "F1 Solutions",
+    "size": "50 - 249",
+    "location": "Canberra, Australia",
+    "url": "https://www.f1solutions.com.au/"
+  },
+  {
+    "companyName": "Dynamia",
+    "size": "10 - 49",
+    "location": "San Francisco, United States",
+    "url": "https://www.dynamia.us/"
+  },
+  {
+    "companyName": "App Design",
+    "size": "10 - 49",
+    "location": "Galway, Ireland",
+    "url": "https://www.appdesign.ie"
+  },
+  {
+    "companyName": "Progragon Technolabs",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "http://progragon.com"
+  }
+]

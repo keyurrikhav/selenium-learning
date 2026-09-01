@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "Techiesys It Solutions",
+    "size": "50 - 249",
+    "location": "Bengaluru, India",
+    "url": "http://www.techiesys.in/"
+  },
+  {
+    "companyName": "PC Solutions",
+    "size": "250 - 999",
+    "location": "Delhi, India",
+    "url": "https://www.e-pspl.com/"
+  },
+  {
+    "companyName": "Ruah Tech Solutions",
+    "size": "50 - 249",
+    "location": "Adelaide, Australia",
+    "url": "https://www.ruahtech.com.au/"
+  },
+  {
+    "companyName": "Appnova Digital Agency London",
+    "size": "10 - 49",
+    "location": "London, United Kingdom",
+    "url": "https://www.appnova.com/"
+  },
+  {
+    "companyName": "Conspire Agency",
+    "size": "2 - 9",
+    "location": "Los Angeles, United States",
+    "url": "https://conspireagency.com"
+  },
+  {
+    "companyName": "EBLA",
+    "size": "250 - 999",
+    "location": "ad-Dasma, Kuwait",
+    "url": "http://www.eblacorp.com"
+  },
+  {
+    "companyName": "Hardcastle GIS",
+    "size": "50 - 249",
+    "location": "NYC, United States",
+    "url": "https://www.hardcastlegis.com"
+  },
+  {
+    "companyName": "Doyenhub Software Solutions",
+    "size": "50 - 249",
+    "location": "Clarksburg, United States",
+    "url": "https://www.doyenhub.com/"
+  },
+  {
+    "companyName": "Pixel8 Web Solutions & Consultancy Inc",
+    "size": "10 - 49",
+    "location": "Albay, Philippines",
+    "url": "https://www.pixel8websolutions.com/"
+  },
+  {
+    "companyName": "Clearly Innovative",
+    "size": "10 - 49",
+    "location": "Washington DC, United States",
+    "url": "http://www.clearlyinnovative.com/"
+  },
+  {
+    "companyName": "Elicere",
+    "size": "10 - 49",
+    "location": "Washington DC, United States",
+    "url": "http://www.elicere.com/"
+  },
+  {
+    "companyName": "Capicua",
+    "size": "50 - 249",
+    "location": "Montevideo, Uruguay",
+    "url": "https://www.wearecapicua.com/"
+  },
+  {
+    "companyName": "Vibhuti Technologies",
+    "size": "50 - 249",
+    "location": "Mohali, India",
+    "url": "https://www.vibhuti.biz/"
+  },
+  {
+    "companyName": "Codex Software",
+    "size": "50 - 249",
+    "location": "Cirencester, United Kingdom",
+    "url": "https://codex-soft.com/"
+  },
+  {
+    "companyName": "WaveAccess",
+    "size": "250 - 999",
+    "location": "Las Vegas, United States",
+    "url": "http://www.wave-access.com"
+  },
+  {
+    "companyName": "Softobiz Technologies",
+    "size": "50 - 249",
+    "location": "Chandigarh, India",
+    "url": "https://www.softobiz.com/"
+  },
+  {
+    "companyName": "Catabatic Technology",
+    "size": "10 - 49",
+    "location": "Noida, India",
+    "url": "https://www.catpl.co.in"
+  },
+  {
+    "companyName": "Cedar Software Technologies Kochi",
+    "size": "10 - 49",
+    "location": "Kochi, India",
+    "url": "https://www.cedarsofttech.com/"
+  },
+  {
+    "companyName": "NerdPeople",
+    "size": "50 - 249",
+    "location": "London, United Kingdom",
+    "url": "http://www.nerdpeople.com/"
+  },
+  {
+    "companyName": "Techliance",
+    "size": "10 - 49",
+    "location": "Draper, United States",
+    "url": "https://techliance.com/"
+  },
+  {
+    "companyName": "CodeRiders",
+    "size": "10 - 49",
+    "location": "Yerevan, Armenia",
+    "url": "https://www.coderiders.am"
+  },
+  {
+    "companyName": "NCCPLUS VIETNAM",
+    "size": "250 - 999",
+    "location": "Hanoi, Vietnam",
+    "url": "https://ncc.asia"
+  },
+  {
+    "companyName": "Epigra",
+    "size": "10 - 49",
+    "location": "Istanbul, Turkey",
+    "url": "https://epigra.com/"
+  },
+  {
+    "companyName": "Adlava",
+    "size": "10 - 49",
+    "location": "Las Vegas, United States",
+    "url": "https://adlava.com"
+  },
+  {
+    "companyName": "Hardboot Communications Inc",
+    "size": "10 - 49",
+    "location": "Toronto, Canada",
+    "url": "http://www.hardbootinc.com/"
+  },
+  {
+    "companyName": "FleetCreature",
+    "size": "10 - 49",
+    "location": "Boulder, United States",
+    "url": "https://fleetcreature.com/"
+  },
+  {
+    "companyName": "StudioLabs",
+    "size": "10 - 49",
+    "location": "Buffalo, United States",
+    "url": "https://www.studiolabs.com"
+  },
+  {
+    "companyName": "Accelor Technology Services Private Limited",
+    "size": "2 - 9",
+    "location": "Jaipur, India",
+    "url": "https://www.accelortech.com"
+  },
+  {
+    "companyName": "482.solutions",
+    "size": "50 - 249",
+    "location": "Odessa, Ukraine",
+    "url": "https://www.482.solutions"
+  },
+  {
+    "companyName": "Blue Archer",
+    "size": "10 - 49",
+    "location": "Pittsburgh, United States",
+    "url": "https://www.bluearcher.com/"
+  },
+  {
+    "companyName": "Adweb",
+    "size": "Freelancer",
+    "location": "Dubai, UAE",
+    "url": "https://www.adwebstudio.com/"
+  },
+  {
+    "companyName": "Koda Web",
+    "size": "2 - 9",
+    "location": "Auckland, New Zealand",
+    "url": "https://www.kodaweb.co.nz"
+  },
+  {
+    "companyName": "STHLM",
+    "size": "2 - 9",
+    "location": "Stockholm, Sweden",
+    "url": "https://sthlmwebdesign.com/"
+  },
+  {
+    "companyName": "ITFAQ",
+    "size": "10 - 49",
+    "location": "Dubai, UAE",
+    "url": "http://www.itfaq-systems.ae"
+  },
+  {
+    "companyName": "Quickensol",
+    "size": "10 - 49",
+    "location": "Pune, India",
+    "url": "http://www.quickensol.com"
+  },
+  {
+    "companyName": "Informatics Tec",
+    "size": "50 - 249",
+    "location": "Ruwi, Oman",
+    "url": "https://www.informaticstec.com"
+  },
+  {
+    "companyName": "SA Websoft",
+    "size": "10 - 49",
+    "location": "Dhaka, Bangladesh",
+    "url": "https://www.sawebsoft.com/"
+  },
+  {
+    "companyName": "Tortoise and Hare Software",
+    "size": "Freelancer",
+    "location": "Atlantic Beach, United States",
+    "url": "https://tortoiseandharesoftware.com/"
+  },
+  {
+    "companyName": "Xgrid, Inc.",
+    "size": "50 - 249",
+    "location": "Santa Clara, United States",
+    "url": "https://www.xgrid.co/"
+  },
+  {
+    "companyName": "Synthesis World",
+    "size": "10 - 49",
+    "location": "Pune, India",
+    "url": "http://www.synthesisworld.com"
+  },
+  {
+    "companyName": "WebStings Technologies",
+    "size": "10 - 49",
+    "location": "Ajman, UAE",
+    "url": "http://www.webstings.com"
+  },
+  {
+    "companyName": "Ally Global Services",
+    "size": "10 - 49",
+    "location": "San Clemente, United States",
+    "url": "http://www.allygs.com"
+  },
+  {
+    "companyName": "OdiTek Solutions",
+    "size": "50 - 249",
+    "location": "Bhubaneswar, India",
+    "url": "https://www.oditeksolutions.com/"
+  },
+  {
+    "companyName": "Dignitas Digital",
+    "size": "10 - 49",
+    "location": "Philadelphia, United States",
+    "url": "http://dignitas.digital"
+  },
+  {
+    "companyName": "Casia Apps",
+    "size": "2 - 9",
+    "location": "Karachi, Pakistan",
+    "url": "https://www.casiaapps.com/"
+  },
+  {
+    "companyName": "NextGencia",
+    "size": "250 - 999",
+    "location": "Jersey City, United States",
+    "url": "https://www.nextgencia.com/"
+  },
+  {
+    "companyName": "Yellowtail Software",
+    "size": "10 - 49",
+    "location": "Cape Town, South Africa",
+    "url": "http://www.yellowtailsoftware.co.za/"
+  },
+  {
+    "companyName": "Bankymoon",
+    "size": "2 - 9",
+    "location": "Johannesburg, South Africa",
+    "url": "http://bankymoon.co.za"
+  }
+]

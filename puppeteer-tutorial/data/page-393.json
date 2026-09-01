@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "SMT Consulting Group",
+    "size": "2 - 9",
+    "location": "Baltimore, United States",
+    "url": "https://smtconsultinggroup.com"
+  },
+  {
+    "companyName": "Techno Derivation",
+    "size": "250 - 999",
+    "location": "Jaipur, India",
+    "url": "http://technoderivation.com/"
+  },
+  {
+    "companyName": "Punktum Digital GmbH",
+    "size": "10 - 49",
+    "location": "Berlin, Germany",
+    "url": "https://punktum.net/"
+  },
+  {
+    "companyName": "BrainKet Technologies",
+    "size": "2 - 9",
+    "location": "Lucknow, India",
+    "url": "https://brainket.com"
+  },
+  {
+    "companyName": "WOT Innovation Technologies LLC",
+    "size": "10 - 49",
+    "location": "Dubai, UAE",
+    "url": "https://wot.ae/"
+  },
+  {
+    "companyName": "DevsUnit",
+    "size": "2 - 9",
+    "location": "Islamabad, Pakistan",
+    "url": "https://www.devsunit.com/"
+  },
+  {
+    "companyName": "iEdgeSoft Solutions",
+    "size": "10 - 49",
+    "location": "Mohali, India",
+    "url": "https://www.iedgesoft.com/"
+  },
+  {
+    "companyName": "Oktacon",
+    "size": "2 - 9",
+    "location": "Portland, United States",
+    "url": "https://oktacon.com"
+  },
+  {
+    "companyName": "Maven Infotech Netherland",
+    "size": "10 - 49",
+    "location": "Amstelveen, Netherlands",
+    "url": "https://maven-infotech.nl/"
+  },
+  {
+    "companyName": "ICommuneTech",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "https://www.icommunetech.com/"
+  },
+  {
+    "companyName": "Kodemelon Technologies",
+    "size": "2 - 9",
+    "location": "Bengaluru, India",
+    "url": "https://www.kodemelon.com/"
+  },
+  {
+    "companyName": "Stack Decode",
+    "size": "2 - 9",
+    "location": "Pinjaur, India",
+    "url": "https://stackdecode.com/"
+  },
+  {
+    "companyName": "Truepeer Digital LLC",
+    "size": "50 - 249",
+    "location": "Albuquerque, United States",
+    "url": "https://truepeerdigital.com"
+  },
+  {
+    "companyName": "Chainbot Solutions",
+    "size": "10 - 49",
+    "location": "Baltimore, United States",
+    "url": "https://chainbotsolutions.com"
+  },
+  {
+    "companyName": "Sunlightsol Technologies",
+    "size": "10 - 49",
+    "location": "Delhi, India",
+    "url": "https://sunlightsol.com/"
+  },
+  {
+    "companyName": "NixonBIT private limited",
+    "size": "10 - 49",
+    "location": "Noida, India",
+    "url": "https://nixonbit.com/"
+  },
+  {
+    "companyName": "Techsoul Solutions",
+    "size": "10 - 49",
+    "location": "Surat, India",
+    "url": "https://www.techsoulsolutions.com/"
+  },
+  {
+    "companyName": "Memory Squared",
+    "size": "10 - 49",
+    "location": "Krakow, Poland",
+    "url": "https://memory2.co/"
+  },
+  {
+    "companyName": "CGS-team",
+    "size": "50 - 249",
+    "location": "Paphos, Cyprus",
+    "url": "https://cgsteam.io/"
+  },
+  {
+    "companyName": "Live Chat Squad",
+    "size": "50 - 249",
+    "location": "Sarasota, United States",
+    "url": "https://livechatsquad.com/"
+  },
+  {
+    "companyName": "Ne Pear Limited",
+    "size": "10 - 49",
+    "location": "London, United Kingdom",
+    "url": "https://netpear.com/?utm_source=chatgpt.com"
+  },
+  {
+    "companyName": "Innoventure Fintech",
+    "size": "10 - 49",
+    "location": "Noida, India",
+    "url": "https://innoventurefintech.com/"
+  },
+  {
+    "companyName": "Sophistec Dev House",
+    "size": "10 - 49",
+    "location": "Jakarta, Indonesia",
+    "url": "https://devhouse.sophistec.global/"
+  },
+  {
+    "companyName": "Cyber Circus",
+    "size": "10 - 49",
+    "location": "Lahore, Pakistan",
+    "url": "https://cybercircusconnect.com"
+  },
+  {
+    "companyName": "Kodescape LLC",
+    "size": "10 - 49",
+    "location": "Sheridan, United States",
+    "url": "https://kodescape.com/"
+  },
+  {
+    "companyName": "Codizant",
+    "size": "10 - 49",
+    "location": "Indore, India",
+    "url": "https://www.codizant.com/"
+  },
+  {
+    "companyName": "Hbox",
+    "size": "50 - 249",
+    "location": "Marlborough, United States",
+    "url": "https://www.hboxdigital.com/"
+  },
+  {
+    "companyName": "SSoft Solutions",
+    "size": "10 - 49",
+    "location": "Bhopal, India",
+    "url": "https://ssoftsolutions.in/"
+  },
+  {
+    "companyName": "Alisons Technology",
+    "size": "10 - 49",
+    "location": "Karachi, Pakistan",
+    "url": "https://www.alisonstech.com"
+  },
+  {
+    "companyName": "Code Galaxy ITES",
+    "size": "10 - 49",
+    "location": "Durgapur, India",
+    "url": "https://www.codegalaxy.co.in"
+  },
+  {
+    "companyName": "Camel Communication",
+    "size": "2 - 9",
+    "location": "Ankleshwar, India",
+    "url": "https://camel-communication.com/"
+  },
+  {
+    "companyName": "Gensact",
+    "size": "10 - 49",
+    "location": "Mumbai, India",
+    "url": "https://gensact.com/"
+  },
+  {
+    "companyName": "Gravitas IT",
+    "size": "10 - 49",
+    "location": "Bengaluru, India",
+    "url": "https://gravitas-it.com/"
+  },
+  {
+    "companyName": "Oryntecore",
+    "size": "10 - 49",
+    "location": "Karachi, Pakistan",
+    "url": "https://www.oryntecore.com"
+  },
+  {
+    "companyName": "DOF Technologies",
+    "size": "2 - 9",
+    "location": "Lviv, Ukraine",
+    "url": "https://dof-technologies.com/"
+  },
+  {
+    "companyName": "Softlogics LLC",
+    "size": "50 - 249",
+    "location": "Houston, United States",
+    "url": "https://softlogicsllc.com/"
+  },
+  {
+    "companyName": "Mean3",
+    "size": "50 - 249",
+    "location": "Albany, United States",
+    "url": "https://mean3.com"
+  },
+  {
+    "companyName": "Hikariworks",
+    "size": "2 - 9",
+    "location": "Indore, India",
+    "url": "https://www.hikariworks.in/"
+  },
+  {
+    "companyName": "Bolder Apps",
+    "size": "10 - 49",
+    "location": "Miami, United States",
+    "url": "https://www.bolderapps.com/"
+  },
+  {
+    "companyName": "Methologik Pvt Ltd",
+    "size": "10 - 49",
+    "location": "Karachi, Pakistan",
+    "url": "https://methologik.com"
+  },
+  {
+    "companyName": "NPOS Euro",
+    "size": "2 - 9",
+    "location": "Sankt Andra-Wordern, Austria",
+    "url": "https://nposeuro.com/"
+  },
+  {
+    "companyName": "NexusByte",
+    "size": "10 - 49",
+    "location": "Sydney, Australia",
+    "url": "https://www.nexusbyte.com.au/"
+  },
+  {
+    "companyName": "Winky Tech Limited",
+    "size": "Freelancer",
+    "location": "Dhaka, Bangladesh",
+    "url": "https://www.winkytech.com"
+  },
+  {
+    "companyName": "Siddhivinayak Technolabs",
+    "size": "2 - 9",
+    "location": "Ahmedabad, India",
+    "url": "https://siddhivinayak-technolabs.vercel.app"
+  },
+  {
+    "companyName": "Gsquare Technologies FZE",
+    "size": "10 - 49",
+    "location": "Sharjah, UAE",
+    "url": "https://gsquaretechnologies.ae"
+  },
+  {
+    "companyName": "Digiflux Technologies Private Limited",
+    "size": "10 - 49",
+    "location": "Vadodara, India",
+    "url": "https://digiflux.io/"
+  },
+  {
+    "companyName": "Rise92",
+    "size": "10 - 49",
+    "location": "Cambridge, United States",
+    "url": "https://rise92.com/hire-without-markup/"
+  },
+  {
+    "companyName": "TechfusionGear",
+    "size": "2 - 9",
+    "location": "Ahmedabad, India",
+    "url": "https://techfusiongear.com/"
+  }
+]

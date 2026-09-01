@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "Mindcom Group",
+    "size": "10 - 49",
+    "location": "Bengaluru, India",
+    "url": "https://mindcomgroup.com/"
+  },
+  {
+    "companyName": "Cyber Spark",
+    "size": "10 - 49",
+    "location": "London, United Kingdom",
+    "url": "https://cyberspark.uk/"
+  },
+  {
+    "companyName": "Krasan Consulting",
+    "size": "10 - 49",
+    "location": "Chicago, United States",
+    "url": "https://krasanconsulting.com/"
+  },
+  {
+    "companyName": "Swapdigit IT Services",
+    "size": "2 - 9",
+    "location": "Kabrai, India",
+    "url": "https://swapdigit.com/"
+  },
+  {
+    "companyName": "Blue Eagle",
+    "size": "10 - 49",
+    "location": "Kanchipuram, India",
+    "url": "https://blueeeagle.com/"
+  },
+  {
+    "companyName": "Nagar Software Solution",
+    "size": "10 - 49",
+    "location": "Indore, India",
+    "url": "https://www.nagarsoftwaresolution.com/"
+  },
+  {
+    "companyName": "Gernaey Software",
+    "size": "10 - 49",
+    "location": "Gainesville, United States",
+    "url": "https://www.gernaeysoftware.com/"
+  },
+  {
+    "companyName": "Optimum Web",
+    "size": "10 - 49",
+    "location": "Chisinau, Moldova",
+    "url": "https://www.optimum-web.com"
+  },
+  {
+    "companyName": "IndiWork Software Solutions Pvt. Ltd.",
+    "size": "10 - 49",
+    "location": "Elmhurst, United States",
+    "url": "https://indiwork.com/"
+  },
+  {
+    "companyName": "Vasudev Technolabs",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "http://vasudevs.com/"
+  },
+  {
+    "companyName": "Independent Software",
+    "size": "10 - 49",
+    "location": "Ellicott City, United States",
+    "url": "https://independentsoftware.com/"
+  },
+  {
+    "companyName": "Polorhythm",
+    "size": "10 - 49",
+    "location": "Dayton, United States",
+    "url": "https://polyrhythm.com/"
+  },
+  {
+    "companyName": "Khanyisa Real Systems",
+    "size": "50 - 249",
+    "location": "Cape Town, South Africa",
+    "url": "https://krs.co.za"
+  },
+  {
+    "companyName": "Scriptshub Technologies",
+    "size": "10 - 49",
+    "location": "",
+    "url": "https://www.scriptshub.net/"
+  },
+  {
+    "companyName": "RevolMinds",
+    "size": "10 - 49",
+    "location": "Sheridan, United States",
+    "url": "https://revolminds.com/"
+  },
+  {
+    "companyName": "Webcrea",
+    "size": "10 - 49",
+    "location": "London, United Kingdom",
+    "url": "https://webcrea.co.uk/"
+  },
+  {
+    "companyName": "Webla Solutions",
+    "size": "2 - 9",
+    "location": "Columbia (Maryland), United States",
+    "url": "https://weblasolutions.com/"
+  },
+  {
+    "companyName": "GenixBit Labs",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "https://www.genixbit.com/"
+  },
+  {
+    "companyName": "VIRTUOSO IT SOLUTIONS PVT. LTD.",
+    "size": "2 - 9",
+    "location": "Lucknow, India",
+    "url": "https://www.virtuoso.co.in"
+  },
+  {
+    "companyName": "GenZ Media",
+    "size": "10 - 49",
+    "location": "Montreal, Canada",
+    "url": "https://genzmedia.agency/"
+  },
+  {
+    "companyName": "MareLab Services",
+    "size": "10 - 49",
+    "location": "Surat, India",
+    "url": "https://marelab.in/"
+  },
+  {
+    "companyName": "Bizaffix",
+    "size": "10 - 49",
+    "location": "Austin, United States",
+    "url": "https://bizaffix.com/"
+  },
+  {
+    "companyName": "Amantya Technologies",
+    "size": "250 - 999",
+    "location": "Chicago, United States",
+    "url": "https://www.amantyatech.com/"
+  },
+  {
+    "companyName": "ASA Technology",
+    "size": "10 - 49",
+    "location": "Cairo, Egypt",
+    "url": "https://www.asatechnology.com.eg/"
+  },
+  {
+    "companyName": "Apiscribe",
+    "size": "2 - 9",
+    "location": "Pune, India",
+    "url": "https://apiscribe.com/"
+  },
+  {
+    "companyName": "ConsoleDot",
+    "size": "10 - 49",
+    "location": "Lahore, Pakistan",
+    "url": "https://consoledot.com/"
+  },
+  {
+    "companyName": "G K Intelligent Techsol (Pvt) Ltd",
+    "size": "10 - 49",
+    "location": "Colombo, Sri Lanka",
+    "url": "https://gkitechsol.com/"
+  },
+  {
+    "companyName": "Alaska Web Geeks",
+    "size": "10 - 49",
+    "location": "Woodbridge, United States",
+    "url": "https://alaskawebgeeks.com/"
+  },
+  {
+    "companyName": "Web source it Solution",
+    "size": "2 - 9",
+    "location": "Dhaka, Bangladesh",
+    "url": "https://websourcebd.com/"
+  },
+  {
+    "companyName": "Discretelogix",
+    "size": "50 - 249",
+    "location": "Islamabad, Pakistan",
+    "url": "https://www.discretelogix.com/"
+  },
+  {
+    "companyName": "Solveon Technology",
+    "size": "10 - 49",
+    "location": "Bandung, Indonesia",
+    "url": "https://solveontech.com"
+  },
+  {
+    "companyName": "The App Vortex",
+    "size": "50 - 249",
+    "location": "Addison, United States",
+    "url": "https://www.theappvortex.com/"
+  },
+  {
+    "companyName": "Ndiisi Ltd",
+    "size": "2 - 9",
+    "location": "Kigali, Rwanda",
+    "url": "https://ndiisi.com"
+  },
+  {
+    "companyName": "Unflow",
+    "size": "2 - 9",
+    "location": "Ermesinde, Portugal",
+    "url": "https://unflow.pt"
+  },
+  {
+    "companyName": "Neurona Agency",
+    "size": "10 - 49",
+    "location": "San Juan, Puerto Rico",
+    "url": "https://neuronaagency.com/es/"
+  },
+  {
+    "companyName": "Solway",
+    "size": "10 - 49",
+    "location": "Warsaw, Poland",
+    "url": "https://solway.tech"
+  },
+  {
+    "companyName": "Codify Group",
+    "size": "10 - 49",
+    "location": "Riga, Latvia",
+    "url": "https://codify.lv"
+  },
+  {
+    "companyName": "Scenic IT Solutions",
+    "size": "2 - 9",
+    "location": "Rajkot, India",
+    "url": "https://www.scenicitsolutions.com/"
+  },
+  {
+    "companyName": "Innovace",
+    "size": "2 - 9",
+    "location": "Vadodara, India",
+    "url": "https://www.innovace.studio"
+  },
+  {
+    "companyName": "S2Infinitum Softech Pvt Ltd",
+    "size": "10 - 49",
+    "location": "Gurgaon, India",
+    "url": "https://s2infinitum.com/"
+  },
+  {
+    "companyName": "Harmony Studios",
+    "size": "2 - 9",
+    "location": "Biggleswade, United Kingdom",
+    "url": "https://www.harmony.co.uk/"
+  },
+  {
+    "companyName": "ThetaSoln",
+    "size": "10 - 49",
+    "location": "Surat, India",
+    "url": "https://thetasol.com"
+  },
+  {
+    "companyName": "MNET LLC",
+    "size": "10 - 49",
+    "location": "Osaka, Japan",
+    "url": "https://mnet-company.co.jp/"
+  },
+  {
+    "companyName": "Evolvier Technologies",
+    "size": "2 - 9",
+    "location": "Kochi, India",
+    "url": "https://www.evolvier.com/"
+  },
+  {
+    "companyName": "Visionect Sp. z o.o.",
+    "size": "2 - 9",
+    "location": "",
+    "url": "https://www.visionect.io/"
+  },
+  {
+    "companyName": "Elite Designs",
+    "size": "10 - 49",
+    "location": "Nairobi, Kenya",
+    "url": "https://elitedesigns.co.ke/"
+  },
+  {
+    "companyName": "Hijau Digital",
+    "size": "2 - 9",
+    "location": "Jakarta, Indonesia",
+    "url": "https://hijaudigital.com/"
+  },
+  {
+    "companyName": "A99 Solutions",
+    "size": "10 - 49",
+    "location": "Lahore, Pakistan",
+    "url": "https://a99solutions.com/"
+  }
+]

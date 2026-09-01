@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "Bluegen Studios",
+    "size": "10 - 49",
+    "location": "Texas City, United States",
+    "url": "https://www.bluegenstudios.com/pk"
+  },
+  {
+    "companyName": "syvotech consulting llp",
+    "size": "10 - 49",
+    "location": "Delhi, India",
+    "url": "https://syvotech.com"
+  },
+  {
+    "companyName": "Tech Programmer",
+    "size": "2 - 9",
+    "location": "Ahmedabad, India",
+    "url": "https://tech-programmer.com/"
+  },
+  {
+    "companyName": "Pobl | Creative Tech & Digital Agency",
+    "size": "10 - 49",
+    "location": "Cardiff, United Kingdom",
+    "url": "https://pobl.tech/"
+  },
+  {
+    "companyName": "Kabir Infotech Limited",
+    "size": "10 - 49",
+    "location": "Dhaka, Bangladesh",
+    "url": "https://www.kabirinfotech.com.bd/"
+  },
+  {
+    "companyName": "RESULT SERIES AI PVT LTD",
+    "size": "10 - 49",
+    "location": "Pune, India",
+    "url": "https://resultseries.com/"
+  },
+  {
+    "companyName": "Avanor Growth",
+    "size": "2 - 9",
+    "location": "Karachi, Pakistan",
+    "url": "https://avanorgrowth.com"
+  },
+  {
+    "companyName": "Freeman NYC",
+    "size": "2 - 9",
+    "location": "Rutherford, United States",
+    "url": "https://freemannyc.com/"
+  },
+  {
+    "companyName": "invexa solutions",
+    "size": "2 - 9",
+    "location": "Karachi, Pakistan",
+    "url": "https://invexasolutions.online/"
+  },
+  {
+    "companyName": "Synerium",
+    "size": "2 - 9",
+    "location": "Paris, France",
+    "url": "https://synerium.fr"
+  },
+  {
+    "companyName": "Digitons Development",
+    "size": "Freelancer",
+    "location": "Delhi, India",
+    "url": "https://digitonsdevelopment.com/"
+  },
+  {
+    "companyName": "OSO INFOTECH",
+    "size": "Freelancer",
+    "location": "Vadodara, India",
+    "url": "https://osoinfotech.com"
+  },
+  {
+    "companyName": "Desivo Consulting Group",
+    "size": "2 - 9",
+    "location": "Warsaw, Poland",
+    "url": "https://desivo.de/"
+  },
+  {
+    "companyName": "LFT Industries",
+    "size": "50 - 249",
+    "location": "Beirut, Lebanon",
+    "url": "https://lft.industries"
+  },
+  {
+    "companyName": "DiVentra Labs",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "https://diventralabs.com/"
+  },
+  {
+    "companyName": "Next Tech Hive Technology",
+    "size": "Freelancer",
+    "location": "Lucknow, India",
+    "url": "https://nexttechhive.in/"
+  },
+  {
+    "companyName": "Ecomgiantz",
+    "size": "10 - 49",
+    "location": "Buffalo, United States",
+    "url": "https://ecomgiantz.com/"
+  },
+  {
+    "companyName": "Crescenza Consulting Group",
+    "size": "50 - 249",
+    "location": "Windsor, Canada",
+    "url": "https://www.crescenzaconsulting.com/"
+  },
+  {
+    "companyName": "Orange Orbits",
+    "size": "2 - 9",
+    "location": "Anand, India",
+    "url": "https://www.orangeorbits.com/"
+  },
+  {
+    "companyName": "Webgi Solutions",
+    "size": "10 - 49",
+    "location": "Bengaluru, India",
+    "url": "https://webgisolutions.com/"
+  },
+  {
+    "companyName": "Visent Tech",
+    "size": "10 - 49",
+    "location": "Port Harcourt, Nigeria",
+    "url": "https://www.visenttech.com/"
+  },
+  {
+    "companyName": "Stacklab Technologies Pvt. Ltd.",
+    "size": "10 - 49",
+    "location": "Pune, India",
+    "url": "https://www.stacklabtechnologies.com/"
+  },
+  {
+    "companyName": "Clear Concept Solutions",
+    "size": "2 - 9",
+    "location": "Pune, India",
+    "url": "https://www.clearconceptsolutions.com"
+  },
+  {
+    "companyName": "Line Code",
+    "size": "2 - 9",
+    "location": "Noida, India",
+    "url": "https://line-code.com"
+  },
+  {
+    "companyName": "Hourglass IT Solutions Pvt Ltd",
+    "size": "10 - 49",
+    "location": "Chennai, India",
+    "url": "https://www.hourglassit.com/"
+  },
+  {
+    "companyName": "Radiant Solutions RS PVT LTD",
+    "size": "50 - 249",
+    "location": "Karachi, Pakistan",
+    "url": "https://radiantsolutionsrs.com"
+  },
+  {
+    "companyName": "NeuralBridge",
+    "size": "2 - 9",
+    "location": "Amravati, India",
+    "url": "https://neuralbridge.in"
+  },
+  {
+    "companyName": "Digitras Technology",
+    "size": "2 - 9",
+    "location": "Bengaluru, India",
+    "url": "https://www.digitras.in/"
+  },
+  {
+    "companyName": "Techietribe",
+    "size": "2 - 9",
+    "location": "Houston, United States",
+    "url": "https://www.thetechietribe.com/"
+  },
+  {
+    "companyName": "Hollywood Web Studio",
+    "size": "10 - 49",
+    "location": "San Diego, United States",
+    "url": "https://hollywoodwebstudio.com/"
+  },
+  {
+    "companyName": "Siri Information Solutions India Pvt Ltd",
+    "size": "10 - 49",
+    "location": "Rajahmundry, India",
+    "url": "https://www.siriitsolutions.in"
+  },
+  {
+    "companyName": "Centcept Technologies",
+    "size": "10 - 49",
+    "location": "Kolkata, India",
+    "url": "https://centcept.com"
+  },
+  {
+    "companyName": "Paradane",
+    "size": "2 - 9",
+    "location": "Charlotte, United States",
+    "url": "https://paradane.com"
+  },
+  {
+    "companyName": "Roy Tech",
+    "size": "10 - 49",
+    "location": "Beirut, Lebanon",
+    "url": "https://www.roytech.solutions/"
+  },
+  {
+    "companyName": "Ellipse Advanced System Innovation",
+    "size": "50 - 249",
+    "location": "Ashdod, Israel",
+    "url": "https://ellipse-asi.com/index.php"
+  },
+  {
+    "companyName": "Amethyst Developers",
+    "size": "10 - 49",
+    "location": "Lahore, Pakistan",
+    "url": "https://www.amethystdevelopers.com/"
+  },
+  {
+    "companyName": "5d Solutions",
+    "size": "10 - 49",
+    "location": "Dubai, UAE",
+    "url": "https://5dsolutions.ae/index.php"
+  },
+  {
+    "companyName": "Mountain Lamp Technologies",
+    "size": "2 - 9",
+    "location": "Bengaluru, India",
+    "url": "https://mountainlamptech.com/"
+  },
+  {
+    "companyName": "BotLabs",
+    "size": "10 - 49",
+    "location": "Kyiv, Ukraine",
+    "url": "https://botlabs.agency/"
+  },
+  {
+    "companyName": "Flappic Technologies",
+    "size": "10 - 49",
+    "location": "Nagpur, India",
+    "url": "https://flappic.com"
+  },
+  {
+    "companyName": "Mono digital",
+    "size": "2 - 9",
+    "location": "Baki, Azerbaijan",
+    "url": "https://monodigital.solutions/"
+  },
+  {
+    "companyName": "Revolynk Techs Private Limited",
+    "size": "10 - 49",
+    "location": "Hyderabad, India",
+    "url": "https://revolynk.com"
+  },
+  {
+    "companyName": "Sheraian Limited",
+    "size": "2 - 9",
+    "location": "Gujrat, Pakistan",
+    "url": "https://sheraian.com/"
+  },
+  {
+    "companyName": "IT ScaleUp",
+    "size": "2 - 9",
+    "location": "Ghaziabad, India",
+    "url": "https://itscaleup.com"
+  },
+  {
+    "companyName": "CloudEva Tech",
+    "size": "10 - 49",
+    "location": "Lahore, Pakistan",
+    "url": "https://cloudevatech.com/"
+  },
+  {
+    "companyName": "UQA Softs Private Limited",
+    "size": "10 - 49",
+    "location": "Islamabad, Pakistan",
+    "url": "https://www.uqasofts.com/"
+  },
+  {
+    "companyName": "Innov8world",
+    "size": "10 - 49",
+    "location": "Mumbai, India",
+    "url": "https://www.innov8world.com/"
+  },
+  {
+    "companyName": "Thanjoz Tech Private Limited",
+    "size": "2 - 9",
+    "location": "Chettiarpatti, India",
+    "url": "https://www.thanjoztech.com/"
+  }
+]

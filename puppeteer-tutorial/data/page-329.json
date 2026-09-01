@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "A-Two Cloud",
+    "size": "10 - 49",
+    "location": "Jaipur, India",
+    "url": "https://atwocloud.com/"
+  },
+  {
+    "companyName": "American Web Development",
+    "size": "2 - 9",
+    "location": "Los Angeles, United States",
+    "url": "https://americanwebdevelopment.com/"
+  },
+  {
+    "companyName": "SyncScrum",
+    "size": "2 - 9",
+    "location": "Lahore, Pakistan",
+    "url": "https://www.syncscrum.com"
+  },
+  {
+    "companyName": "Vexed Solutions",
+    "size": "50 - 249",
+    "location": "Albuquerque, United States",
+    "url": "https://vexedsolutions.com/"
+  },
+  {
+    "companyName": "UZINFOCOM EUROPE",
+    "size": "2 - 9",
+    "location": "Riga, Latvia",
+    "url": "https://uzinfocom.eu/"
+  },
+  {
+    "companyName": "Instant sprouts",
+    "size": "2 - 9",
+    "location": "Jaipur, India",
+    "url": "https://instantsprouts.in/"
+  },
+  {
+    "companyName": "Codari",
+    "size": "2 - 9",
+    "location": "Lodz, Poland",
+    "url": "https://www.codari.pl"
+  },
+  {
+    "companyName": "Technology Devops",
+    "size": "10 - 49",
+    "location": "Karachi, Pakistan",
+    "url": "https://technologydevops.com/"
+  },
+  {
+    "companyName": "BetPro Coders",
+    "size": "10 - 49",
+    "location": "Birmingham, United Kingdom",
+    "url": "https://betprocoders.com/"
+  },
+  {
+    "companyName": "VIIX DIGITAL",
+    "size": "10 - 49",
+    "location": "Agadir, Morocco",
+    "url": "https://viixdigital.com/"
+  },
+  {
+    "companyName": "Custom Mobile App Development Company",
+    "size": "50 - 249",
+    "location": "Lahore, Pakistan",
+    "url": "https://www.virtuenetz.pk/service/custom-mobile-app-development/"
+  },
+  {
+    "companyName": "FIX Partner",
+    "size": "10 - 49",
+    "location": "Ho Chi Minh City, Vietnam",
+    "url": "https://fixpartner.co/"
+  },
+  {
+    "companyName": "Kernelics",
+    "size": "50 - 249",
+    "location": "London, United Kingdom",
+    "url": "https://kernelics.com/"
+  },
+  {
+    "companyName": "Armonia srl",
+    "size": "10 - 49",
+    "location": "Salerno, Italy",
+    "url": "https://armonia.io/"
+  },
+  {
+    "companyName": "DIATOZ SOLUTIONS PRIVATE LIMITED",
+    "size": "50 - 249",
+    "location": "Bengaluru, India",
+    "url": "https://www.diatoz.com"
+  },
+  {
+    "companyName": "CloudWave Bangladesh",
+    "size": "2 - 9",
+    "location": "Dhaka, Bangladesh",
+    "url": "https://cloudwavebd.com/"
+  },
+  {
+    "companyName": "Globaltechdevelopers",
+    "size": "2 - 9",
+    "location": "Noida, India",
+    "url": "https://www.globaltechdev.com/"
+  },
+  {
+    "companyName": "Feather IT",
+    "size": "10 - 49",
+    "location": "Dhaka, Bangladesh",
+    "url": "https://featheruniverse.com"
+  },
+  {
+    "companyName": "Anbosoft",
+    "size": "10 - 49",
+    "location": "Irvine, United States",
+    "url": "https://www.anbosoft.net"
+  },
+  {
+    "companyName": "Alpina Tech",
+    "size": "10 - 49",
+    "location": "London, United Kingdom",
+    "url": "https://alpina-tech.com/"
+  },
+  {
+    "companyName": "Else Studio",
+    "size": "2 - 9",
+    "location": "Kota Kinabalu, Malaysia",
+    "url": "https://elsestudio.dev"
+  },
+  {
+    "companyName": "OMA Software Solutions",
+    "size": "2 - 9",
+    "location": "Belgrade, Serbia",
+    "url": "https://oma.rs/"
+  },
+  {
+    "companyName": "La Reverie Studio LLC",
+    "size": "2 - 9",
+    "location": "NYC, United States",
+    "url": "https://lareverie.studio"
+  },
+  {
+    "companyName": "Digital Monk Marketing",
+    "size": "2 - 9",
+    "location": "Hisar, India",
+    "url": "https://digitalmonkmarketing.com/"
+  },
+  {
+    "companyName": "Info Delta Sys",
+    "size": "2 - 9",
+    "location": "Lucknow, India",
+    "url": "https://infodeltasys.com/"
+  },
+  {
+    "companyName": "e-SORT diseño web",
+    "size": "2 - 9",
+    "location": "Madrid, Spain",
+    "url": "https://www.e-sort.net"
+  },
+  {
+    "companyName": "Bhagirath Technologies",
+    "size": "2 - 9",
+    "location": "Bhopal, India",
+    "url": "https://bhagirathtechnologies.com/"
+  },
+  {
+    "companyName": "Padhya Software Technologies",
+    "size": "2 - 9",
+    "location": "Ahmedabad, India",
+    "url": "https://www.padhyasoft.com/"
+  },
+  {
+    "companyName": "Adventa Technologies",
+    "size": "10 - 49",
+    "location": "Caroline Springs, Australia",
+    "url": "https://adventa.com.au/"
+  },
+  {
+    "companyName": "Tryidol Technologies Pvt Ltd",
+    "size": "10 - 49",
+    "location": "Bhopal, India",
+    "url": "https://tryidoltech.com/"
+  },
+  {
+    "companyName": "Web Berners",
+    "size": "2 - 9",
+    "location": "Karachi, Pakistan",
+    "url": "https://webberners.com/"
+  },
+  {
+    "companyName": "AoGen",
+    "size": "2 - 9",
+    "location": "Sydney, Australia",
+    "url": "https://aogen.com.au"
+  },
+  {
+    "companyName": "Zellyo Digital",
+    "size": "2 - 9",
+    "location": "Khulna, Bangladesh",
+    "url": "https://zellyo.com/"
+  },
+  {
+    "companyName": "Clienserv",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "https://clienserv.com/"
+  },
+  {
+    "companyName": "Scaler Agency",
+    "size": "10 - 49",
+    "location": "Budapest, Hungary",
+    "url": "https://www.scaleragency.io/"
+  },
+  {
+    "companyName": "Controlzed Softwares",
+    "size": "2 - 9",
+    "location": "Mumbai, India",
+    "url": "https://controlzed.in"
+  },
+  {
+    "companyName": "Aperoltech",
+    "size": "10 - 49",
+    "location": "Jetpur, India",
+    "url": "https://aperoltech.com/"
+  },
+  {
+    "companyName": "Simple Logic IT Pvt. Ltd.",
+    "size": "250 - 999",
+    "location": "Mumbai, India",
+    "url": "https://simplelogic-it.com/"
+  },
+  {
+    "companyName": "Codixus",
+    "size": "2 - 9",
+    "location": "Istanbul, Turkey",
+    "url": "https://codixus.com"
+  },
+  {
+    "companyName": "Sasana Digital",
+    "size": "10 - 49",
+    "location": "Bandung, Indonesia",
+    "url": "https://sasanadigital.com/"
+  },
+  {
+    "companyName": "AMJ Technology",
+    "size": "10 - 49",
+    "location": "Abu Dhabi, UAE",
+    "url": "https://www.amjtechsolutions.com/"
+  },
+  {
+    "companyName": "Infovibes Ltd",
+    "size": "10 - 49",
+    "location": "Prestwich, United Kingdom",
+    "url": "https://www.infovibes.co.uk/"
+  },
+  {
+    "companyName": "FingTap",
+    "size": "10 - 49",
+    "location": "London, United Kingdom",
+    "url": "https://fingtapsolutions.com"
+  },
+  {
+    "companyName": "Way2smile Solutions Dubai",
+    "size": "50 - 249",
+    "location": "Dubai, UAE",
+    "url": "https://www.way2smile.ae/"
+  },
+  {
+    "companyName": "Designs By Kit",
+    "size": "2 - 9",
+    "location": "Toronto, Canada",
+    "url": "http://www.designsbykit.com"
+  },
+  {
+    "companyName": "AS BPO Solutions",
+    "size": "10 - 49",
+    "location": "Lewes, United States",
+    "url": "https://www.asbposolutions.com/"
+  },
+  {
+    "companyName": "Codepul",
+    "size": "10 - 49",
+    "location": "Lahore, Pakistan",
+    "url": "https://codepul.com/"
+  },
+  {
+    "companyName": "ibird",
+    "size": "2 - 9",
+    "location": "Kozhikode, India",
+    "url": "https://ibirdmedia.co/"
+  }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "Cypress North",
+    "size": "2 - 9",
+    "location": "Buffalo, United States",
+    "url": "https://cypressnorth.com/"
+  },
+  {
+    "companyName": "Ajira Tech",
+    "size": "10 - 49",
+    "location": "Chennai, India",
+    "url": "http://www.ajira.tech/"
+  },
+  {
+    "companyName": "Mayven",
+    "size": "10 - 49",
+    "location": "San Francisco, United States",
+    "url": "https://mayvenstudios.com/"
+  },
+  {
+    "companyName": "SlickFish Studios",
+    "size": "2 - 9",
+    "location": "Portland, United States",
+    "url": "https://slickfish.com/"
+  },
+  {
+    "companyName": "Computer Frontline Consultancy Service",
+    "size": "50 - 249",
+    "location": "Noida, India",
+    "url": "https://www.cfcs.co.in/"
+  },
+  {
+    "companyName": "Matebiz",
+    "size": "10 - 49",
+    "location": "Delhi, India",
+    "url": "https://www.matebiz.com"
+  },
+  {
+    "companyName": "OfficialGates Technologies Private Limited",
+    "size": "10 - 49",
+    "location": "Chennai, India",
+    "url": "http://www.officialgates.com"
+  },
+  {
+    "companyName": "TAVO Tech",
+    "size": "10 - 49",
+    "location": "Kyiv, Ukraine",
+    "url": "http://tavo-tech.com/"
+  },
+  {
+    "companyName": "Direct Line",
+    "size": "10 - 49",
+    "location": "King of Prussia, United States",
+    "url": "https://directlinedev.com/"
+  },
+  {
+    "companyName": "Augurs Technologies",
+    "size": "50 - 249",
+    "location": "Lucknow, India",
+    "url": "https://www.augurs.in/"
+  },
+  {
+    "companyName": "KangaCoders",
+    "size": "2 - 9",
+    "location": "Antwerpen, Belgium",
+    "url": "https://www.kangacoders.com/en"
+  },
+  {
+    "companyName": "Strowberry Code",
+    "size": "2 - 9",
+    "location": "Tirana, Albania",
+    "url": "http://strowberrycode.com/"
+  },
+  {
+    "companyName": "Mitrix Technology",
+    "size": "50 - 249",
+    "location": "Warsaw, Poland",
+    "url": "http://www.mitrix.io"
+  },
+  {
+    "companyName": "Entrision",
+    "size": "2 - 9",
+    "location": "Milwaukee, United States",
+    "url": "https://entrision.com"
+  },
+  {
+    "companyName": "Dalt",
+    "size": "10 - 49",
+    "location": "Lille, France",
+    "url": "https://www.dalt.fr/"
+  },
+  {
+    "companyName": "Scideas Solutions Pvt Ltd",
+    "size": "10 - 49",
+    "location": "Delhi, India",
+    "url": "https://scideassolutions.com"
+  },
+  {
+    "companyName": "TechZarInfo Software & Consulting Services",
+    "size": "10 - 49",
+    "location": "Chennai, India",
+    "url": "http://www.techzarinfo.com/"
+  },
+  {
+    "companyName": "Cyber-Duck",
+    "size": "10 - 49",
+    "location": "Elstree, United Kingdom",
+    "url": "https://www.cyber-duck.co.uk/"
+  },
+  {
+    "companyName": "Nile Technologies Pvt. Ltd.",
+    "size": "50 - 249",
+    "location": "Noida, India",
+    "url": "https://www.niletechnologies.com/"
+  },
+  {
+    "companyName": "AALOGICS (PVT)LTD",
+    "size": "50 - 249",
+    "location": "Karachi, Pakistan",
+    "url": "https://www.aalogics.com/"
+  },
+  {
+    "companyName": "The Dev Shop",
+    "size": "10 - 49",
+    "location": "Pittsburgh, United States",
+    "url": "http://www.thedevshop.co"
+  },
+  {
+    "companyName": "Quip Global",
+    "size": "10 - 49",
+    "location": "Hoffman Estates, United States",
+    "url": "https://www.quipglobal.com"
+  },
+  {
+    "companyName": "MeU Solutions",
+    "size": "50 - 249",
+    "location": "Ho Chi Minh City, Vietnam",
+    "url": "https://meu-solutions.com"
+  },
+  {
+    "companyName": "TecManic",
+    "size": "10 - 49",
+    "location": "Noida, India",
+    "url": "https://www.tecmanic.com"
+  },
+  {
+    "companyName": "Madgeek Pvt Ltd",
+    "size": "2 - 9",
+    "location": "Bengaluru, India",
+    "url": "https://www.madgeek.in"
+  },
+  {
+    "companyName": "Titan Technology Corporation",
+    "size": "50 - 249",
+    "location": "Ho Chi Minh City, Vietnam",
+    "url": "https://www.titancorpvn.com"
+  },
+  {
+    "companyName": "Codein Software",
+    "size": "10 - 49",
+    "location": "Kyiv, Ukraine",
+    "url": "https://codein.software/"
+  },
+  {
+    "companyName": "Softelab",
+    "size": "2 - 9",
+    "location": "NYC, United States",
+    "url": "http://www.softelab.com/"
+  },
+  {
+    "companyName": "Wismad Consulting Pvt. Ltd",
+    "size": "50 - 249",
+    "location": "Lucknow, India",
+    "url": "https://www.wismad.com"
+  },
+  {
+    "companyName": "Trimwebsolutions",
+    "size": "Freelancer",
+    "location": "Delhi, India",
+    "url": "http://trimwebsolutions.com"
+  },
+  {
+    "companyName": "Markup Designs",
+    "size": "50 - 249",
+    "location": "Noida, India",
+    "url": "https://www.markupdesigns.com/"
+  },
+  {
+    "companyName": "Business Alphabets Corporation",
+    "size": "10 - 49",
+    "location": "Kolkata, India",
+    "url": "https://www.businessalphabets.com"
+  },
+  {
+    "companyName": "Webcrome Software",
+    "size": "2 - 9",
+    "location": "Vadodara, India",
+    "url": "https://www.webcrome.com/"
+  },
+  {
+    "companyName": "Erginous Technologies",
+    "size": "50 - 249",
+    "location": "Rajpura, India",
+    "url": "http://erginous.com"
+  },
+  {
+    "companyName": "Unstuck Labs",
+    "size": "10 - 49",
+    "location": "Arlington, United States",
+    "url": "https://www.unstucklabs.com"
+  },
+  {
+    "companyName": "Silicon Soft and IT consultant",
+    "size": "10 - 49",
+    "location": "Lalitpur, Nepal",
+    "url": "http://www.siliconsoftnepal.com.np/"
+  },
+  {
+    "companyName": "Arateg",
+    "size": "10 - 49",
+    "location": "Minsk, Belarus",
+    "url": "http://arateg.com"
+  },
+  {
+    "companyName": "Alif Solutions",
+    "size": "10 - 49",
+    "location": "Dubai, UAE",
+    "url": "https://www.alif.solutions/"
+  },
+  {
+    "companyName": "Techsaga Corporations",
+    "size": "50 - 249",
+    "location": "Noida, India",
+    "url": "https://www.techsaga.co.in"
+  },
+  {
+    "companyName": "Softwarium",
+    "size": "50 - 249",
+    "location": "Kyiv, Ukraine",
+    "url": "https://www.softwarium.net"
+  },
+  {
+    "companyName": "srdv technologies",
+    "size": "250 - 999",
+    "location": "Noida, India",
+    "url": "https://www.srdvtechnologies.com"
+  },
+  {
+    "companyName": "YashaaGlobal",
+    "size": "10 - 49",
+    "location": "Jacksonville, United States",
+    "url": "https://www.yashaaglobal.com"
+  },
+  {
+    "companyName": "Vicson Digital sp. z o.o.",
+    "size": "10 - 49",
+    "location": "Warsaw, Poland",
+    "url": "https://vicson-digital.com"
+  },
+  {
+    "companyName": "Austere Systems Pvt Ltd",
+    "size": "50 - 249",
+    "location": "Pune, India",
+    "url": "http://austeresystems.com"
+  },
+  {
+    "companyName": "ARGS Info Services Private Limited",
+    "size": "2 - 9",
+    "location": "Lucknow, India",
+    "url": "https://argsinfoservices.com"
+  },
+  {
+    "companyName": "Torch Designs",
+    "size": "2 - 9",
+    "location": "Lakeland, United States",
+    "url": "https://torchdesigns.com/"
+  },
+  {
+    "companyName": "JayDevs",
+    "size": "50 - 249",
+    "location": "Vilnius, Lithuania",
+    "url": "https://jaydevs.com/"
+  },
+  {
+    "companyName": "EMed HealthTech Pvt Ltd.",
+    "size": "50 - 249",
+    "location": "Ahmedabad, India",
+    "url": "https://www.emedhealthtech.com"
+  }
+]

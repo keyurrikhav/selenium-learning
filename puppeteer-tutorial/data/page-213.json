@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "Pranakshit IT Solutions Private Limited",
+    "size": "2 - 9",
+    "location": "Hyderabad, India",
+    "url": "https://www.pranakshit.in"
+  },
+  {
+    "companyName": "Ultivic Private Limited",
+    "size": "50 - 249",
+    "location": "Mohali, India",
+    "url": "https://ultivic.com/"
+  },
+  {
+    "companyName": "NoviCore",
+    "size": "10 - 49",
+    "location": "Tallinn, Estonia",
+    "url": "https://www.novicore.net/"
+  },
+  {
+    "companyName": "Gecode Software House",
+    "size": "10 - 49",
+    "location": "Katowice, Poland",
+    "url": "https://www.gecode.io"
+  },
+  {
+    "companyName": "Gautam Technologies - Gtechs",
+    "size": "2 - 9",
+    "location": "Noida, India",
+    "url": "https://gtechs.in/"
+  },
+  {
+    "companyName": "Sajlog",
+    "size": "2 - 9",
+    "location": "Lahore, Pakistan",
+    "url": "https://sajlog.com/"
+  },
+  {
+    "companyName": "DevDimensions",
+    "size": "10 - 49",
+    "location": "Boynton Beach, United States",
+    "url": "https://devdimensions.com/"
+  },
+  {
+    "companyName": "Clientek",
+    "size": "10 - 49",
+    "location": "Minneapolis, United States",
+    "url": "https://www.clientek.com/"
+  },
+  {
+    "companyName": "MadeLabs",
+    "size": "10 - 49",
+    "location": "Fishers, United States",
+    "url": "https://www.madelabs.io/"
+  },
+  {
+    "companyName": "Highkeen Technologies Private Limited",
+    "size": "10 - 49",
+    "location": "Kolkata, India",
+    "url": "https://www.highkeen.com/"
+  },
+  {
+    "companyName": "Defenzelite",
+    "size": "10 - 49",
+    "location": "Seoni, India",
+    "url": "https://www.defenzelite.com/"
+  },
+  {
+    "companyName": "TrizenAI",
+    "size": "2 - 9",
+    "location": "Chennai, India",
+    "url": "https://www.trizen-ai.com/"
+  },
+  {
+    "companyName": "Advergrid",
+    "size": "10 - 49",
+    "location": "Gurgaon, India",
+    "url": "https://www.advergrid.com/"
+  },
+  {
+    "companyName": "CodeON Developer System",
+    "size": "2 - 9",
+    "location": "Sao Paulo, Brazil",
+    "url": "https://www.codeon.com.br"
+  },
+  {
+    "companyName": "Trigunayat technologies",
+    "size": "2 - 9",
+    "location": "Jaipur, India",
+    "url": "https://www.trigunayat.com/"
+  },
+  {
+    "companyName": "ExpertDevTech",
+    "size": "10 - 49",
+    "location": "Oakwood, United States",
+    "url": "https://expertdevtech.com"
+  },
+  {
+    "companyName": "LaunchBox Global",
+    "size": "50 - 249",
+    "location": "Cheyenne, United States",
+    "url": "https://launchboxglobal.com"
+  },
+  {
+    "companyName": "Fzeetechz Pvt Ltd",
+    "size": "10 - 49",
+    "location": "Jaipur, India",
+    "url": "https://fzeetechz.com/"
+  },
+  {
+    "companyName": "dedev",
+    "size": "10 - 49",
+    "location": "Lahore, Pakistan",
+    "url": "https://dedev.co/"
+  },
+  {
+    "companyName": "YANVISION",
+    "size": "10 - 49",
+    "location": "Casablanca, Morocco",
+    "url": "http://www.yanvision.ma"
+  },
+  {
+    "companyName": "OptiRix, LLC",
+    "size": "2 - 9",
+    "location": "Philadelphia, United States",
+    "url": "https://optirix.com/"
+  },
+  {
+    "companyName": "SquareUp",
+    "size": "10 - 49",
+    "location": "Delhi, India",
+    "url": "https://www.squareupdigital.com/"
+  },
+  {
+    "companyName": "4Brains Software LLP",
+    "size": "10 - 49",
+    "location": "Dewas, India",
+    "url": "https://www.4brainstech.com"
+  },
+  {
+    "companyName": "Brilliantech Software",
+    "size": "50 - 249",
+    "location": "Pune, India",
+    "url": "https://brilliantechsoft.com"
+  },
+  {
+    "companyName": "Sudonion",
+    "size": "2 - 9",
+    "location": "",
+    "url": "https://www.sudonion.com"
+  },
+  {
+    "companyName": "soft Xpansion",
+    "size": "50 - 249",
+    "location": "Vinnitsa, Ukraine",
+    "url": "https://softxpansion.global/"
+  },
+  {
+    "companyName": "Softronium Nexus",
+    "size": "2 - 9",
+    "location": "Noida, India",
+    "url": "https://softronium.com/"
+  },
+  {
+    "companyName": "Neuromotion Systems Private Limited",
+    "size": "10 - 49",
+    "location": "Noida, India",
+    "url": "https://nmspl.co"
+  },
+  {
+    "companyName": "Saerin Tech LLC",
+    "size": "10 - 49",
+    "location": "Dover, United States",
+    "url": "https://saerintech.com"
+  },
+  {
+    "companyName": "Jyoti Technosoft LLP",
+    "size": "10 - 49",
+    "location": "Surat, India",
+    "url": "https://jyotitechnosoft.com/"
+  },
+  {
+    "companyName": "Vecnosys",
+    "size": "2 - 9",
+    "location": "Surat, India",
+    "url": "https://vecnosys.com/"
+  },
+  {
+    "companyName": "Envolti",
+    "size": "50 - 249",
+    "location": "Santa Catarina, Brazil",
+    "url": "https://www.envolti.com.br/"
+  },
+  {
+    "companyName": "MTDev",
+    "size": "Freelancer",
+    "location": "Budapest, Hungary",
+    "url": "https://mezeitamasdev.hu/"
+  },
+  {
+    "companyName": "Codewise Infotech Private Limited",
+    "size": "10 - 49",
+    "location": "Indore, India",
+    "url": "https://codewiseinfotech.com/"
+  },
+  {
+    "companyName": "Anviro",
+    "size": "10 - 49",
+    "location": "Islamabad, Pakistan",
+    "url": "https://www.anviro.net/"
+  },
+  {
+    "companyName": "SprintOn Technology",
+    "size": "10 - 49",
+    "location": "Kochi, India",
+    "url": "https://sprintontech.com/"
+  },
+  {
+    "companyName": "Synergy-IT",
+    "size": "50 - 249",
+    "location": "Wilmington, United States",
+    "url": "https://www.synergy-it.com"
+  },
+  {
+    "companyName": "Vencer Systems",
+    "size": "10 - 49",
+    "location": "Harare, Zimbabwe",
+    "url": "https://www.vencer.co.zw/"
+  },
+  {
+    "companyName": "Masar Digital",
+    "size": "10 - 49",
+    "location": "Riyadh, Saudi Arabia",
+    "url": "https://masardigital.com.sa/"
+  },
+  {
+    "companyName": "Infostack Tech",
+    "size": "50 - 249",
+    "location": "Lahore, Pakistan",
+    "url": "https://www.infostacktech.com/"
+  },
+  {
+    "companyName": "Techmatic Systems",
+    "size": "50 - 249",
+    "location": "Middletown, United States",
+    "url": "https://www.techmaticsys.com/"
+  },
+  {
+    "companyName": "Orion Web & Software Developments",
+    "size": "2 - 9",
+    "location": "Denpasar, Indonesia",
+    "url": "https://orionsolusidigital.com"
+  },
+  {
+    "companyName": "Tazriel",
+    "size": "2 - 9",
+    "location": "Springfield, United States",
+    "url": "https://tazriel.com"
+  },
+  {
+    "companyName": "Systechra",
+    "size": "2 - 9",
+    "location": "Rabat, Morocco",
+    "url": "https://systechra.com/"
+  },
+  {
+    "companyName": "Quellcode 360 GmbH",
+    "size": "2 - 9",
+    "location": "Meilen, Switzerland",
+    "url": "https://www.quellcode.gmbh"
+  },
+  {
+    "companyName": "Panasa Technologies",
+    "size": "50 - 249",
+    "location": "Brighton, United Kingdom",
+    "url": "https://panasatech.com/"
+  },
+  {
+    "companyName": "Geotech Infoservices Denmark ApS",
+    "size": "50 - 249",
+    "location": "Copenhagen, Denmark",
+    "url": "https://geotechinfo.dk/"
+  },
+  {
+    "companyName": "RAN Soft GmbH & Co KG",
+    "size": "2 - 9",
+    "location": "Eferding, Austria",
+    "url": "https://www.ransoft.at"
+  }
+]

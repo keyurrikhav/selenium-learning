@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "Wefetech",
+    "size": "2 - 9",
+    "location": "Indore, India",
+    "url": "https://www.wefetech.com/"
+  },
+  {
+    "companyName": "Zorinto Ltd",
+    "size": "2 - 9",
+    "location": "Berkshire, United Kingdom",
+    "url": "https://zorinto.com"
+  },
+  {
+    "companyName": "Goyam Technologies",
+    "size": "2 - 9",
+    "location": "Durban, South Africa",
+    "url": "https://goyamtechnologies.co.za"
+  },
+  {
+    "companyName": "Arrow reach digital pvt ltd",
+    "size": "10 - 49",
+    "location": "Colombo, Sri Lanka",
+    "url": "https://arrowreachdigital.com/"
+  },
+  {
+    "companyName": "Indixpert",
+    "size": "10 - 49",
+    "location": "Hyderabad, India",
+    "url": "https://www.indixpert.com/smbs-lead"
+  },
+  {
+    "companyName": "VYOMCO",
+    "size": "2 - 9",
+    "location": "Ahmedabad, India",
+    "url": "https://www.vyomco.com/"
+  },
+  {
+    "companyName": "Prasunet",
+    "size": "50 - 249",
+    "location": "Chandigarh, India",
+    "url": "https://www.prasunet.com/"
+  },
+  {
+    "companyName": "Coders Desk Solution",
+    "size": "10 - 49",
+    "location": "Mohali, India",
+    "url": "https://coders-desk.com/"
+  },
+  {
+    "companyName": "E Pixel Services",
+    "size": "2 - 9",
+    "location": "Delhi, India",
+    "url": "https://epixelservices.com/"
+  },
+  {
+    "companyName": "brandbuild",
+    "size": "2 - 9",
+    "location": "Marrakesh, Morocco",
+    "url": "https://brandbuild.me/"
+  },
+  {
+    "companyName": "Skand Tech Hub",
+    "size": "2 - 9",
+    "location": "Jaipur, India",
+    "url": "https://www.skandtechhub.com/"
+  },
+  {
+    "companyName": "Gjethe",
+    "size": "2 - 9",
+    "location": "Pristina, Kosovo",
+    "url": "https://gjethe.com"
+  },
+  {
+    "companyName": "Born West",
+    "size": "10 - 49",
+    "location": "Concord, United States",
+    "url": "https://www.bornwest.com/"
+  },
+  {
+    "companyName": "webvoltz",
+    "size": "50 - 249",
+    "location": "Surat, India",
+    "url": "https://webvoltz.com/"
+  },
+  {
+    "companyName": "Radianzz",
+    "size": "10 - 49",
+    "location": "Delhi, India",
+    "url": "https://www.radianzz.com/"
+  },
+  {
+    "companyName": "Pragma Systems OPC Private Limited",
+    "size": "10 - 49",
+    "location": "Vadodara, India",
+    "url": "https://www.pragmasystems.in"
+  },
+  {
+    "companyName": "LY Softwares",
+    "size": "50 - 249",
+    "location": "Palakkad, India",
+    "url": "https://www.lysoftwares.com/"
+  },
+  {
+    "companyName": "Straventis Global Pvt Ltd",
+    "size": "2 - 9",
+    "location": "Ahmedabad, India",
+    "url": "https://straventisglobal.com/"
+  },
+  {
+    "companyName": "Eastroad",
+    "size": "2 - 9",
+    "location": "Gurdaspur, India",
+    "url": "https://eastroad.ai/"
+  },
+  {
+    "companyName": "RUAL",
+    "size": "10 - 49",
+    "location": "Brummen, Netherlands",
+    "url": "https://rual.nl"
+  },
+  {
+    "companyName": "Softek Valley",
+    "size": "2 - 9",
+    "location": "Bengaluru, India",
+    "url": "https://www.softekvalley.com"
+  },
+  {
+    "companyName": "SYNF",
+    "size": "2 - 9",
+    "location": "Glasgow, United Kingdom",
+    "url": "https://synf.co.uk"
+  },
+  {
+    "companyName": "Sevteq Solutions",
+    "size": "2 - 9",
+    "location": "Lahore, Pakistan",
+    "url": "https://www.sevteqsolutions.com/"
+  },
+  {
+    "companyName": "Wayfind Solution",
+    "size": "10 - 49",
+    "location": "Islamabad, Pakistan",
+    "url": "https://www.wayfindsolution.com/"
+  },
+  {
+    "companyName": "Titan Codes",
+    "size": "2 - 9",
+    "location": "Delhi, India",
+    "url": "https://titancodes.com/"
+  },
+  {
+    "companyName": "EvolutecC",
+    "size": "10 - 49",
+    "location": "Barranquilla, Colombia",
+    "url": "https://www.evolutecc.com/"
+  },
+  {
+    "companyName": "Zegenx Solutions Pvt. Ltd",
+    "size": "10 - 49",
+    "location": "Mumbai, India",
+    "url": "https://zegenx.com/"
+  },
+  {
+    "companyName": "Zyronex Lab",
+    "size": "Freelancer",
+    "location": "San Diego, United States",
+    "url": "https://zyronexlab.com"
+  },
+  {
+    "companyName": "BHL  Breakloo Holdings Limited",
+    "size": "10 - 49",
+    "location": "Wolverhampton, United Kingdom",
+    "url": "https://breakloo.co.uk/"
+  },
+  {
+    "companyName": "ZenVoyager",
+    "size": "2 - 9",
+    "location": "Indore, India",
+    "url": "https://zenvoyager.in/"
+  },
+  {
+    "companyName": "Surelia Infosystems Private Ltd",
+    "size": "10 - 49",
+    "location": "Kolkata, India",
+    "url": "https://surelia.info"
+  },
+  {
+    "companyName": "Stackyzer Technologies",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "https://stackyzer.com"
+  },
+  {
+    "companyName": "Crow Code Solutions Pvt.Ltd.",
+    "size": "10 - 49",
+    "location": "Jaipur, India",
+    "url": "https://crowcodes.in/"
+  },
+  {
+    "companyName": "Mehaboob Software Solutions",
+    "size": "10 - 49",
+    "location": "Visakhapatnam, India",
+    "url": "https://mehaboobdesigns.com"
+  },
+  {
+    "companyName": "3spacelabs",
+    "size": "2 - 9",
+    "location": "Panipat, India",
+    "url": "https://3spacelabs.com/"
+  },
+  {
+    "companyName": "Remusol",
+    "size": "2 - 9",
+    "location": "Islamabad, Pakistan",
+    "url": "https://remusol.com/"
+  },
+  {
+    "companyName": "WebnNets IT Solutions",
+    "size": "2 - 9",
+    "location": "Chennai, India",
+    "url": "https://webnnets.com"
+  },
+  {
+    "companyName": "Raktrix Technologies Private Limited",
+    "size": "10 - 49",
+    "location": "Ghaziabad, India",
+    "url": "https://www.raktrix.com/"
+  },
+  {
+    "companyName": "Mercbee Technologies",
+    "size": "2 - 9",
+    "location": "Ahmedabad, India",
+    "url": "https://mercbee.com/"
+  },
+  {
+    "companyName": "TDB Solution",
+    "size": "10 - 49",
+    "location": "Ho Chi Minh City, Vietnam",
+    "url": "https://tdbsolution.com/"
+  },
+  {
+    "companyName": "lynity",
+    "size": "10 - 49",
+    "location": "Delhi, India",
+    "url": "https://lynity.com/"
+  },
+  {
+    "companyName": "Kliko Technology",
+    "size": "2 - 9",
+    "location": "Dubrovnik, Croatia",
+    "url": "https://klikotechnology.com/"
+  },
+  {
+    "companyName": "TRADE Web design",
+    "size": "2 - 9",
+    "location": "Melbourne, Australia",
+    "url": "https://www.tradewebdesign.com.au"
+  },
+  {
+    "companyName": "Datplay Technologies Private Limited",
+    "size": "2 - 9",
+    "location": "Gurgaon, India",
+    "url": "https://www.dataplay.in"
+  },
+  {
+    "companyName": "DMS Workspace",
+    "size": "2 - 9",
+    "location": "Sunrise, United States",
+    "url": "https://dmsworkspace.com/?utm_source=goodfirms&utm_medium=paid&utm_campaign=goodfirms_ads"
+  },
+  {
+    "companyName": "TrueLeafTech",
+    "size": "50 - 249",
+    "location": "Issaquah, United States",
+    "url": "https://trueleaftech.com"
+  },
+  {
+    "companyName": "DellyTech LLC",
+    "size": "Freelancer",
+    "location": "Tempe, United States",
+    "url": "https://delly.codes"
+  },
+  {
+    "companyName": "Orbilect Labs",
+    "size": "50 - 249",
+    "location": "New Albany, United States",
+    "url": "https://www.orbilectlabs.com"
+  }
+]

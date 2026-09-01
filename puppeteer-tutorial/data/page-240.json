@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "Devapo",
+    "size": "50 - 249",
+    "location": "Warsaw, Poland",
+    "url": "https://devapo.io/"
+  },
+  {
+    "companyName": "Confistech",
+    "size": "2 - 9",
+    "location": "Kaunas, Lithuania",
+    "url": "https://confistech.com/"
+  },
+  {
+    "companyName": "MUGCO",
+    "size": "10 - 49",
+    "location": "San Francisco, United States",
+    "url": "https://www.mugco.io/"
+  },
+  {
+    "companyName": "Shivah Web Tech Pvt. Ltd.",
+    "size": "10 - 49",
+    "location": "Mohali, India",
+    "url": "https://shivahwebtech.com/"
+  },
+  {
+    "companyName": "Appraochable Geek",
+    "size": "10 - 49",
+    "location": "Salt Lake City, United States",
+    "url": "https://www.approachablegeek.com"
+  },
+  {
+    "companyName": "FiftyFive Technologies",
+    "size": "50 - 249",
+    "location": "Grays, United Kingdom",
+    "url": "https://www.fiftyfivetech.io/"
+  },
+  {
+    "companyName": "The Digital Bunch",
+    "size": "10 - 49",
+    "location": "Warsaw, Poland",
+    "url": "https://www.thedigitalbunch.com/"
+  },
+  {
+    "companyName": "TINGIS WEB",
+    "size": "2 - 9",
+    "location": "Tangier, Morocco",
+    "url": "https://www.tingisweb.com"
+  },
+  {
+    "companyName": "HTCGlobalServices",
+    "size": "10000+",
+    "location": "Troy, United States",
+    "url": "https://www.htcinc.com/"
+  },
+  {
+    "companyName": "DLT Apps Ltd",
+    "size": "50 - 249",
+    "location": "London, United Kingdom",
+    "url": "https://www.dltapps.co.uk"
+  },
+  {
+    "companyName": "Ixora Infotech Private Limited",
+    "size": "10 - 49",
+    "location": "Indore, India",
+    "url": "https://www.ixorainfotech.com/"
+  },
+  {
+    "companyName": "Danip Technologies",
+    "size": "10 - 49",
+    "location": "Delhi, India",
+    "url": "https://www.daniptechnologies.com/"
+  },
+  {
+    "companyName": "Infocatalic Technologies",
+    "size": "2 - 9",
+    "location": "Pune, India",
+    "url": "https://infocatalic.com/"
+  },
+  {
+    "companyName": "Unusual Technologies",
+    "size": "2 - 9",
+    "location": "Brighton, United Kingdom",
+    "url": "http://unusualtechnologies.com"
+  },
+  {
+    "companyName": "Prog-Oak Ltd.",
+    "size": "2 - 9",
+    "location": "Szeged, Hungary",
+    "url": "https://www.prog-oak.com/"
+  },
+  {
+    "companyName": "Detrans Solutions LLP",
+    "size": "10 - 49",
+    "location": "Bengaluru, India",
+    "url": "https://www.detrans.io/"
+  },
+  {
+    "companyName": "BYTRIX Technologies UK",
+    "size": "50 - 249",
+    "location": "Salford, United Kingdom",
+    "url": "https://bytrix.co.uk/"
+  },
+  {
+    "companyName": "TMotions Global",
+    "size": "50 - 249",
+    "location": "London, United Kingdom",
+    "url": "https://tmotions.com/"
+  },
+  {
+    "companyName": "Agile Soft Systems Inc",
+    "size": "50 - 249",
+    "location": "Fremont, United States",
+    "url": "https://agsft.com/"
+  },
+  {
+    "companyName": "Meepra Web Solutions",
+    "size": "10 - 49",
+    "location": "Noida, India",
+    "url": "https://meeprawebsolutions.com/"
+  },
+  {
+    "companyName": "Awapal",
+    "size": "10 - 49",
+    "location": "Houston, United States",
+    "url": "https://awapal.com/"
+  },
+  {
+    "companyName": "Technoidentity Inc",
+    "size": "250 - 999",
+    "location": "Richardson, United States",
+    "url": "https://technoidentity.com"
+  },
+  {
+    "companyName": "Softkrama",
+    "size": "2 - 9",
+    "location": "Lublin, Poland",
+    "url": "https://softkrama.com/"
+  },
+  {
+    "companyName": "PraudhaTech Solutions",
+    "size": "2 - 9",
+    "location": "Belluru, India",
+    "url": "https://praudhatech.com/"
+  },
+  {
+    "companyName": "acquislabs",
+    "size": "2 - 9",
+    "location": "Hamilton, Canada",
+    "url": "https://acquislabs.com/"
+  },
+  {
+    "companyName": "Zentek Infosoft",
+    "size": "250 - 999",
+    "location": "Dallas, United States",
+    "url": "https://zentekinfosoft.com/"
+  },
+  {
+    "companyName": "SPSOFT India",
+    "size": "50 - 249",
+    "location": "Pune, India",
+    "url": "https://www.spsoftindia.com/"
+  },
+  {
+    "companyName": "Navi Software Development",
+    "size": "10 - 49",
+    "location": "Johannesburg, South Africa",
+    "url": "https://www.navidev.com/"
+  },
+  {
+    "companyName": "Qurinom Solutions",
+    "size": "250 - 999",
+    "location": "Cengkareng, Indonesia",
+    "url": "https://qurinomsolutions.com/"
+  },
+  {
+    "companyName": "Era Biz Solutions",
+    "size": "50 - 249",
+    "location": "London, United Kingdom",
+    "url": "https://erabizsolutions.io/"
+  },
+  {
+    "companyName": "FleetCare Group",
+    "size": "10 - 49",
+    "location": "Prague, Czech Republic",
+    "url": "https://www.fleetcaregroup.cz"
+  },
+  {
+    "companyName": "svapps soft solutions pvt limited",
+    "size": "10 - 49",
+    "location": "",
+    "url": "https://svapps.in/"
+  },
+  {
+    "companyName": "Colure Media",
+    "size": "10 - 49",
+    "location": "NYC, United States",
+    "url": "https://colure.co/"
+  },
+  {
+    "companyName": "Siblings Software Argentina",
+    "size": "10 - 49",
+    "location": "Cordoba, Argentina",
+    "url": "https://siblingssoftware.com.ar"
+  },
+  {
+    "companyName": "PrimaThink - Nagpur",
+    "size": "2 - 9",
+    "location": "Nagpur, India",
+    "url": "https://primathink.com/"
+  },
+  {
+    "companyName": "Dhruvsoft Services Private Limited",
+    "size": "50 - 249",
+    "location": "Hyderabad, India",
+    "url": "https://www.dhruvsoft.com/"
+  },
+  {
+    "companyName": "i-Bridge Systems Philippines Inc.",
+    "size": "10 - 49",
+    "location": "Pasig, Philippines",
+    "url": "https://i-bridge.com.ph"
+  },
+  {
+    "companyName": "Krypton Labs",
+    "size": "10 - 49",
+    "location": "Bucharest, Romania",
+    "url": "https://www.kryptonlabs.io"
+  },
+  {
+    "companyName": "Vanijya Technology",
+    "size": "2 - 9",
+    "location": "Meerut, India",
+    "url": "https://vanijyatech.in/"
+  },
+  {
+    "companyName": "Spontom & Company",
+    "size": "2 - 9",
+    "location": "Visakhapatnam, India",
+    "url": "https://spontom.com/"
+  },
+  {
+    "companyName": "Cyberica Net Technologies",
+    "size": "10 - 49",
+    "location": "Noida, India",
+    "url": "https://cyberica.in"
+  },
+  {
+    "companyName": "Solution Infotech",
+    "size": "50 - 249",
+    "location": "Kolkata, India",
+    "url": "https://solutioninfotech.in/"
+  },
+  {
+    "companyName": "Topcone Inc",
+    "size": "2 - 9",
+    "location": "Los Angeles, United States",
+    "url": "https://www.topcone.com"
+  },
+  {
+    "companyName": "Teleconnect GmbH",
+    "size": "10 - 49",
+    "location": "Dresden, Germany",
+    "url": "http://www.teleconnect.de"
+  },
+  {
+    "companyName": "OnEggy Technologies",
+    "size": "2 - 9",
+    "location": "Delhi, India",
+    "url": "https://www.oneggy.com"
+  },
+  {
+    "companyName": "Geoservice",
+    "size": "10 - 49",
+    "location": "Astana, Kazakhstan",
+    "url": "https://geoservice24.com"
+  },
+  {
+    "companyName": "zopiqa",
+    "size": "10 - 49",
+    "location": "Jersey City, United States",
+    "url": "https://www.zopiqa.com"
+  },
+  {
+    "companyName": "A5E Consulting",
+    "size": "50 - 249",
+    "location": "Mumbai, India",
+    "url": "https://a5econsulting.com/"
+  }
+]

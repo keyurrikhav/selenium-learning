@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "InteliStat Solutions",
+    "size": "2 - 9",
+    "location": "Bucharest, Romania",
+    "url": "https://www.intelistat.ro/"
+  },
+  {
+    "companyName": "Codebird",
+    "size": "2 - 9",
+    "location": "Jaipur, India",
+    "url": "https://codebird.in/"
+  },
+  {
+    "companyName": "MWAN Mobile",
+    "size": "10 - 49",
+    "location": "London, United Kingdom",
+    "url": "https://www.mwanmobile.com/"
+  },
+  {
+    "companyName": "G-Tech Solutions",
+    "size": "10 - 49",
+    "location": "Sydney, Australia",
+    "url": "https://gtechsol.com.au/"
+  },
+  {
+    "companyName": "webiopr tech",
+    "size": "10 - 49",
+    "location": "Lucknow, India",
+    "url": "https://webiopr.com"
+  },
+  {
+    "companyName": "ALPHALOOP IT PVT LTD",
+    "size": "10 - 49",
+    "location": "Udaipur, India",
+    "url": "https://www.alphaloop.net"
+  },
+  {
+    "companyName": "Desai Technology",
+    "size": "2 - 9",
+    "location": "Chikhli, India",
+    "url": "https://www.desaitechnology.in/"
+  },
+  {
+    "companyName": "vativeApps",
+    "size": "10 - 49",
+    "location": "Middletown, United States",
+    "url": "https://www.vativeapps.com/"
+  },
+  {
+    "companyName": "DS Solution Group",
+    "size": "50 - 249",
+    "location": "Hanoi, Vietnam",
+    "url": "https://dssolution.vn/en"
+  },
+  {
+    "companyName": "D & F Consultancy Inc",
+    "size": "10 - 49",
+    "location": "Regina, Canada",
+    "url": "https://www.dfconsultancyinc.com/"
+  },
+  {
+    "companyName": "XAPIERS TECHNOLOGY PRIVATE LIMITED",
+    "size": "10 - 49",
+    "location": "Durgapur, India",
+    "url": "https://xapiers.com"
+  },
+  {
+    "companyName": "Code95 Web Technologies",
+    "size": "50 - 249",
+    "location": "al-Ismailiyah, Egypt",
+    "url": "https://code95.com/"
+  },
+  {
+    "companyName": "TechWings",
+    "size": "50 - 249",
+    "location": "Zabierzow, Poland",
+    "url": "https://techwings.com/"
+  },
+  {
+    "companyName": "Baghead Labs",
+    "size": "10 - 49",
+    "location": "Buenos Aires, Argentina",
+    "url": "https://www.bagheadlabs.io"
+  },
+  {
+    "companyName": "Defuzed",
+    "size": "10 - 49",
+    "location": "Delhi, India",
+    "url": "https://www.defuzed.in/"
+  },
+  {
+    "companyName": "AT LARGE CONSULTANTS PVT LTD",
+    "size": "10 - 49",
+    "location": "Greater Noida, India",
+    "url": "https://alcpl.in"
+  },
+  {
+    "companyName": "Keybotix",
+    "size": "2 - 9",
+    "location": "Multan, Pakistan",
+    "url": "https://keybotix.com/"
+  },
+  {
+    "companyName": "Cloudinfosoft",
+    "size": "10 - 49",
+    "location": "Vadodara, India",
+    "url": "https://cloudinfosoft.com/"
+  },
+  {
+    "companyName": "Rhapsody",
+    "size": "2 - 9",
+    "location": "London, United Kingdom",
+    "url": "https://www.rhapsodymedia.com/"
+  },
+  {
+    "companyName": "MetaOrange",
+    "size": "10 - 49",
+    "location": "Sydney, Australia",
+    "url": "https://metaorangedigital.com/"
+  },
+  {
+    "companyName": "Inspyre",
+    "size": "10 - 49",
+    "location": "Budapest, Hungary",
+    "url": "https://inspyre.it/"
+  },
+  {
+    "companyName": "Fintalk Software Labs",
+    "size": "10 - 49",
+    "location": "Pune, India",
+    "url": "https://fintalklabs.com/"
+  },
+  {
+    "companyName": "VAAS ITS",
+    "size": "10 - 49",
+    "location": "Ernakulam, India",
+    "url": "https://vaasits.com/"
+  },
+  {
+    "companyName": "Deqad",
+    "size": "10 - 49",
+    "location": "Bucharest, Romania",
+    "url": "https://www.deqod.com/"
+  },
+  {
+    "companyName": "Odd Technologies Private Limited",
+    "size": "10 - 49",
+    "location": "Karachi, Pakistan",
+    "url": "https://oddtechnologies.com/"
+  },
+  {
+    "companyName": "Caramel Point",
+    "size": "10 - 49",
+    "location": "Cordoba, Argentina",
+    "url": "https://www.caramelpoint.com/"
+  },
+  {
+    "companyName": "Future Vision",
+    "size": "2 - 9",
+    "location": "Abu Dhabi, UAE",
+    "url": "https://thefuturevision.com/"
+  },
+  {
+    "companyName": "AHT Tech",
+    "size": "250 - 999",
+    "location": "Hanoi, Vietnam",
+    "url": "https://www.arrowhitech.com/"
+  },
+  {
+    "companyName": "DevKrutiTech",
+    "size": "10 - 49",
+    "location": "Vadodara, India",
+    "url": "https://devkrutitech.com/"
+  },
+  {
+    "companyName": "Codera Gmbh",
+    "size": "2 - 9",
+    "location": "Vienna, Austria",
+    "url": "Http://codera.at"
+  },
+  {
+    "companyName": "Rockit Development Studio",
+    "size": "50 - 249",
+    "location": "Fort Myers, United States",
+    "url": "https://rockitteam.com/"
+  },
+  {
+    "companyName": "W3 WEB SCHOOL",
+    "size": "10 - 49",
+    "location": "Kolkata, India",
+    "url": "https://www.w3webschool.com/"
+  },
+  {
+    "companyName": "4A Labs",
+    "size": "2 - 9",
+    "location": "Miami, United States",
+    "url": "https://www.4alabs.io/"
+  },
+  {
+    "companyName": "Rocket Digital",
+    "size": "10 - 49",
+    "location": "Barcelona, Spain",
+    "url": "https://www.rock.et/en"
+  },
+  {
+    "companyName": "Friendventure",
+    "size": "10 - 49",
+    "location": "Berlin, Germany",
+    "url": "https://www.friendventure.de/"
+  },
+  {
+    "companyName": "Britechx Digital",
+    "size": "2 - 9",
+    "location": "London, United Kingdom",
+    "url": "https://britechx.co.uk/"
+  },
+  {
+    "companyName": "Idea Fueled",
+    "size": "2 - 9",
+    "location": "Mohali, India",
+    "url": "https://ideafueled.com/"
+  },
+  {
+    "companyName": "ELEVATEBITS",
+    "size": "10 - 49",
+    "location": "Banja Luka, Bosnia and Herzegovina",
+    "url": "https://www.elevatebits.com"
+  },
+  {
+    "companyName": "Rabbit Studio Nepal",
+    "size": "2 - 9",
+    "location": "Kathmandu, Nepal",
+    "url": "https://rabbitstudio.com.np"
+  },
+  {
+    "companyName": "Codersbay",
+    "size": "10 - 49",
+    "location": "Gurgaon, India",
+    "url": "https://codersbaytech.com/"
+  },
+  {
+    "companyName": "Porat",
+    "size": "10 - 49",
+    "location": "Tel Aviv, Israel",
+    "url": "https://porat.dev/"
+  },
+  {
+    "companyName": "Ants Creation Private Limited",
+    "size": "10 - 49",
+    "location": "Gampaha, Sri Lanka",
+    "url": "https://www.ants.lk"
+  },
+  {
+    "companyName": "SISCA ERP",
+    "size": "10 - 49",
+    "location": "Al Qusais, UAE",
+    "url": "https://sisca.live"
+  },
+  {
+    "companyName": "SRH Digital",
+    "size": "10 - 49",
+    "location": "Valsad, India",
+    "url": "https://srhdigital.in/"
+  },
+  {
+    "companyName": "DevX Digital",
+    "size": "2 - 9",
+    "location": "Bucharest, Romania",
+    "url": "https://devx.digital/"
+  },
+  {
+    "companyName": "Zigron",
+    "size": "250 - 999",
+    "location": "Arlington, United States",
+    "url": "https://www.zigron.com/"
+  },
+  {
+    "companyName": "Fusiontecz",
+    "size": "10 - 49",
+    "location": "Mohali, India",
+    "url": "https://www.fusiontecz.com/"
+  },
+  {
+    "companyName": "Unikvell",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "https://unikvell.com/"
+  }
+]

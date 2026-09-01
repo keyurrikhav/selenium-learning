@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "Async Labs",
+    "size": "10 - 49",
+    "location": "Zagreb, Croatia",
+    "url": "https://www.asynclabs.co/"
+  },
+  {
+    "companyName": "VisionVix",
+    "size": "2 - 9",
+    "location": "Dartford, United Kingdom",
+    "url": "https://visionvix.com/"
+  },
+  {
+    "companyName": "Starstack",
+    "size": "10 - 49",
+    "location": "Kochi, India",
+    "url": "https://www.starstacktech.com"
+  },
+  {
+    "companyName": "MSH Stack",
+    "size": "2 - 9",
+    "location": "Karachi, Pakistan",
+    "url": "https://msh-stack.netlify.app/"
+  },
+  {
+    "companyName": "Zumetrix Labs",
+    "size": "2 - 9",
+    "location": "Karachi, Pakistan",
+    "url": "https://www.zumetrix.com/"
+  },
+  {
+    "companyName": "MohJay Infotech Pvt Ltd",
+    "size": "50 - 249",
+    "location": "Ludhiana, India",
+    "url": "https://www.mohjayinfotech.com/"
+  },
+  {
+    "companyName": "Harich Technology",
+    "size": "2 - 9",
+    "location": "Ahmedabad, India",
+    "url": "https://www.harichtech.com/"
+  },
+  {
+    "companyName": "Neural Metrics",
+    "size": "2 - 9",
+    "location": "London, United Kingdom",
+    "url": "https://www.neural-metrics.com"
+  },
+  {
+    "companyName": "CodePixel Breaker",
+    "size": "10 - 49",
+    "location": "Cartersville, United States",
+    "url": "https://codepixelbreaker.com/"
+  },
+  {
+    "companyName": "VAPAN",
+    "size": "2 - 9",
+    "location": "Ternopil', Ukraine",
+    "url": "https://vapan.org"
+  },
+  {
+    "companyName": "Revinr",
+    "size": "10 - 49",
+    "location": "Dhaka, Bangladesh",
+    "url": "https://revinr.com"
+  },
+  {
+    "companyName": "Kodeln Technologies",
+    "size": "2 - 9",
+    "location": "Pretoria, South Africa",
+    "url": "https://www.kodeln.co.za"
+  },
+  {
+    "companyName": "Yozu Creative",
+    "size": "10 - 49",
+    "location": "Liverpool, United Kingdom",
+    "url": "https://yozucreative.com"
+  },
+  {
+    "companyName": "Reyem Tech",
+    "size": "2 - 9",
+    "location": "Vaughan, Canada",
+    "url": "https://www.reyem.tech"
+  },
+  {
+    "companyName": "Pointeger LLC",
+    "size": "10 - 49",
+    "location": "Charlotte, United States",
+    "url": "https://www.pointeger.com/"
+  },
+  {
+    "companyName": "Websicon",
+    "size": "10 - 49",
+    "location": "Lucknow, India",
+    "url": "https://websicon.in/"
+  },
+  {
+    "companyName": "A J TECHNOLOGIES L.L.C.",
+    "size": "2 - 9",
+    "location": "Doha, Qatar",
+    "url": "https://www.ajtechnologiesllc.com/"
+  },
+  {
+    "companyName": "UNIHOX",
+    "size": "10 - 49",
+    "location": "Pune, India",
+    "url": "https://www.unihox.com"
+  },
+  {
+    "companyName": "Blumefield Ltd",
+    "size": "2 - 9",
+    "location": "Manchester, United Kingdom",
+    "url": "https://blumefield.com/"
+  },
+  {
+    "companyName": "RECILENS Corporation",
+    "size": "10 - 49",
+    "location": "Krishnagiri, India",
+    "url": "https://recilens.com"
+  },
+  {
+    "companyName": "Blue Tick Agency",
+    "size": "50 - 249",
+    "location": "Texas City, United States",
+    "url": "https://bluetickagency.com"
+  },
+  {
+    "companyName": "DRInfosoft",
+    "size": "10 - 49",
+    "location": "Delhi, India",
+    "url": "https://www.drinfosoft.com/"
+  },
+  {
+    "companyName": "Radixiy, Inc.",
+    "size": "10 - 49",
+    "location": "San Jose, United States",
+    "url": "https://radixiy.com/"
+  },
+  {
+    "companyName": "stackExpert.pk",
+    "size": "10 - 49",
+    "location": "Islamabad, Pakistan",
+    "url": "https://stackExpert.pk"
+  },
+  {
+    "companyName": "Anjok Technologies",
+    "size": "2 - 9",
+    "location": "Palladam, India",
+    "url": "https://anjoktechnologies.in/"
+  },
+  {
+    "companyName": "Chinar Code Private Limited",
+    "size": "2 - 9",
+    "location": "Srinagar, India",
+    "url": "https://chinarcode.com/"
+  },
+  {
+    "companyName": "Rudraveda Consultancy",
+    "size": "2 - 9",
+    "location": "Gurgaon, India",
+    "url": "https://rudravedaconsultancy.com/"
+  },
+  {
+    "companyName": "OrangeCrystal Infotech Private Limited",
+    "size": "2 - 9",
+    "location": "Coimbatore, India",
+    "url": "https://orangecrystal.in/"
+  },
+  {
+    "companyName": "Kritin Digital Solution",
+    "size": "10 - 49",
+    "location": "Indore, India",
+    "url": "https://kritin.in/"
+  },
+  {
+    "companyName": "Elysium Digital Ltd",
+    "size": "Freelancer",
+    "location": "Dudley, United Kingdom",
+    "url": "https://www.elysiumdigital.co.uk/"
+  },
+  {
+    "companyName": "EvantecIT",
+    "size": "2 - 9",
+    "location": "London, United Kingdom",
+    "url": "https://www.evantecit.com"
+  },
+  {
+    "companyName": "Deepnap Softech",
+    "size": "10 - 49",
+    "location": "Faridabad, India",
+    "url": "https://deepnapsoftech.com/"
+  },
+  {
+    "companyName": "Kalki The Innovation Luminary LLP",
+    "size": "2 - 9",
+    "location": "Gurgaon, India",
+    "url": "https://www.kalkillp.com"
+  },
+  {
+    "companyName": "bugcode software solutions",
+    "size": "2 - 9",
+    "location": "Cairo, Egypt",
+    "url": "https://bug-code12.github.io/bug/"
+  },
+  {
+    "companyName": "INNOVATIVE SOFTWARE SOLUTIONS",
+    "size": "10 - 49",
+    "location": "Vasai, India",
+    "url": "https://innovativesolutions.in/"
+  },
+  {
+    "companyName": "Creamerz Soft",
+    "size": "10 - 49",
+    "location": "Lahore, Pakistan",
+    "url": "https://www.creamerz.com"
+  },
+  {
+    "companyName": "Teknika",
+    "size": "50 - 249",
+    "location": "Panama City, United States",
+    "url": "https://teknikacorp.com/"
+  },
+  {
+    "companyName": "EMARKETTERS",
+    "size": "10 - 49",
+    "location": "Lucknow, India",
+    "url": "https://emarketters.com/"
+  },
+  {
+    "companyName": "DOT IT GLOBAL BUSINESS SOLUTIONS - FZCO",
+    "size": "10 - 49",
+    "location": "Dubai, UAE",
+    "url": "https://www.dotit.ae/"
+  },
+  {
+    "companyName": "Edwid Technologies  Pvt Ltd",
+    "size": "10 - 49",
+    "location": "Kolkata, India",
+    "url": "https://edwidtech.com/"
+  },
+  {
+    "companyName": "Creatiz",
+    "size": "10 - 49",
+    "location": "Jamnagar, India",
+    "url": "https://creatiz.in/"
+  },
+  {
+    "companyName": "Ninetyseven Infotech",
+    "size": "2 - 9",
+    "location": "Surat, India",
+    "url": "https://ninetyseveninfotech.com/"
+  },
+  {
+    "companyName": "Algo mediaSOFT SRl",
+    "size": "10 - 49",
+    "location": "Radauti, Romania",
+    "url": "https://algomediasoft.com"
+  },
+  {
+    "companyName": "Melon Web Studio",
+    "size": "10 - 49",
+    "location": "Chandigarh, India",
+    "url": "https://www.melonwebstudio.com"
+  },
+  {
+    "companyName": "Triosoft",
+    "size": "10 - 49",
+    "location": "Ashdod, Israel",
+    "url": "http://www.trio-soft.com"
+  },
+  {
+    "companyName": "Crawford IT",
+    "size": "10 - 49",
+    "location": "Adelaide, Australia",
+    "url": "https://www.crawfordit.com.au/"
+  },
+  {
+    "companyName": "Dual IT Software",
+    "size": "50 - 249",
+    "location": "Eindhoven, Netherlands",
+    "url": "https://dualitsoft.com"
+  },
+  {
+    "companyName": "Inteloraa",
+    "size": "10 - 49",
+    "location": "Los Angeles, United States",
+    "url": "https://inteloraa.com/"
+  }
+]

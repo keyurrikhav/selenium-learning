@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "Ftechiz Solutions Private Limited",
+    "size": "10 - 49",
+    "location": "Dehradun, India",
+    "url": "https://ftechiz.com/"
+  },
+  {
+    "companyName": "Brackets Technology | Brackets Unbound Company",
+    "size": "10 - 49",
+    "location": "Jeddah, Saudi Arabia",
+    "url": "https://brackets-tech.com/"
+  },
+  {
+    "companyName": "Thrive Studio",
+    "size": "250 - 999",
+    "location": "California City, United States",
+    "url": "https://www.thrivestudioinc.com/"
+  },
+  {
+    "companyName": "Dilighttec",
+    "size": "10 - 49",
+    "location": "Panchkula, India",
+    "url": "https://www.dilighttec.com"
+  },
+  {
+    "companyName": "InvoTeams",
+    "size": "50 - 249",
+    "location": "Pembroke Pines, United States",
+    "url": "https://invoteams.com/"
+  },
+  {
+    "companyName": "Orbish Infotech",
+    "size": "2 - 9",
+    "location": "Lucknow, India",
+    "url": "https://orbishinfotech.com/"
+  },
+  {
+    "companyName": "Key Software",
+    "size": "2 - 9",
+    "location": "Tunis, Tunisia",
+    "url": "https://www.keysoftwares.com/"
+  },
+  {
+    "companyName": "Devlux Software Studio",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "https://www.devluxsoftwarestudio.com"
+  },
+  {
+    "companyName": "WiseCode Technologies LLC",
+    "size": "2 - 9",
+    "location": "Dubai, UAE",
+    "url": "https://www.wisecodetech.com/"
+  },
+  {
+    "companyName": "D2websolution",
+    "size": "2 - 9",
+    "location": "Ghaziabad, India",
+    "url": "https://www.d2web.in/"
+  },
+  {
+    "companyName": "Escolhadigital",
+    "size": "2 - 9",
+    "location": "Porto de Mos, Portugal",
+    "url": "https://escolhadigital.com/"
+  },
+  {
+    "companyName": "Polyxer Systems",
+    "size": "2 - 9",
+    "location": "Austin, United States",
+    "url": "https://polyxer.com/"
+  },
+  {
+    "companyName": "Lead Squre Tech Pvt. Ltd.",
+    "size": "10 - 49",
+    "location": "Pune, India",
+    "url": "http://leadsqure.com/"
+  },
+  {
+    "companyName": "Empirical Edge Inc.",
+    "size": "10 - 49",
+    "location": "Jersey City, United States",
+    "url": "https://empiricaledge.com/"
+  },
+  {
+    "companyName": "Hibyte Intelli SRL",
+    "size": "10 - 49",
+    "location": "Timisoara, Romania",
+    "url": "https://hibyte.ro/homepage/"
+  },
+  {
+    "companyName": "Propel Tech Ltd",
+    "size": "50 - 249",
+    "location": "Leeds, United Kingdom",
+    "url": "https://propeltech.co.uk"
+  },
+  {
+    "companyName": "Devbox Technologies",
+    "size": "10 - 49",
+    "location": "London, United Kingdom",
+    "url": "https://devboxtech.co.uk/"
+  },
+  {
+    "companyName": "Jet BI",
+    "size": "50 - 249",
+    "location": "Dublin, Ireland",
+    "url": "https://jetbi.com/"
+  },
+  {
+    "companyName": "HumacINC",
+    "size": "2 - 9",
+    "location": "Phoenix, United States",
+    "url": "https://humacinc.com"
+  },
+  {
+    "companyName": "Bluevision Softech Private Limited",
+    "size": "2 - 9",
+    "location": "Nagpur, India",
+    "url": "https://bluevisionsoftech.co.in/"
+  },
+  {
+    "companyName": "keyTech",
+    "size": "10 - 49",
+    "location": "Helsinki, Finland",
+    "url": "https://keytech.fi/"
+  },
+  {
+    "companyName": "Focalworks",
+    "size": "50 - 249",
+    "location": "Navi Mumbai, India",
+    "url": "https://focalworks.com/"
+  },
+  {
+    "companyName": "Qono Technologies Pvt Ltd",
+    "size": "10 - 49",
+    "location": "Coimbatore, India",
+    "url": "https://qonotech.com/"
+  },
+  {
+    "companyName": "Mozanta Technologies",
+    "size": "250 - 999",
+    "location": "Dubai, UAE",
+    "url": "https://www.mozanta.com/"
+  },
+  {
+    "companyName": "Softomatic",
+    "size": "50 - 249",
+    "location": "Pune, India",
+    "url": "https://softomatic.tech/"
+  },
+  {
+    "companyName": "Ealphabits",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "https://ealphabits.com/"
+  },
+  {
+    "companyName": "Init Group",
+    "size": "10 - 49",
+    "location": "Zagreb, Croatia",
+    "url": "https://www.init.hr/"
+  },
+  {
+    "companyName": "Ace amaze",
+    "size": "2 - 9",
+    "location": "Dehradun, India",
+    "url": "https://aceamaze.com/"
+  },
+  {
+    "companyName": "THE KNOWCODE COMPANY, LDA",
+    "size": "10 - 49",
+    "location": "Ilhavo, Portugal",
+    "url": "https://www.knowcode.app"
+  },
+  {
+    "companyName": "Leo Coders Private Limited",
+    "size": "10 - 49",
+    "location": "Nagpur, India",
+    "url": "https://www.leocoders.com"
+  },
+  {
+    "companyName": "Echopx Technologies",
+    "size": "10 - 49",
+    "location": "Bengaluru, India",
+    "url": "https://echopx.com/"
+  },
+  {
+    "companyName": "E-Sutra Technologies Private Limited",
+    "size": "2 - 9",
+    "location": "Delhi, India",
+    "url": "https://e-sutra.com"
+  },
+  {
+    "companyName": "Touchstone BI",
+    "size": "2 - 9",
+    "location": "Cleveland, United Kingdom",
+    "url": "https://www.touchstonebi.co.uk/"
+  },
+  {
+    "companyName": "RODH-IT",
+    "size": "2 - 9",
+    "location": "Dhaka, Bangladesh",
+    "url": "https://rodh-it.com/"
+  },
+  {
+    "companyName": "Maneksoft USA",
+    "size": "250 - 999",
+    "location": "San Angelo, United States",
+    "url": "https://maneksoft.com/"
+  },
+  {
+    "companyName": "aveneo",
+    "size": "10 - 49",
+    "location": "Poznan, Poland",
+    "url": "https://aveneo.pl/en"
+  },
+  {
+    "companyName": "XevenAI",
+    "size": "250 - 999",
+    "location": "Sheridan, United States",
+    "url": "https://Xeven.ai"
+  },
+  {
+    "companyName": "Natural",
+    "size": "50 - 249",
+    "location": "Jaipur, India",
+    "url": "https://naturalgrp.com/"
+  },
+  {
+    "companyName": "Taillis Labs",
+    "size": "10 - 49",
+    "location": "Casablanca, Morocco",
+    "url": "https://www.taillislabs.com"
+  },
+  {
+    "companyName": "EPIQ Infotech",
+    "size": "50 - 249",
+    "location": "Richmond, United States",
+    "url": "https://epiqinfo.com/"
+  },
+  {
+    "companyName": "Centous Solutions",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "https://www.centous.com/"
+  },
+  {
+    "companyName": "NineGravity",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "https://ninegravity.com/"
+  },
+  {
+    "companyName": "NZ Solutions",
+    "size": "2 - 9",
+    "location": "Pune, India",
+    "url": "https://nzsolutions.in"
+  },
+  {
+    "companyName": "Kumaran Systems Inc",
+    "size": "250 - 999",
+    "location": "Chennai, India",
+    "url": "https://kumaran.com/"
+  },
+  {
+    "companyName": "Dignizant Technologies LLP",
+    "size": "50 - 249",
+    "location": "Surat, India",
+    "url": "https://www.dignizant.com/"
+  },
+  {
+    "companyName": "SEO Of Tulsa",
+    "size": "10 - 49",
+    "location": "Tulsa, United States",
+    "url": "https://seooftulsa.com/"
+  },
+  {
+    "companyName": "Tower Technologies",
+    "size": "10 - 49",
+    "location": "Istanbul, Turkey",
+    "url": "https://thetowertech.com/"
+  },
+  {
+    "companyName": "VIVIDSITES",
+    "size": "10 - 49",
+    "location": "St. Louis, United States",
+    "url": "https://www.vividsites.com/"
+  }
+]

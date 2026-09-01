@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "iprotus GmbH",
+    "size": "10 - 49",
+    "location": "Zug, Switzerland",
+    "url": "http://iprotus.com/"
+  },
+  {
+    "companyName": "Athens Technology Center",
+    "size": "50 - 249",
+    "location": "Athens, Greece",
+    "url": "https://www.atc.gr/"
+  },
+  {
+    "companyName": "Ahead Ads",
+    "size": "Freelancer",
+    "location": "Delhi, India",
+    "url": "http://www.aheadads.in"
+  },
+  {
+    "companyName": "OCI",
+    "size": "50 - 249",
+    "location": "St. Louis, United States",
+    "url": "https://objectcomputing.com/"
+  },
+  {
+    "companyName": "ACT360 Media Ltd.",
+    "size": "10 - 49",
+    "location": "Vancouver, Canada",
+    "url": "http://www.act360.com/"
+  },
+  {
+    "companyName": "Hornet Dynamics",
+    "size": "50 - 249",
+    "location": "Udaipur, India",
+    "url": "http://hornetdynamics.com/"
+  },
+  {
+    "companyName": "Mahiruho Consulting Services Pvt. Ltd.",
+    "size": "10 - 49",
+    "location": "Kolkata, India",
+    "url": "http://mahiruho.com/"
+  },
+  {
+    "companyName": "Coherent Solutions",
+    "size": "1,000 - 9,999",
+    "location": "Minneapolis, United States",
+    "url": "https://www.coherentsolutions.com/"
+  },
+  {
+    "companyName": "Clermont Ventures",
+    "size": "2 - 9",
+    "location": "Toronto, Canada",
+    "url": "https://clermontventures.com"
+  },
+  {
+    "companyName": "Gird technologies",
+    "size": "10 - 49",
+    "location": "Pune, India",
+    "url": "http://www.girdtechnologies.com"
+  },
+  {
+    "companyName": "Folder IT",
+    "size": "50 - 249",
+    "location": "Miami, United States",
+    "url": "http://www.folderit.net"
+  },
+  {
+    "companyName": "Your Business Websites",
+    "size": "50 - 249",
+    "location": "Tamarac, United States",
+    "url": "http://yourbusinesswebsites.com/"
+  },
+  {
+    "companyName": "Marlabs Inc.",
+    "size": "1,000 - 9,999",
+    "location": "NYC, United States",
+    "url": "https://www.marlabs.com"
+  },
+  {
+    "companyName": "Techlene Sofware Solutions Pvt. Ltd.",
+    "size": "10 - 49",
+    "location": "Indore, India",
+    "url": "http://www.techlene.com/"
+  },
+  {
+    "companyName": "BM Consulting",
+    "size": "10 - 49",
+    "location": "Pune, India",
+    "url": "https://www.bmconsulting.in"
+  },
+  {
+    "companyName": "Digial Tycoon Technologies LLP",
+    "size": "10 - 49",
+    "location": "Mumbai, India",
+    "url": "https://digitaltycoontech.com"
+  },
+  {
+    "companyName": "Neoteric",
+    "size": "50 - 249",
+    "location": "Gdansk, Poland",
+    "url": "https://neoteric.eu"
+  },
+  {
+    "companyName": "Get Custom Logo Web Design",
+    "size": "50 - 249",
+    "location": "Sheridan, United States",
+    "url": "https://www.getcustomlogo.com/"
+  },
+  {
+    "companyName": "Softxpert",
+    "size": "50 - 249",
+    "location": "Anaheim, United States",
+    "url": "https://www.softxpert.com/"
+  },
+  {
+    "companyName": "Svante Systems LLp",
+    "size": "10 - 49",
+    "location": "Noida, India",
+    "url": "http://www.svantesystems.com/"
+  },
+  {
+    "companyName": "Softcrylic",
+    "size": "50 - 249",
+    "location": "Minneapolis, United States",
+    "url": "https://softcrylic.com/"
+  },
+  {
+    "companyName": "Techno Softwares",
+    "size": "10 - 49",
+    "location": "Jaipur, India",
+    "url": "https://technosoftwares.com"
+  },
+  {
+    "companyName": "Agile Continental",
+    "size": "10 - 49",
+    "location": "Ludhiana, India",
+    "url": "https://agilecontinental.com/"
+  },
+  {
+    "companyName": "PC Link Dev.",
+    "size": "10 - 49",
+    "location": "Alexandria, Egypt",
+    "url": "https://www.pclinkdev.com"
+  },
+  {
+    "companyName": "Movinnza",
+    "size": "10 - 49",
+    "location": "Pune, India",
+    "url": "https://www.movinnza.in/"
+  },
+  {
+    "companyName": "Mainstream Technology",
+    "size": "50 - 249",
+    "location": "Little Rock, United States",
+    "url": "https://www.mainstream-tech.com"
+  },
+  {
+    "companyName": "Synectique",
+    "size": "2 - 9",
+    "location": "Lille, France",
+    "url": "http://www.synectique.eu/en"
+  },
+  {
+    "companyName": "NewRedo",
+    "size": "2 - 9",
+    "location": "United Kingdom",
+    "url": "http://www.NewRedo.com"
+  },
+  {
+    "companyName": "Degree 53",
+    "size": "50 - 249",
+    "location": "Manchester, United Kingdom",
+    "url": "https://www.degree53.com/"
+  },
+  {
+    "companyName": "Innove Solutions",
+    "size": "2 - 9",
+    "location": "Liverpool, United Kingdom",
+    "url": "http://www.innovesolutions.co.uk/"
+  },
+  {
+    "companyName": "Yozu",
+    "size": "10 - 49",
+    "location": "Liverpool, United Kingdom",
+    "url": "https://yozu.co.uk/"
+  },
+  {
+    "companyName": "Adapt",
+    "size": "50 - 249",
+    "location": "Copenhagen, Denmark",
+    "url": "https://adaptagency.com"
+  },
+  {
+    "companyName": "IT offer",
+    "size": "2 - 9",
+    "location": "Copenhagen, Denmark",
+    "url": "http://itoffer.dk/en"
+  },
+  {
+    "companyName": "Anoki Srl",
+    "size": "10 - 49",
+    "location": "Milan, Italy",
+    "url": "http://www.anoki.it/"
+  },
+  {
+    "companyName": "Linear System",
+    "size": "10 - 49",
+    "location": "Turin, Italy",
+    "url": "http://linearsystem.it"
+  },
+  {
+    "companyName": "Monk Software",
+    "size": "10 - 49",
+    "location": "Rome, Italy",
+    "url": "https://www.monksoftware.it/"
+  },
+  {
+    "companyName": "Taal srl",
+    "size": "50 - 249",
+    "location": "Rome, Italy",
+    "url": "http://www.taal.it/"
+  },
+  {
+    "companyName": "Gramener IT Services",
+    "size": "50 - 249",
+    "location": "Bengaluru, India",
+    "url": "https://www.gramenerit.com"
+  },
+  {
+    "companyName": "Metryus",
+    "size": "10 - 49",
+    "location": "London, United Kingdom",
+    "url": "https://www.metryus.com"
+  },
+  {
+    "companyName": "Celestial Systems Inc",
+    "size": "50 - 249",
+    "location": "Noida, India",
+    "url": "https://www.celestialsys.com"
+  },
+  {
+    "companyName": "Tech Intellectuals",
+    "size": "10 - 49",
+    "location": "Dallas, United States",
+    "url": "http://techintell.com/"
+  },
+  {
+    "companyName": "Systima NX",
+    "size": "10 - 49",
+    "location": "Nantes, France",
+    "url": "https://systimanx.com"
+  },
+  {
+    "companyName": "RebelDot",
+    "size": "50 - 249",
+    "location": "Cluj-Napoca, Romania",
+    "url": "https://rebeldot.com/"
+  },
+  {
+    "companyName": "Youtech",
+    "size": "50 - 249",
+    "location": "Naperville, United States",
+    "url": "https://youtechagency.com/"
+  },
+  {
+    "companyName": "Sigosoft Private Limited",
+    "size": "10 - 49",
+    "location": "Kozhikode, India",
+    "url": "https://sigosoft.com/"
+  },
+  {
+    "companyName": "Proge-Software s.r.l.",
+    "size": "50 - 249",
+    "location": "Rome, Italy",
+    "url": "http://www.progesoftware.it"
+  },
+  {
+    "companyName": "Token Develop",
+    "size": "50 - 249",
+    "location": "Zug, Switzerland",
+    "url": "https://www.tokendevelop.com"
+  },
+  {
+    "companyName": "IBA Group",
+    "size": "1,000 - 9,999",
+    "location": "Campbell, United States",
+    "url": "https://us.ibagroupit.com/"
+  }
+]

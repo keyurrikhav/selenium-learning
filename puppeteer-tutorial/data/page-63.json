@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "JSnake",
+    "size": "2 - 9",
+    "location": "Chelyabinsk, Russia",
+    "url": "https://jsnake.tech/"
+  },
+  {
+    "companyName": "Prime Technologies Inc.",
+    "size": "2 - 9",
+    "location": "Exton, United States",
+    "url": "https://www.primetechpa.com"
+  },
+  {
+    "companyName": "Newton Software Pvt Ltd",
+    "size": "50 - 249",
+    "location": "Pune, India",
+    "url": "https://www.newtonindia.com/"
+  },
+  {
+    "companyName": "Intelligent System",
+    "size": "10 - 49",
+    "location": "Riga, Latvia",
+    "url": "https://intelligent-systems.pro"
+  },
+  {
+    "companyName": "Llumin",
+    "size": "50 - 249",
+    "location": "West Springfield, United States",
+    "url": "https://llumin.com"
+  },
+  {
+    "companyName": "SoftwareMill",
+    "size": "50 - 249",
+    "location": "Warsaw, Poland",
+    "url": "https://softwaremill.com/"
+  },
+  {
+    "companyName": "Terabyte Software Solutions",
+    "size": "2 - 9",
+    "location": "Kenitra, Morocco",
+    "url": "http://terabyte-software.com"
+  },
+  {
+    "companyName": "SchemeServe",
+    "size": "2 - 9",
+    "location": "London, United Kingdom",
+    "url": "https://www.schemeserve.com"
+  },
+  {
+    "companyName": "SnapSoft IT Solutions",
+    "size": "2 - 9",
+    "location": "Budapest, Hungary",
+    "url": "http://www.snapsoft.hu"
+  },
+  {
+    "companyName": "Volochain MLM Software",
+    "size": "50 - 249",
+    "location": "Noida, India",
+    "url": "https://www.volochainmlmsoftware.com/"
+  },
+  {
+    "companyName": "Archybility Software Development",
+    "size": "2 - 9",
+    "location": "Belgrade, Serbia",
+    "url": "https://software.archybility.com/"
+  },
+  {
+    "companyName": "n3 Group",
+    "size": "50 - 249",
+    "location": "Auckland, New Zealand",
+    "url": "https://www.then3group.com/"
+  },
+  {
+    "companyName": "Zeenode Limited",
+    "size": "10 - 49",
+    "location": "Kampala, Uganda",
+    "url": "http://www.zeenode.com"
+  },
+  {
+    "companyName": "Aryson Technologies",
+    "size": "10 - 49",
+    "location": "Noida, India",
+    "url": "https://www.arysontechnologies.com/"
+  },
+  {
+    "companyName": "Gun.io",
+    "size": "Freelancer",
+    "location": "Nashville, United States",
+    "url": "https://www.gun.io/"
+  },
+  {
+    "companyName": "Prime 3 Software",
+    "size": "2 - 9",
+    "location": "Norfolk, United States",
+    "url": "https://prime3software.com"
+  },
+  {
+    "companyName": "Resliv",
+    "size": "50 - 249",
+    "location": "Minsk, Belarus",
+    "url": "http://resliv.com/"
+  },
+  {
+    "companyName": "Winding River Solutions",
+    "size": "10 - 49",
+    "location": "Edmonton, Canada",
+    "url": "https://www.windingriver.ca/"
+  },
+  {
+    "companyName": "Pleasant Solutions",
+    "size": "2 - 9",
+    "location": "Edmonton, Canada",
+    "url": "https://pleasantsolutions.com/"
+  },
+  {
+    "companyName": "Orangutech",
+    "size": "10 - 49",
+    "location": "Ottawa, Canada",
+    "url": "https://www.orangutech.com/"
+  },
+  {
+    "companyName": "Bilsoft LLC",
+    "size": "10 - 49",
+    "location": "Kharkiv, Ukraine",
+    "url": "https://bilsoft.dev/"
+  },
+  {
+    "companyName": "Netquity Corporation",
+    "size": "2 - 9",
+    "location": "Hamilton, Canada",
+    "url": "https://netquity.com/"
+  },
+  {
+    "companyName": "ID Fusion Software",
+    "size": "10 - 49",
+    "location": "Winnipeg, Canada",
+    "url": "https://idfusion.com/"
+  },
+  {
+    "companyName": "Protegra",
+    "size": "10 - 49",
+    "location": "Winnipeg, Canada",
+    "url": "http://www.protegra.com/"
+  },
+  {
+    "companyName": "Search Shark",
+    "size": "10 - 49",
+    "location": "Toronto, Canada",
+    "url": "http://www.searchshark.ca/"
+  },
+  {
+    "companyName": "CORE49",
+    "size": "10 - 49",
+    "location": "Winnipeg, Canada",
+    "url": "http://www.core49.com/"
+  },
+  {
+    "companyName": "Terracor Business Solutions",
+    "size": "10 - 49",
+    "location": "Winnipeg, Canada",
+    "url": "http://www.terracor.ca/"
+  },
+  {
+    "companyName": "Insight Software Development",
+    "size": "2 - 9",
+    "location": "Edinburgh, United Kingdom",
+    "url": "https://www.insight-software.co.uk/"
+  },
+  {
+    "companyName": "Firefinch Software",
+    "size": "2 - 9",
+    "location": "Edinburgh, United Kingdom",
+    "url": "https://firefinch.io/"
+  },
+  {
+    "companyName": "Ecatenate",
+    "size": "2 - 9",
+    "location": "Glasgow, United Kingdom",
+    "url": "https://ecatenate.com/"
+  },
+  {
+    "companyName": "PACE Software Development",
+    "size": "2 - 9",
+    "location": "Sheffield, United Kingdom",
+    "url": "https://www.pacecomputers.co.uk/"
+  },
+  {
+    "companyName": "Exbos",
+    "size": "2 - 9",
+    "location": "Bradford, United Kingdom",
+    "url": "https://www.exbos.co.uk/"
+  },
+  {
+    "companyName": "CherSoft Ltd",
+    "size": "10 - 49",
+    "location": "Sheffield, United Kingdom",
+    "url": "https://chersoft.com/"
+  },
+  {
+    "companyName": "Lectra",
+    "size": "1,000 - 9,999",
+    "location": "Bradford, United Kingdom",
+    "url": "https://www.lectra.com/"
+  },
+  {
+    "companyName": "Viva IT",
+    "size": "2 - 9",
+    "location": "Leicester, United Kingdom",
+    "url": "https://www.vivait.co.uk/"
+  },
+  {
+    "companyName": "Transpose Software",
+    "size": "10 - 49",
+    "location": "Leicester, United Kingdom",
+    "url": "https://transpose.net/"
+  },
+  {
+    "companyName": "CargoIT",
+    "size": "10 - 49",
+    "location": "Stockholm, Sweden",
+    "url": "https://www.cargoit.se/en/"
+  },
+  {
+    "companyName": "Suiteactive",
+    "size": "10 - 49",
+    "location": "Newcastle, Australia",
+    "url": "https://suiteactive.com.au"
+  },
+  {
+    "companyName": "SmartClick",
+    "size": "10 - 49",
+    "location": "",
+    "url": "https://smartclick.ai/"
+  },
+  {
+    "companyName": "Savenzer Softtech Pvt. Ltd.",
+    "size": "10 - 49",
+    "location": "",
+    "url": "http://www.savenzer.in/"
+  },
+  {
+    "companyName": "Order Circle",
+    "size": "2 - 9",
+    "location": "",
+    "url": "https://ordercircle.com/"
+  },
+  {
+    "companyName": "WyeWorks",
+    "size": "10 - 49",
+    "location": "Montevideo, Uruguay",
+    "url": "https://www.wyeworks.com/"
+  },
+  {
+    "companyName": "Onesoft Technologies",
+    "size": "10 - 49",
+    "location": "",
+    "url": "http://onesoftapps.com/"
+  },
+  {
+    "companyName": "ditno",
+    "size": "2 - 9",
+    "location": "Sydney, Australia",
+    "url": "https://ditno.com"
+  },
+  {
+    "companyName": "Be More Innovations",
+    "size": "2 - 9",
+    "location": "",
+    "url": "https://bemoreinnovations.com/"
+  },
+  {
+    "companyName": "Arena Phone BD",
+    "size": "50 - 249",
+    "location": "Dhaka, Bangladesh",
+    "url": "https://www.arena.com.bd/"
+  },
+  {
+    "companyName": "Avercast Infotech",
+    "size": "10 - 49",
+    "location": "Pune, India",
+    "url": "https://www.avercast.in"
+  },
+  {
+    "companyName": "Interventure",
+    "size": "50 - 249",
+    "location": "Belgrade, Serbia",
+    "url": "https://www.interventure.info/"
+  }
+]

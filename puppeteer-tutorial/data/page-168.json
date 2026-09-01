@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "Climbing Turn Ltd",
+    "size": "2 - 9",
+    "location": "Stevenage, United Kingdom",
+    "url": "https://www.climbingturn.co.uk"
+  },
+  {
+    "companyName": "Plysmotix Tech lab",
+    "size": "2 - 9",
+    "location": "Ganjam, India",
+    "url": "https://plysmotixtechlab.com/"
+  },
+  {
+    "companyName": "Nukta Solutions",
+    "size": "10 - 49",
+    "location": "Woodbridge, United States",
+    "url": "https://www.nuktasolutions.us"
+  },
+  {
+    "companyName": "GDC Services",
+    "size": "250 - 999",
+    "location": "Belgrade, Serbia",
+    "url": "https://gdc-services.tech/"
+  },
+  {
+    "companyName": "Mirando Solutions",
+    "size": "10 - 49",
+    "location": "Nasr City, Egypt",
+    "url": "https://mirando.io/"
+  },
+  {
+    "companyName": "TekGaru",
+    "size": "10 - 49",
+    "location": "Boca Raton, United States",
+    "url": "https://tekgaru.com/"
+  },
+  {
+    "companyName": "Bart.sk",
+    "size": "50 - 249",
+    "location": "Kosice, Slovakia",
+    "url": "http://bartsoftware.com"
+  },
+  {
+    "companyName": "Viganium",
+    "size": "10 - 49",
+    "location": "Jeddah, Saudi Arabia",
+    "url": "https://viganium.com/"
+  },
+  {
+    "companyName": "Freshbyte",
+    "size": "10 - 49",
+    "location": "Cluj-Napoca, Romania",
+    "url": "https://freshbyteinc.com"
+  },
+  {
+    "companyName": "DC House",
+    "size": "2 - 9",
+    "location": "Wroclaw, Poland",
+    "url": "https://www.dchouse.pl"
+  },
+  {
+    "companyName": "VSK Global Software",
+    "size": "10 - 49",
+    "location": "Bialystok, Poland",
+    "url": "https://vskglobalsoftware.com"
+  },
+  {
+    "companyName": "Pragmica",
+    "size": "2 - 9",
+    "location": "Los Angeles, United States",
+    "url": "https://pragmica.com"
+  },
+  {
+    "companyName": "OITS Dhaka Ltd",
+    "size": "10 - 49",
+    "location": "Dhaka, Bangladesh",
+    "url": "https://oitsdhaka.com/"
+  },
+  {
+    "companyName": "CrunchCode",
+    "size": "10 - 49",
+    "location": "Lisbon, Portugal",
+    "url": "https://www.crunchcode.com/"
+  },
+  {
+    "companyName": "ActiveX IT Services",
+    "size": "2 - 9",
+    "location": "Boulder, United States",
+    "url": "https://activexitservices.com/"
+  },
+  {
+    "companyName": "Key Element Ltd",
+    "size": "10 - 49",
+    "location": "London, United Kingdom",
+    "url": "https://www.keyelement.co.uk/"
+  },
+  {
+    "companyName": "Interlink Commerce",
+    "size": "2 - 9",
+    "location": "Franklin, United States",
+    "url": "https://interlinkcommerce.com/"
+  },
+  {
+    "companyName": "SysTeraTech",
+    "size": "2 - 9",
+    "location": "Greater Noida, India",
+    "url": "https://www.systeratech.com/"
+  },
+  {
+    "companyName": "InLinkers.ae",
+    "size": "50 - 249",
+    "location": "Dubai, UAE",
+    "url": "https://inlinkers.ae/"
+  },
+  {
+    "companyName": "Brain Coders LLC",
+    "size": "2 - 9",
+    "location": "Sheridan, United States",
+    "url": "https://brain-coders.com"
+  },
+  {
+    "companyName": "Risva",
+    "size": "10 - 49",
+    "location": "Bengaluru, India",
+    "url": "https://www.risva.app"
+  },
+  {
+    "companyName": "Prognos Labs",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "https://prognoslabs.ai/"
+  },
+  {
+    "companyName": "Kanzen Softech Private Limited",
+    "size": "10 - 49",
+    "location": "Indore, India",
+    "url": "http://www.kanzensoftechpvl.com"
+  },
+  {
+    "companyName": "Ananta Labs",
+    "size": "10 - 49",
+    "location": "Noida, India",
+    "url": "https://www.anantalabs.net/"
+  },
+  {
+    "companyName": "Samurai Web Experts Ltd",
+    "size": "2 - 9",
+    "location": "Albion, Mauritius",
+    "url": "https://samurai.mu"
+  },
+  {
+    "companyName": "Nevaeh Solutions",
+    "size": "2 - 9",
+    "location": "Port Elizabeth, South Africa",
+    "url": "https://www.nevaeh.co.za/"
+  },
+  {
+    "companyName": "DC IT Management",
+    "size": "10 - 49",
+    "location": "Richmond, United States",
+    "url": "https://dcitm.com/"
+  },
+  {
+    "companyName": "Pinnacloid",
+    "size": "50 - 249",
+    "location": "Austin, United States",
+    "url": "https://www.pinnacloid.com"
+  },
+  {
+    "companyName": "eCode Tech",
+    "size": "10 - 49",
+    "location": "Pristina, Kosovo",
+    "url": "https://ecodetech.co/"
+  },
+  {
+    "companyName": "Nova Express",
+    "size": "2 - 9",
+    "location": "Chicago, United States",
+    "url": "https://novaexpress.ai"
+  },
+  {
+    "companyName": "SMOKETREES DIGITAL LLP",
+    "size": "10 - 49",
+    "location": "Bengaluru, India",
+    "url": "https://smoketrees.in"
+  },
+  {
+    "companyName": "Snowtech Global Software (SGS)",
+    "size": "50 - 249",
+    "location": "Herndon, United States",
+    "url": "https://www.sgstechsolutions.com"
+  },
+  {
+    "companyName": "NextCTL",
+    "size": "10 - 49",
+    "location": "Delaware, United States",
+    "url": "https://nextctl.com/"
+  },
+  {
+    "companyName": "Inflowlabs",
+    "size": "10 - 49",
+    "location": "Denver, United States",
+    "url": "https://inflowlabs.com/"
+  },
+  {
+    "companyName": "QuartzDevs",
+    "size": "10 - 49",
+    "location": "Oradea, Romania",
+    "url": "https://www.quartzdevs.com/"
+  },
+  {
+    "companyName": "Stalis Consulting",
+    "size": "10 - 49",
+    "location": "Nairobi, Kenya",
+    "url": "https://stalis.co.ke/"
+  },
+  {
+    "companyName": "DarkM Solutions",
+    "size": "2 - 9",
+    "location": "Panchevo, Yugoslavia",
+    "url": "https://www.darkmsolutions.com"
+  },
+  {
+    "companyName": "YOTT",
+    "size": "2 - 9",
+    "location": "Dubai, UAE",
+    "url": "https://yott.dev"
+  },
+  {
+    "companyName": "Bananapie GmbH",
+    "size": "2 - 9",
+    "location": "Berlin, Germany",
+    "url": "https://www.bananapie.io/"
+  },
+  {
+    "companyName": "Wheeling Software",
+    "size": "2 - 9",
+    "location": "Wheeling, United States",
+    "url": "https://wheelingsoft.com/"
+  },
+  {
+    "companyName": "Code Cyper Private Limited",
+    "size": "10 - 49",
+    "location": "Noida, India",
+    "url": "https://codecyper.com/"
+  },
+  {
+    "companyName": "Syftnex",
+    "size": "10 - 49",
+    "location": "Gujranwala, Pakistan",
+    "url": "https://syftnex.com"
+  },
+  {
+    "companyName": "A4 Staffing",
+    "size": "50 - 249",
+    "location": "Carrollton, United States",
+    "url": "https://a4staffing.com/"
+  },
+  {
+    "companyName": "Nedotal",
+    "size": "2 - 9",
+    "location": "Zagreb, Croatia",
+    "url": "https://nedotal.hr/"
+  },
+  {
+    "companyName": "Lobi Software Studio",
+    "size": "Freelancer",
+    "location": "Columbus, United States",
+    "url": "https://www.lobisoftware.com"
+  },
+  {
+    "companyName": "MindstormSoft",
+    "size": "2 - 9",
+    "location": "Ahmedabad, India",
+    "url": "https://mindstormsoft.com/"
+  },
+  {
+    "companyName": "AGKRAFT TECHNOLOGY PRIVATE LIMITED",
+    "size": "10 - 49",
+    "location": "Delhi, India",
+    "url": "https://agkraft.co/"
+  },
+  {
+    "companyName": "DIGITOS IT SOLUTIONS PVT LTD",
+    "size": "10 - 49",
+    "location": "Chhatrapati Sambhajinagar, India",
+    "url": "https://www.digitositsolutionpvtltd.com/"
+  }
+]

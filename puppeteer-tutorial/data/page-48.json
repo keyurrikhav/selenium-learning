@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "Brudite Pvt. Ltd.",
+    "size": "10 - 49",
+    "location": "Jaipur, India",
+    "url": "https://brudite.com/"
+  },
+  {
+    "companyName": "AppDesk Services Pvt. Ltd.",
+    "size": "10 - 49",
+    "location": "Gurgaon, India",
+    "url": "https://www.appdeskservices.com/"
+  },
+  {
+    "companyName": "Itexus",
+    "size": "50 - 249",
+    "location": "Warsaw, Poland",
+    "url": "http://itexus.com"
+  },
+  {
+    "companyName": "Rootstack",
+    "size": "50 - 249",
+    "location": "Panama City, Panama",
+    "url": "https://www.rootstack.com/en"
+  },
+  {
+    "companyName": "Taxi Web Design",
+    "size": "10 - 49",
+    "location": "Lalitpur, Nepal",
+    "url": "https://taxi-webdesign.com"
+  },
+  {
+    "companyName": "Impekable",
+    "size": "10 - 49",
+    "location": "San Jose, United States",
+    "url": "https://impekable.com"
+  },
+  {
+    "companyName": "Biztech Consulting & Solutions",
+    "size": "250 - 999",
+    "location": "Ahmedabad, India",
+    "url": "https://www.biztechcs.com/"
+  },
+  {
+    "companyName": "Solentive",
+    "size": "10 - 49",
+    "location": "Sydney, Australia",
+    "url": "https://www.solentive.com/"
+  },
+  {
+    "companyName": "iRonin.IT",
+    "size": "10 - 49",
+    "location": "Warsaw, Poland",
+    "url": "https://www.iRonin.it"
+  },
+  {
+    "companyName": "Think Future Technologies",
+    "size": "250 - 999",
+    "location": "Gurgaon, India",
+    "url": "https://www.tftus.com/"
+  },
+  {
+    "companyName": "Techcurve",
+    "size": "2 - 9",
+    "location": "Bangkok, Thailand",
+    "url": "https://techcurve.co/"
+  },
+  {
+    "companyName": "Dewais",
+    "size": "10 - 49",
+    "location": "Kharkiv, Ukraine",
+    "url": "https://dewais.com/"
+  },
+  {
+    "companyName": "M2 Web Solution",
+    "size": "2 - 9",
+    "location": "Vadodara, India",
+    "url": "https://m2webdesigning.com/"
+  },
+  {
+    "companyName": "Zentriflex Software",
+    "size": "2 - 9",
+    "location": "Ivano-Frankivsk, Ukraine",
+    "url": "https://zentriflex.com"
+  },
+  {
+    "companyName": "Netsqure Technologies Pvt Ltd",
+    "size": "10 - 49",
+    "location": "Bengaluru, India",
+    "url": "https://netsqure.com/"
+  },
+  {
+    "companyName": "Techling AI",
+    "size": "2 - 9",
+    "location": "Austin, United States",
+    "url": "https://techling.ai/"
+  },
+  {
+    "companyName": "Ezeonsoft Technology",
+    "size": "50 - 249",
+    "location": "Lucknow, India",
+    "url": "https://www.ezeonsoft.com"
+  },
+  {
+    "companyName": "Espeo Software",
+    "size": "50 - 249",
+    "location": "Poznan, Poland",
+    "url": "https://espeo.eu/"
+  },
+  {
+    "companyName": "Briggr Technologies LTD",
+    "size": "2 - 9",
+    "location": "London, United Kingdom",
+    "url": "https://www.briggrtech.com"
+  },
+  {
+    "companyName": "Geminate Solutions Private Limited",
+    "size": "10 - 49",
+    "location": "Surat, India",
+    "url": "https://geminatesolutions.com"
+  },
+  {
+    "companyName": "Yangshu Co. Ltd.",
+    "size": "10 - 49",
+    "location": "Bangkok, Thailand",
+    "url": "https://yangshu.io"
+  },
+  {
+    "companyName": "ACAP",
+    "size": "10 - 49",
+    "location": "Fort Lauderdale, United States",
+    "url": "https://acapglobal.com/"
+  },
+  {
+    "companyName": "MorelandConnect",
+    "size": "10 - 49",
+    "location": "Hudson, United States",
+    "url": "https://www.morelandconnect.com"
+  },
+  {
+    "companyName": "Inmov",
+    "size": "50 - 249",
+    "location": "Miami, United States",
+    "url": "https://inmovus.com/"
+  },
+  {
+    "companyName": "Miquido",
+    "size": "250 - 999",
+    "location": "Krakow, Poland",
+    "url": "https://www.miquido.com/"
+  },
+  {
+    "companyName": "SMARTCODE TECHNOLOGIES LIMITED",
+    "size": "10 - 49",
+    "location": "Nairobi, Kenya",
+    "url": "https://www.smartcode.co.ke/"
+  },
+  {
+    "companyName": "Itmarkerz Technologies",
+    "size": "10 - 49",
+    "location": "Kottayam, India",
+    "url": "http://www.itmarkerz.co.in/"
+  },
+  {
+    "companyName": "Amazing Workz",
+    "size": "10 - 49",
+    "location": "Bhubaneswar, India",
+    "url": "https://amazingworkz.com/"
+  },
+  {
+    "companyName": "Ayatas Technologies",
+    "size": "50 - 249",
+    "location": "Sacramento, United States",
+    "url": "https://www.ayatas.com/"
+  },
+  {
+    "companyName": "ScorpionTC",
+    "size": "50 - 249",
+    "location": "Dortmund, Germany",
+    "url": "https://scorpiontc.com/"
+  },
+  {
+    "companyName": "GITS",
+    "size": "50 - 249",
+    "location": "Hanoi, Vietnam",
+    "url": "https://gits.com.vn/"
+  },
+  {
+    "companyName": "Vstorm",
+    "size": "2 - 9",
+    "location": "Wroclaw, Poland",
+    "url": "https://vstorm.co/"
+  },
+  {
+    "companyName": "Abbeal",
+    "size": "50 - 249",
+    "location": "Paris, France",
+    "url": "https://abbeal.com"
+  },
+  {
+    "companyName": "Innuy - Full Stack Development",
+    "size": "10 - 49",
+    "location": "Montevideo, Uruguay",
+    "url": "http://www.innuy.com/"
+  },
+  {
+    "companyName": "iSolve Mobility",
+    "size": "50 - 249",
+    "location": "Pretoria, South Africa",
+    "url": "http://www.isolvemobility.co.za/"
+  },
+  {
+    "companyName": "ateliware",
+    "size": "50 - 249",
+    "location": "Curitiba, Brazil",
+    "url": "https://ateliware.com/en/"
+  },
+  {
+    "companyName": "Kody Technolab",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "https://kodytechnolab.com/"
+  },
+  {
+    "companyName": "Nistruct",
+    "size": "10 - 49",
+    "location": "Central Serbia, Serbia",
+    "url": "https://nistruct.com"
+  },
+  {
+    "companyName": "Prismetric",
+    "size": "50 - 249",
+    "location": "Gandhinagar, India",
+    "url": "https://www.prismetric.com"
+  },
+  {
+    "companyName": "9series Inc",
+    "size": "250 - 999",
+    "location": "Ahmedabad, India",
+    "url": "https://www.9series.com"
+  },
+  {
+    "companyName": "Code-B Solutions",
+    "size": "50 - 249",
+    "location": "Mumbai, India",
+    "url": "https://code-b.dev/"
+  },
+  {
+    "companyName": "Rococo Consultant Pvt. Ltd",
+    "size": "10 - 49",
+    "location": "Mumbai, India",
+    "url": "http://www.rococoindia.com"
+  },
+  {
+    "companyName": "Webhouseindia",
+    "size": "2 - 9",
+    "location": "Patna, India",
+    "url": "https://www.webhouseindia.com"
+  },
+  {
+    "companyName": "SOLV Internet & Marketing",
+    "size": "10 - 49",
+    "location": "Katowice, Poland",
+    "url": "https://solv.pl/"
+  },
+  {
+    "companyName": "Revolab Sdn Bhd",
+    "size": "10 - 49",
+    "location": "Cyberjaya, Malaysia",
+    "url": "http://revolab.ai/"
+  },
+  {
+    "companyName": "Prioxis Technologies",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "https://www.prioxis.com/"
+  },
+  {
+    "companyName": "ascent",
+    "size": "10 - 49",
+    "location": "Mumbai, India",
+    "url": "https://ascentfuturetech.com/"
+  },
+  {
+    "companyName": "iSolve Technologies Pvt Ltd.",
+    "size": "250 - 999",
+    "location": "Amsterdam, Netherlands",
+    "url": "https://isolve.in"
+  }
+]

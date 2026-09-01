@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "Clintel Systems",
+    "size": "2 - 9",
+    "location": "Kent Town, Australia",
+    "url": "https://www.clintel.com.au/"
+  },
+  {
+    "companyName": "Alfa",
+    "size": "50 - 249",
+    "location": "Birmingham, United States",
+    "url": "https://www.alfasystems.com/"
+  },
+  {
+    "companyName": "Bluestar Leasing",
+    "size": "50 - 249",
+    "location": "Alton, United Kingdom",
+    "url": "https://www.bluestarleasing.com/"
+  },
+  {
+    "companyName": "Centrixe",
+    "size": "50 - 249",
+    "location": "London, United Kingdom",
+    "url": "http://www.centrixe.com/"
+  },
+  {
+    "companyName": "Aixigo",
+    "size": "50 - 249",
+    "location": "London, United Kingdom",
+    "url": "https://www.aixigo.com/"
+  },
+  {
+    "companyName": "Finos",
+    "size": "2 - 9",
+    "location": "NYC, United States",
+    "url": "https://www.finos.org/"
+  },
+  {
+    "companyName": "Genesis Global",
+    "size": "50 - 249",
+    "location": "NYC, United States",
+    "url": "https://genesis.global/"
+  },
+  {
+    "companyName": "Merlin Software",
+    "size": "10 - 49",
+    "location": "Thebarton, Australia",
+    "url": "https://www.merlinsoftware.com.au/"
+  },
+  {
+    "companyName": "Teknotrait",
+    "size": "50 - 249",
+    "location": "Bengaluru, India",
+    "url": "https://teknotrait.com/"
+  },
+  {
+    "companyName": "VNJ INNOVATIONS",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "https://www.vnjinnovations.com"
+  },
+  {
+    "companyName": "Lateral Technology",
+    "size": "10 - 49",
+    "location": "Cheltenham, United Kingdom",
+    "url": "http://www.getlateral.com"
+  },
+  {
+    "companyName": "Temenos",
+    "size": "1,000 - 9,999",
+    "location": "Geneva, Switzerland",
+    "url": "http://www.temenos.com"
+  },
+  {
+    "companyName": "TouchstoneFMS",
+    "size": "250 - 999",
+    "location": "London, United Kingdom",
+    "url": "https://www.touchstonefms.co.uk"
+  },
+  {
+    "companyName": "Perfios",
+    "size": "250 - 999",
+    "location": "Bengaluru, India",
+    "url": "http://www.perfios.com/"
+  },
+  {
+    "companyName": "Analytics Fox Fintech",
+    "size": "50 - 249",
+    "location": "Thane, India",
+    "url": "https://analyticsfoxsoftwares.com/"
+  },
+  {
+    "companyName": "OpenWay",
+    "size": "50 - 249",
+    "location": "Mont Saint Guibert, Belgium",
+    "url": "http://www.openwaygroup.com"
+  },
+  {
+    "companyName": "Zapproved",
+    "size": "50 - 249",
+    "location": "Portland, United States",
+    "url": "https://zapproved.com/"
+  },
+  {
+    "companyName": "ndgit",
+    "size": "50 - 249",
+    "location": "Zurich, Switzerland",
+    "url": "http://ndgit.com"
+  },
+  {
+    "companyName": "Blanc Labs",
+    "size": "50 - 249",
+    "location": "Toronto, Canada",
+    "url": "https://blanclabs.com"
+  },
+  {
+    "companyName": "SMART-Service Management And Route Tracking",
+    "size": "10 - 49",
+    "location": "Effingham, United States",
+    "url": "https://www.smart.software/"
+  },
+  {
+    "companyName": "Jayam Solutions",
+    "size": "10 - 49",
+    "location": "Hyderabad, India",
+    "url": "http://www.jayamsolutions.com/"
+  },
+  {
+    "companyName": "Memento Payments",
+    "size": "10 - 49",
+    "location": "Rey arfjor ur, Iceland",
+    "url": "http://www.mementopayments.com"
+  },
+  {
+    "companyName": "Arnia Software",
+    "size": "250 - 999",
+    "location": "Bucharest, Romania",
+    "url": "http://www.arnia.com"
+  },
+  {
+    "companyName": "Inflectra Corporation",
+    "size": "10 - 49",
+    "location": "Silver Spring, United States",
+    "url": "http://www.inflectra.com"
+  },
+  {
+    "companyName": "Planet PCI Infotech",
+    "size": "250 - 999",
+    "location": "Gurgaon, India",
+    "url": "http://planetpci-tech.com/"
+  },
+  {
+    "companyName": "Soft Elegance",
+    "size": "10 - 49",
+    "location": "Houston, United States",
+    "url": "https://www.softelegance.com/"
+  },
+  {
+    "companyName": "MWC Partners",
+    "size": "2 - 9",
+    "location": "Bletchley, United Kingdom",
+    "url": "https://www.mwc-partners.com/"
+  },
+  {
+    "companyName": "RBA",
+    "size": "10 - 49",
+    "location": "Surrey, United Kingdom",
+    "url": "https://www.rbauk.com/"
+  },
+  {
+    "companyName": "Mi9 Retail",
+    "size": "250 - 999",
+    "location": "Toronto, Canada",
+    "url": "https://mi9retail.com/"
+  },
+  {
+    "companyName": "LS Retail",
+    "size": "250 - 999",
+    "location": "Kuala Lumpur, Malaysia",
+    "url": "https://www.lsretail.com/"
+  },
+  {
+    "companyName": "VRS Softwares",
+    "size": "2 - 9",
+    "location": "Thane, India",
+    "url": "https://www.vrssoftwares.com/"
+  },
+  {
+    "companyName": "Logic Research Labs",
+    "size": "10 - 49",
+    "location": "Thanjavur, India",
+    "url": "https://logicresearchlabs.com/"
+  },
+  {
+    "companyName": "NT Soft Technologies",
+    "size": "10 - 49",
+    "location": "Varanasi, India",
+    "url": "http://www.ntsoft.in/"
+  },
+  {
+    "companyName": "Solmevyn",
+    "size": "10 - 49",
+    "location": "Jabalpur, India",
+    "url": "https://solmeyvn.com/"
+  },
+  {
+    "companyName": "Applexus Technologies",
+    "size": "250 - 999",
+    "location": "Federal Way, United States",
+    "url": "https://www.applexus.com/"
+  },
+  {
+    "companyName": "Kreyon",
+    "size": "10 - 49",
+    "location": "Jabalpur, India",
+    "url": "https://www.kreyonsystems.com/"
+  },
+  {
+    "companyName": "Chain Drive",
+    "size": "10 - 49",
+    "location": "Montreal, Canada",
+    "url": "https://chaindrive.com/"
+  },
+  {
+    "companyName": "Pomeroy",
+    "size": "10 - 49",
+    "location": "Boone County, United States",
+    "url": "https://www.pomeroy.com/"
+  },
+  {
+    "companyName": "TrustBankCBS",
+    "size": "250 - 999",
+    "location": "Mumbai, India",
+    "url": "http://www.trustbankcbs.com/"
+  },
+  {
+    "companyName": "Finacus Solutions",
+    "size": "50 - 249",
+    "location": "Mumbai, India",
+    "url": "http://www.finacus.co.in"
+  },
+  {
+    "companyName": "CyberHour.com",
+    "size": "2 - 9",
+    "location": "",
+    "url": "https://www.cyberhour.com"
+  },
+  {
+    "companyName": "NCR Corporation",
+    "size": "10000+",
+    "location": "Chicago, United States",
+    "url": "http://www.ncr.com"
+  },
+  {
+    "companyName": "EdgeVerve",
+    "size": "250 - 999",
+    "location": "Bengaluru, India",
+    "url": "http://www.edgeverve.com"
+  },
+  {
+    "companyName": "Spotware Systems",
+    "size": "50 - 249",
+    "location": "Limassol, Cyprus",
+    "url": "http://www.spotware.com"
+  },
+  {
+    "companyName": "DataVision",
+    "size": "250 - 999",
+    "location": "Pune, India",
+    "url": "http://www.datavsn.com/"
+  },
+  {
+    "companyName": "Virmati Group",
+    "size": "50 - 249",
+    "location": "Ahmedabad, India",
+    "url": "http://www.virmati.com"
+  },
+  {
+    "companyName": "Retail Pro",
+    "size": "50 - 249",
+    "location": "Folsom, United States",
+    "url": "https://www.retailpro.com/"
+  },
+  {
+    "companyName": "Red Panda Software",
+    "size": "50 - 249",
+    "location": "London, United Kingdom",
+    "url": "https://www.redpandasoftware.com/"
+  }
+]

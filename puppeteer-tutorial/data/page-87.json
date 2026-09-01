@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "Afocus",
+    "size": "10 - 49",
+    "location": "Ho Chi Minh City, Vietnam",
+    "url": "https://afocus.dev/"
+  },
+  {
+    "companyName": "FasterThanLight",
+    "size": "50 - 249",
+    "location": "Kyiv, Ukraine",
+    "url": "https://fasterthanlight.me/"
+  },
+  {
+    "companyName": "CloudOnHire",
+    "size": "10 - 49",
+    "location": "Bengaluru, India",
+    "url": "https://CloudOnHire.com"
+  },
+  {
+    "companyName": "India Briefs Private Limited",
+    "size": "10 - 49",
+    "location": "Indore, India",
+    "url": "https://www.india-briefs.com/"
+  },
+  {
+    "companyName": "PlayFusionLabs",
+    "size": "10 - 49",
+    "location": "Przemysl, Poland",
+    "url": "https://www.playfusionlabs.com/"
+  },
+  {
+    "companyName": "Atomic Actions",
+    "size": "10 - 49",
+    "location": "Claymont, United States",
+    "url": "https://www.atomicactions.io/"
+  },
+  {
+    "companyName": "Latonis Technologies",
+    "size": "2 - 9",
+    "location": "Loughton, United Kingdom",
+    "url": "https://latonis.app/"
+  },
+  {
+    "companyName": "XIM, Inc",
+    "size": "250 - 999",
+    "location": "Hollywood, United States",
+    "url": "http://ximxim.com/company/"
+  },
+  {
+    "companyName": "Ecosmob Technologies Pvt. Ltd.",
+    "size": "50 - 249",
+    "location": "Ahmedabad, India",
+    "url": "http://www.ecosmob.com"
+  },
+  {
+    "companyName": "Software Developers India",
+    "size": "50 - 249",
+    "location": "Saratoga, United States",
+    "url": "https://softwaredevelopersindia.com/"
+  },
+  {
+    "companyName": "SISGAIN",
+    "size": "50 - 249",
+    "location": "Noida, India",
+    "url": "https://sisgain.com/"
+  },
+  {
+    "companyName": "DatumCode",
+    "size": "10 - 49",
+    "location": "Sharjah, UAE",
+    "url": "https://datumcode.com/"
+  },
+  {
+    "companyName": "HEXR FACTORY IMMERSIVE TECH PVT LTD",
+    "size": "10 - 49",
+    "location": "Chennai, India",
+    "url": "https://www.hexrfactory.com"
+  },
+  {
+    "companyName": "Specbee",
+    "size": "50 - 249",
+    "location": "Bengaluru, India",
+    "url": "http://www.specbee.com"
+  },
+  {
+    "companyName": "Cyber Concepts",
+    "size": "10 - 49",
+    "location": "Dehiwala-Mount Lavinia, Sri Lanka",
+    "url": "https://cyberconceptslk.com/"
+  },
+  {
+    "companyName": "Engage",
+    "size": "10 - 49",
+    "location": "St. Louis, United States",
+    "url": "https://engagesoftware.com/"
+  },
+  {
+    "companyName": "Digital HubSolution",
+    "size": "50 - 249",
+    "location": "Noida, India",
+    "url": "https://digitalhubsolution.com/"
+  },
+  {
+    "companyName": "WebDesk Solution",
+    "size": "10 - 49",
+    "location": "NYC, United States",
+    "url": "https://webdesksolution.com"
+  },
+  {
+    "companyName": "Gravity Innovative Solutions",
+    "size": "2 - 9",
+    "location": "Thrissur, India",
+    "url": "http://gravityinnovativesolutions.in/"
+  },
+  {
+    "companyName": "Raulji Technologies",
+    "size": "10 - 49",
+    "location": "Vadodara, India",
+    "url": "https://www.rauljitechnologies.com/"
+  },
+  {
+    "companyName": "Eneblur Consulting",
+    "size": "10 - 49",
+    "location": "Hubli, India",
+    "url": "http://www.eneblur.com"
+  },
+  {
+    "companyName": "Techerudite",
+    "size": "50 - 249",
+    "location": "Ahmedabad, India",
+    "url": "https://techerudite.com/"
+  },
+  {
+    "companyName": "Daksha Design",
+    "size": "10 - 49",
+    "location": "Mohali, India",
+    "url": "http://www.dakshadesign.com"
+  },
+  {
+    "companyName": "Reinforce Global",
+    "size": "10 - 49",
+    "location": "Anaheim, United States",
+    "url": "https://reinforceglobal.com/"
+  },
+  {
+    "companyName": "IBR Infotech",
+    "size": "10 - 49",
+    "location": "Indore, India",
+    "url": "https://www.ibrinfotech.com"
+  },
+  {
+    "companyName": "Codility Solutions",
+    "size": "10 - 49",
+    "location": "Lahore, Pakistan",
+    "url": "https://www.codilitysolutions.com"
+  },
+  {
+    "companyName": "Websigma Private Limited",
+    "size": "10 - 49",
+    "location": "Bengaluru, India",
+    "url": "https://www.websigmaglobal.com"
+  },
+  {
+    "companyName": "Nivahata Technologies Private Limited",
+    "size": "2 - 9",
+    "location": "Warangal, India",
+    "url": "https://nivahata.com"
+  },
+  {
+    "companyName": "Starkflow",
+    "size": "10 - 49",
+    "location": "Nassau, United States",
+    "url": "https://www.starkflow.co"
+  },
+  {
+    "companyName": "Extern Labs",
+    "size": "10 - 49",
+    "location": "Jaipur, India",
+    "url": "https://externlabs.com/"
+  },
+  {
+    "companyName": "Coders.Dev",
+    "size": "10 - 49",
+    "location": "London, United Kingdom",
+    "url": "https://www.coders.dev/"
+  },
+  {
+    "companyName": "Web And SEO Pro",
+    "size": "50 - 249",
+    "location": "San Diego, United States",
+    "url": "http://webandseopro.com/"
+  },
+  {
+    "companyName": "Digi Carotene",
+    "size": "2 - 9",
+    "location": "Hyderabad, India",
+    "url": "http://www.digicarotene.com/"
+  },
+  {
+    "companyName": "HF-Solution",
+    "size": "250 - 999",
+    "location": "Skopje, North Macedonia",
+    "url": "https://www.hf-solution.com/"
+  },
+  {
+    "companyName": "SculptSoft Pvt. Ltd.",
+    "size": "50 - 249",
+    "location": "Ahmedabad, India",
+    "url": "https://www.sculptsoft.com/"
+  },
+  {
+    "companyName": "Innovative Code Labs Pvt. Ltd",
+    "size": "50 - 249",
+    "location": "Mohali, India",
+    "url": "https://icodelabs.co"
+  },
+  {
+    "companyName": "Fluper Technologies W.L.L",
+    "size": "50 - 249",
+    "location": "Manama, Bahrain",
+    "url": "https://fluper.bh/"
+  },
+  {
+    "companyName": "Digital Scientists Ltd",
+    "size": "2 - 9",
+    "location": "Portsmouth, United Kingdom",
+    "url": "https://www.digital-scientists.co.uk"
+  },
+  {
+    "companyName": "Visionary Solutions",
+    "size": "50 - 249",
+    "location": "Lviv, Ukraine",
+    "url": "https://visionary-solutions-website.webflow.io/"
+  },
+  {
+    "companyName": "Murre Agency",
+    "size": "2 - 9",
+    "location": "Barcelona, Spain",
+    "url": "https://murreagency.com/"
+  },
+  {
+    "companyName": "HeyFlutter.com",
+    "size": "10 - 49",
+    "location": "Kassel, Germany",
+    "url": "https://heyflutterapp.com/"
+  },
+  {
+    "companyName": "Cloud Services Group",
+    "size": "10 - 49",
+    "location": "Lahore, Pakistan",
+    "url": "https://csgpakistan.com/"
+  },
+  {
+    "companyName": "Webskitters LTD",
+    "size": "2 - 9",
+    "location": "London, United Kingdom",
+    "url": "https://www.webskitters.uk"
+  },
+  {
+    "companyName": "Isynbus Technologies",
+    "size": "50 - 249",
+    "location": "Noida, India",
+    "url": "https://www.isynbus.com/"
+  },
+  {
+    "companyName": "Alliance Web Solution Pvt Ltd",
+    "size": "10 - 49",
+    "location": "Noida, India",
+    "url": "https://www.indiainternets.com/"
+  },
+  {
+    "companyName": "Digital Scientists",
+    "size": "10 - 49",
+    "location": "Alpharetta, United States",
+    "url": "https://digitalscientists.com/"
+  },
+  {
+    "companyName": "NFN Labs",
+    "size": "10 - 49",
+    "location": "Chennai, India",
+    "url": "http://nfnlabs.in"
+  },
+  {
+    "companyName": "Steamclock Software",
+    "size": "10 - 49",
+    "location": "Vancouver, Canada",
+    "url": "https://steamclock.com/"
+  }
+]

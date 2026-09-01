@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "Aadhyatech Solution",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "https://aadhyatechsolution.com/"
+  },
+  {
+    "companyName": "Accord Tech Solutions",
+    "size": "10 - 49",
+    "location": "Laramie, United States",
+    "url": "https://www.accordtechsolutions.com/"
+  },
+  {
+    "companyName": "WebBuddy",
+    "size": "10 - 49",
+    "location": "Gurgaon, India",
+    "url": "https://www.webbuddy.agency/"
+  },
+  {
+    "companyName": "Devin Local Agency",
+    "size": "10 - 49",
+    "location": "Mohali, India",
+    "url": "https://devinlocal.com/"
+  },
+  {
+    "companyName": "Top Web Design Agency in Australia",
+    "size": "2 - 9",
+    "location": "Canberra, Australia",
+    "url": "https://www.ldsengineers.com.au/"
+  },
+  {
+    "companyName": "AOT Technologies",
+    "size": "2 - 9",
+    "location": "Thiruvananthapuram, India",
+    "url": "https://www.aot-technologies.com/"
+  },
+  {
+    "companyName": "Akkenna Animation and technologies private limited",
+    "size": "2 - 9",
+    "location": "Coimbatore, India",
+    "url": "https://akkenna.com/"
+  },
+  {
+    "companyName": "Max Value Per Click (MVPC)",
+    "size": "10 - 49",
+    "location": "Noida, India",
+    "url": "https://mvpc.in/"
+  },
+  {
+    "companyName": "Elwis App",
+    "size": "2 - 9",
+    "location": "Herisau, Switzerland",
+    "url": "https://www.elwisapp.com/"
+  },
+  {
+    "companyName": "Docastix",
+    "size": "2 - 9",
+    "location": "Terrassa, Spain",
+    "url": "https://docastix.com/en/"
+  },
+  {
+    "companyName": "Bitforge AG",
+    "size": "10 - 49",
+    "location": "Zurich, Switzerland",
+    "url": "https://bitforge.ch/"
+  },
+  {
+    "companyName": "Burning Studio",
+    "size": "2 - 9",
+    "location": "Radom, Poland",
+    "url": "https://www.burning.it.com/"
+  },
+  {
+    "companyName": "Ample",
+    "size": "2 - 9",
+    "location": "Bengaluru, India",
+    "url": "https://ample.co.in/"
+  },
+  {
+    "companyName": "Techabyte Solutions",
+    "size": "10 - 49",
+    "location": "Dhaka, Bangladesh",
+    "url": "https://techabyte.xyz/"
+  },
+  {
+    "companyName": "So-Creative",
+    "size": "10 - 49",
+    "location": "London, United Kingdom",
+    "url": "https://so-creative.co.uk/"
+  },
+  {
+    "companyName": "SIEORA",
+    "size": "10 - 49",
+    "location": "Chennai, India",
+    "url": "https://www.sieora.in/"
+  },
+  {
+    "companyName": "BroutonLab",
+    "size": "10 - 49",
+    "location": "Haifa, Israel",
+    "url": "https://broutonlab.com/"
+  },
+  {
+    "companyName": "Isapi Infotech",
+    "size": "2 - 9",
+    "location": "Loharu, India",
+    "url": "https://www.isapiinfotech.com/"
+  },
+  {
+    "companyName": "Infinite Media Studio",
+    "size": "10 - 49",
+    "location": "Houston, United States",
+    "url": "https://infinitemediastudio.com/"
+  },
+  {
+    "companyName": "SFour Digital",
+    "size": "2 - 9",
+    "location": "London, United Kingdom",
+    "url": "https://s4-digital.com/"
+  },
+  {
+    "companyName": "Centric Tech Inc.",
+    "size": "50 - 249",
+    "location": "Jersey City, United States",
+    "url": "https://centrictech.com/"
+  },
+  {
+    "companyName": "Trapnstudio",
+    "size": "2 - 9",
+    "location": "Riverside, United States",
+    "url": "https://trapnstudio.com"
+  },
+  {
+    "companyName": "SOFTEKO",
+    "size": "10 - 49",
+    "location": "Dhaka, Bangladesh",
+    "url": "https://www.softeko.co/"
+  },
+  {
+    "companyName": "Bigello Digital",
+    "size": "2 - 9",
+    "location": "Lahore, Pakistan",
+    "url": "https://bigello.com/"
+  },
+  {
+    "companyName": "Direct Impact Solutions",
+    "size": "2 - 9",
+    "location": "NYC, United States",
+    "url": "https://www.directimpactsolutions.com"
+  },
+  {
+    "companyName": "Inoweiser",
+    "size": "2 - 9",
+    "location": "Lisbon, Portugal",
+    "url": "https://www.inoweiser.com/"
+  },
+  {
+    "companyName": "Intellinez Systems",
+    "size": "2 - 9",
+    "location": "Bengaluru, India",
+    "url": "https://www.intellinez.com/"
+  },
+  {
+    "companyName": "Evolution of Dreams",
+    "size": "2 - 9",
+    "location": "Burgas, Bulgaria",
+    "url": "https://www.evolutionofdreams.com/en"
+  },
+  {
+    "companyName": "CodeMaya",
+    "size": "2 - 9",
+    "location": "Lucknow, India",
+    "url": "https://www.codemaya.com/"
+  },
+  {
+    "companyName": "Cambiante Technologies",
+    "size": "50 - 249",
+    "location": "Jaipur, India",
+    "url": "https://www.cambiante.in/"
+  },
+  {
+    "companyName": "Innoscales Technologies PVT LTD",
+    "size": "10 - 49",
+    "location": "Noida, India",
+    "url": "https://innoscales.com/"
+  },
+  {
+    "companyName": "Wirebox",
+    "size": "2 - 9",
+    "location": "Watford, United Kingdom",
+    "url": "https://wirebox.co.uk/"
+  },
+  {
+    "companyName": "We.The.Makers",
+    "size": "10 - 49",
+    "location": "Amman, Jordan",
+    "url": "https://wethemakers.dev/"
+  },
+  {
+    "companyName": "THOUGHT MOBILE TECHNOLOGIES",
+    "size": "2 - 9",
+    "location": "Bengaluru, India",
+    "url": "https://thoughtmobiletech.com/"
+  },
+  {
+    "companyName": "Webneon",
+    "size": "2 - 9",
+    "location": "Reading, United Kingdom",
+    "url": "https://webneon.co.uk/"
+  },
+  {
+    "companyName": "Peritos Solutions",
+    "size": "10 - 49",
+    "location": "Noida, India",
+    "url": "https://peritossolutions.com/"
+  },
+  {
+    "companyName": "Futureway Consulting",
+    "size": "2 - 9",
+    "location": "Canberra, Australia",
+    "url": "https://www.futureway.com.au"
+  },
+  {
+    "companyName": "AlignTogether Solutions",
+    "size": "2 - 9",
+    "location": "Bhopal, India",
+    "url": "https://aligntogether.online/#"
+  },
+  {
+    "companyName": "Codeograph Solutions",
+    "size": "2 - 9",
+    "location": "Nagpur, India",
+    "url": "https://codeographsolutions.com/"
+  },
+  {
+    "companyName": "Bug Finder",
+    "size": "10 - 49",
+    "location": "Dhaka, Bangladesh",
+    "url": "https://bugfinder.net"
+  },
+  {
+    "companyName": "Tripledots Software Services",
+    "size": "2 - 9",
+    "location": "Ranchi, India",
+    "url": "https://tripledotss.com/"
+  },
+  {
+    "companyName": "Buck Softech",
+    "size": "2 - 9",
+    "location": "Ranchi, India",
+    "url": "https://bucksoftech.com/"
+  },
+  {
+    "companyName": "Vidyayatan Techologies",
+    "size": "10 - 49",
+    "location": "Bhopal, India",
+    "url": "https://www.vidyayatan.com/"
+  },
+  {
+    "companyName": "Brainwings Infotech",
+    "size": "2 - 9",
+    "location": "Ahmedabad, India",
+    "url": "https://www.brainwingsinfotech.com/"
+  },
+  {
+    "companyName": "Grape Marketing",
+    "size": "2 - 9",
+    "location": "NYC, United States",
+    "url": "https://www.grape-marketing.com/"
+  },
+  {
+    "companyName": "Ventor Labs",
+    "size": "2 - 9",
+    "location": "Winnipeg, Canada",
+    "url": "https://ventorlabs.ca/"
+  },
+  {
+    "companyName": "Artik Infotech",
+    "size": "10 - 49",
+    "location": "Surat, India",
+    "url": "https://artikinfotech.com/"
+  },
+  {
+    "companyName": "Cloudloom Technologies Pvt Ltd",
+    "size": "10 - 49",
+    "location": "Bengaluru, India",
+    "url": "https://cloudloom.io"
+  }
+]

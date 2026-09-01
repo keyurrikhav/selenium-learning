@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "SmallBay Digital",
+    "size": "2 - 9",
+    "location": "Bengaluru, India",
+    "url": "https://smallbay.in/"
+  },
+  {
+    "companyName": "SmallCo",
+    "size": "10 - 49",
+    "location": "Miami, United States",
+    "url": "https://www.smallco.co/"
+  },
+  {
+    "companyName": "DIGITAL-IMAGES",
+    "size": "50 - 249",
+    "location": "Steszew, Poland",
+    "url": "https://www.digital-images.pl/"
+  },
+  {
+    "companyName": "Conscious Web Design",
+    "size": "2 - 9",
+    "location": "Ashland, United States",
+    "url": "https://www.consciouswebdesign.com/"
+  },
+  {
+    "companyName": "Prophecy Technologies",
+    "size": "250 - 999",
+    "location": "Irvine, United States",
+    "url": "https://www.prophecytechs.com/"
+  },
+  {
+    "companyName": "prophecy Technologies.inc",
+    "size": "250 - 999",
+    "location": "Irvine, United States",
+    "url": "http://www.prophecytechs.com/"
+  },
+  {
+    "companyName": "Microweb Global",
+    "size": "10 - 49",
+    "location": "Colombo, Sri Lanka",
+    "url": "https://microweb.global/"
+  },
+  {
+    "companyName": "Baezeni Company Network",
+    "size": "50 - 249",
+    "location": "Pattaya, Thailand",
+    "url": "https://www.baezeni.com/home"
+  },
+  {
+    "companyName": "Devise Software Solutions Pvt. Ltd",
+    "size": "10 - 49",
+    "location": "Vadodara, India",
+    "url": "https://devisesystems.com/index.htm"
+  },
+  {
+    "companyName": "Duckma",
+    "size": "10 - 49",
+    "location": "Rezzato, Italy",
+    "url": "https://duckma.com/"
+  },
+  {
+    "companyName": "Sentio Services",
+    "size": "2 - 9",
+    "location": "Cincinnati, United States",
+    "url": "https://www.sentioservices.com/"
+  },
+  {
+    "companyName": "Django Web Studio",
+    "size": "10 - 49",
+    "location": "Amsterdam, Netherlands",
+    "url": "https://djangowebstudio.com/"
+  },
+  {
+    "companyName": "RASSU MANHE TECHNOLOGY",
+    "size": "2 - 9",
+    "location": "Raleigh, United States",
+    "url": "https://www.rassutech.com/"
+  },
+  {
+    "companyName": "RichBrains",
+    "size": "50 - 249",
+    "location": "Vilnius, Lithuania",
+    "url": "https://richbrains.net/"
+  },
+  {
+    "companyName": "Web3Box Software",
+    "size": "2 - 9",
+    "location": "Henderson, United States",
+    "url": "https://www.web3box.com/"
+  },
+  {
+    "companyName": "Branching Software",
+    "size": "2 - 9",
+    "location": "Spanish Fork, United States",
+    "url": "https://branchingsoftware.com/"
+  },
+  {
+    "companyName": "DPA Software",
+    "size": "10 - 49",
+    "location": "Waukesha, United States",
+    "url": "https://dpasoftware.com/"
+  },
+  {
+    "companyName": "Continuous Software",
+    "size": "10 - 49",
+    "location": "Germantown, United States",
+    "url": "https://continuoussoftware.com/"
+  },
+  {
+    "companyName": "Aspiroz Software Solutions",
+    "size": "2 - 9",
+    "location": "Chennai, India",
+    "url": "https://www.aspiroz.com/"
+  },
+  {
+    "companyName": "Devpie",
+    "size": "2 - 9",
+    "location": "Khmel'nyts'kyy, Ukraine",
+    "url": "https://www.devpie.digital/"
+  },
+  {
+    "companyName": "Coderio",
+    "size": "250 - 999",
+    "location": "Miami, United States",
+    "url": "https://www.coderio.com/"
+  },
+  {
+    "companyName": "Uuhuw",
+    "size": "10 - 49",
+    "location": "Orlando, United States",
+    "url": "https://www.uuhuw.com/"
+  },
+  {
+    "companyName": "Elegant Software Solutions",
+    "size": "10 - 49",
+    "location": "Alpharetta, United States",
+    "url": "https://www.essrocks.io/"
+  },
+  {
+    "companyName": "WebXell Technologies",
+    "size": "2 - 9",
+    "location": "Islamabad, Pakistan",
+    "url": "https://webxelltech.com/"
+  },
+  {
+    "companyName": "Webmetro",
+    "size": "2 - 9",
+    "location": "Nairobi, Kenya",
+    "url": "https://webmetro.co.ke/"
+  },
+  {
+    "companyName": "Web Zone",
+    "size": "2 - 9",
+    "location": "Ljubljana, Slovenia",
+    "url": "https://web-zone.io/"
+  },
+  {
+    "companyName": "Nine Pixels",
+    "size": "50 - 249",
+    "location": "Belgrade, Serbia",
+    "url": "https://ninepixels.io"
+  },
+  {
+    "companyName": "Ascend IT Management",
+    "size": "2 - 9",
+    "location": "Houston, United States",
+    "url": "https://ascend-mc.com/"
+  },
+  {
+    "companyName": "Apprato",
+    "size": "2 - 9",
+    "location": "Sydney, Australia",
+    "url": "https://apprato.com.au/"
+  },
+  {
+    "companyName": "SyncHash Applications",
+    "size": "2 - 9",
+    "location": "Mangalore, India",
+    "url": "https://synchash.in/"
+  },
+  {
+    "companyName": "Brainstron AI",
+    "size": "2 - 9",
+    "location": "Montreal, Canada",
+    "url": "https://brainstron.ai"
+  },
+  {
+    "companyName": "Witarist - IT Services",
+    "size": "10 - 49",
+    "location": "Noida, India",
+    "url": "https://witarist.com/"
+  },
+  {
+    "companyName": "Mad Men Marketing Perth",
+    "size": "10 - 49",
+    "location": "Amsterdam, Netherlands",
+    "url": "https://madmenmarketing.com.au/"
+  },
+  {
+    "companyName": "ServiceRocket",
+    "size": "2 - 9",
+    "location": "Palo Alto, United States",
+    "url": "https://www.servicerocket.com/"
+  },
+  {
+    "companyName": "PeopleApps Technologies",
+    "size": "10 - 49",
+    "location": "Noida, India",
+    "url": "https://peopleappstech.com/"
+  },
+  {
+    "companyName": "Dream Team IT",
+    "size": "2 - 9",
+    "location": "Krakow, Poland",
+    "url": "https://www.dreamteam-it.com"
+  },
+  {
+    "companyName": "Screenpartner",
+    "size": "2 - 9",
+    "location": "Tonsberg, Norway",
+    "url": "https://screenpartner.no/"
+  },
+  {
+    "companyName": "Freshmarkom",
+    "size": "2 - 9",
+    "location": "London, United Kingdom",
+    "url": "https://freshmarkom.fr/"
+  },
+  {
+    "companyName": "Romanuke",
+    "size": "10 - 49",
+    "location": "Warsaw, Poland",
+    "url": "https://romanuke.com/"
+  },
+  {
+    "companyName": "Web2web Innovation",
+    "size": "2 - 9",
+    "location": "Madrid, Spain",
+    "url": "https://www.web2web-innovation.com/"
+  },
+  {
+    "companyName": "Madras Softwares",
+    "size": "2 - 9",
+    "location": "Chennai, India",
+    "url": "https://madrassoftwares.com/"
+  },
+  {
+    "companyName": "Ideact",
+    "size": "10 - 49",
+    "location": "Prague, Czech Republic",
+    "url": "https://www.ideactstudio.com/"
+  },
+  {
+    "companyName": "TechTose",
+    "size": "10 - 49",
+    "location": "Indore, India",
+    "url": "https://techtose.com"
+  },
+  {
+    "companyName": "Hexadecimal Software",
+    "size": "10 - 49",
+    "location": "Noida, India",
+    "url": "https://www.hexadecimalsoftware.com/"
+  },
+  {
+    "companyName": "AB INNOVISION GmbH",
+    "size": "2 - 9",
+    "location": "Hamburg, Germany",
+    "url": "https://abinnovision.com/"
+  },
+  {
+    "companyName": "Appmost",
+    "size": "10 - 49",
+    "location": "Gothenburg, Sweden",
+    "url": "https://www.appmost.se/"
+  },
+  {
+    "companyName": "Apptopia",
+    "size": "50 - 249",
+    "location": "Nottingham, United Kingdom",
+    "url": "https://apptopia.uk/"
+  },
+  {
+    "companyName": "Elevate Code",
+    "size": "2 - 9",
+    "location": "Media, United States",
+    "url": "https://elevatecode.io"
+  }
+]

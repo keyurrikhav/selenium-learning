@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "DevCyclop",
+    "size": "10 - 49",
+    "location": "Montreal, Canada",
+    "url": "https://www.devcyclop.com/"
+  },
+  {
+    "companyName": "YULCOM Technologies",
+    "size": "50 - 249",
+    "location": "Montreal, Canada",
+    "url": "https://yulcom-technologies.com/"
+  },
+  {
+    "companyName": "Zrr Tech Solutions",
+    "size": "10 - 49",
+    "location": "Lahore, Pakistan",
+    "url": "https://zrrtechsolutions.com/"
+  },
+  {
+    "companyName": "Praviminds Technology",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "https://praviminds.com/"
+  },
+  {
+    "companyName": "Lucid Labs",
+    "size": "2 - 9",
+    "location": "Brisbane, Australia",
+    "url": "https://www.lucidlabs.com.au/"
+  },
+  {
+    "companyName": "CoalDev",
+    "size": "10 - 49",
+    "location": "Mississauga, Canada",
+    "url": "https://coaldev.com/"
+  },
+  {
+    "companyName": "Codeready Software",
+    "size": "50 - 249",
+    "location": "Indore, India",
+    "url": "https://codereadysoftware.com/"
+  },
+  {
+    "companyName": "JetBase",
+    "size": "10 - 49",
+    "location": "Sheridan, United States",
+    "url": "https://jetbase.io"
+  },
+  {
+    "companyName": "NSR Information Systems",
+    "size": "250 - 999",
+    "location": "Mississauga, Canada",
+    "url": "https://nsrinfosystems.com/"
+  },
+  {
+    "companyName": "AllHeart Web",
+    "size": "50 - 249",
+    "location": "Mississauga, Canada",
+    "url": "https://allheartweb.com/"
+  },
+  {
+    "companyName": "Nexvant Solutions",
+    "size": "10 - 49",
+    "location": "Mississauga, Canada",
+    "url": "https://nexvantsolution.com/"
+  },
+  {
+    "companyName": "Lightring Technology",
+    "size": "10 - 49",
+    "location": "Mississauga, Canada",
+    "url": "https://lightring.ai/"
+  },
+  {
+    "companyName": "Blazon",
+    "size": "10 - 49",
+    "location": "Coimbatore, India",
+    "url": "https://blazon.in/"
+  },
+  {
+    "companyName": "INflow Federal",
+    "size": "50 - 249",
+    "location": "Ashburn, United States",
+    "url": "https://inflowfed.com/"
+  },
+  {
+    "companyName": "A3 Consulting LLC",
+    "size": "50 - 249",
+    "location": "Washington DC, United States",
+    "url": "https://www.a3consultingllc.com/"
+  },
+  {
+    "companyName": "Techvine AI Limited",
+    "size": "2 - 9",
+    "location": "London, United Kingdom",
+    "url": "https://www.techvineai.com"
+  },
+  {
+    "companyName": "US DYNAMIC SOLUTIONS L.L.C.",
+    "size": "2 - 9",
+    "location": "Pembroke Pines, United States",
+    "url": "https://usdynamicsolutions.com"
+  },
+  {
+    "companyName": "Neutonsoft",
+    "size": "2 - 9",
+    "location": "Ras Al Khaimah, UAE",
+    "url": "https://neutonsoft.com/"
+  },
+  {
+    "companyName": "BHARATHBRANDS",
+    "size": "50 - 249",
+    "location": "Nairobi, Kenya",
+    "url": "https://www.bharathbrands.in/"
+  },
+  {
+    "companyName": "Pathways Technologies",
+    "size": "50 - 249",
+    "location": "Nairobi, Kenya",
+    "url": "https://pathwaystechnologies.com/"
+  },
+  {
+    "companyName": "Interface Lab",
+    "size": "10 - 49",
+    "location": "Nairobi, Kenya",
+    "url": "https://interfacelab.co.ke/"
+  },
+  {
+    "companyName": "FargoWiz",
+    "size": "10 - 49",
+    "location": "Pittsburgh, United States",
+    "url": "https://www.fargowiz.com/"
+  },
+  {
+    "companyName": "Benchmark IT Solutions",
+    "size": "250 - 999",
+    "location": "Pittsburgh, United States",
+    "url": "https://www.benchmarkit.solutions/"
+  },
+  {
+    "companyName": "Wavestone",
+    "size": "1,000 - 9,999",
+    "location": "Pittsburgh, United States",
+    "url": "https://www.wavestone.com/"
+  },
+  {
+    "companyName": "Cybexel Technologies Private Limited",
+    "size": "50 - 249",
+    "location": "Kochi, India",
+    "url": "https://cybexel.com/"
+  },
+  {
+    "companyName": "Clicko Digital",
+    "size": "10 - 49",
+    "location": "Dubai, UAE",
+    "url": "https://clickodigital.com/"
+  },
+  {
+    "companyName": "Limark Technologies",
+    "size": "50 - 249",
+    "location": "Adelaide, Australia",
+    "url": "https://www.limarktech.com/"
+  },
+  {
+    "companyName": "WisTec",
+    "size": "2 - 9",
+    "location": "Adelaide, Australia",
+    "url": "https://wistec.com.au/"
+  },
+  {
+    "companyName": "Zenbourg",
+    "size": "2 - 9",
+    "location": "Indore, India",
+    "url": "http://www.zenbourg.com"
+  },
+  {
+    "companyName": "Triffid",
+    "size": "50 - 249",
+    "location": "Sydney, Australia",
+    "url": "https://www.triffidit.com/"
+  },
+  {
+    "companyName": "AppsTechy Private Limited",
+    "size": "50 - 249",
+    "location": "Chandigarh, India",
+    "url": "https://www.appstechy.com/"
+  },
+  {
+    "companyName": "Creative Buffer Consultancy Private Limited",
+    "size": "10 - 49",
+    "location": "Mohali, India",
+    "url": "https://creativebuffer.com/"
+  },
+  {
+    "companyName": "LEESEEDX",
+    "size": "10 - 49",
+    "location": "Seoul, South Korea",
+    "url": "https://leesee.co.kr/"
+  },
+  {
+    "companyName": "aiboost",
+    "size": "2 - 9",
+    "location": "Warsaw, Poland",
+    "url": "https://aiboost.tech/"
+  },
+  {
+    "companyName": "Neoline Logic",
+    "size": "50 - 249",
+    "location": "Lahore, Pakistan",
+    "url": "https://www.neolinelogic.com"
+  },
+  {
+    "companyName": "A SQUARE SOLUTIONS",
+    "size": "10 - 49",
+    "location": "Lucknow, India",
+    "url": "https://www.asquaresolution.com"
+  },
+  {
+    "companyName": "American Best IT Ltd.",
+    "size": "10 - 49",
+    "location": "Dhaka, Bangladesh",
+    "url": "https://www.americanbestit.com/"
+  },
+  {
+    "companyName": "Pexaworks",
+    "size": "10 - 49",
+    "location": "Bengaluru, India",
+    "url": "https://www.pexaworks.com/"
+  },
+  {
+    "companyName": "SoftCurators",
+    "size": "10 - 49",
+    "location": "Jaipur, India",
+    "url": "https://softcurators.com/"
+  },
+  {
+    "companyName": "AS Exim LTD",
+    "size": "10 - 49",
+    "location": "Larnaca, Cyprus",
+    "url": "https://www.exim.eu.com/"
+  },
+  {
+    "companyName": "dopyapp",
+    "size": "10 - 49",
+    "location": "Cairo, Egypt",
+    "url": "https://dopyapp.com/"
+  },
+  {
+    "companyName": "LBM Infotech Pvt. Ltd",
+    "size": "10 - 49",
+    "location": "Nashik, India",
+    "url": "https://lbminfotech.com/index.html"
+  },
+  {
+    "companyName": "CodeEpics",
+    "size": "10 - 49",
+    "location": "Peterborough, United Kingdom",
+    "url": "https://code-epics.com/"
+  },
+  {
+    "companyName": "Izla Technologies",
+    "size": "10 - 49",
+    "location": "Jersey City, United States",
+    "url": "https://izlatechnologies.com/"
+  },
+  {
+    "companyName": "Marketing Artistry",
+    "size": "2 - 9",
+    "location": "Ontario, Canada",
+    "url": "https://marketingartistry.ca"
+  },
+  {
+    "companyName": "Endevo Digital",
+    "size": "10 - 49",
+    "location": "Colombo, Sri Lanka",
+    "url": "https://www.endevodigital.com/"
+  },
+  {
+    "companyName": "Avrut Solution",
+    "size": "10 - 49",
+    "location": "Surat, India",
+    "url": "https://www.avrut.com/"
+  },
+  {
+    "companyName": "Itsy Bizz",
+    "size": "10 - 49",
+    "location": "Faridabad, India",
+    "url": "https://itsybizz.com/"
+  }
+]

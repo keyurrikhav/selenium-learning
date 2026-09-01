@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "360 Solutions",
+    "size": "10 - 49",
+    "location": "Austin, United States",
+    "url": "https://www.360solutions.dev"
+  },
+  {
+    "companyName": "Vidhan Infotech Private Limited",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "https://vidhaninfotech.com/"
+  },
+  {
+    "companyName": "Indsys Holdings",
+    "size": "10 - 49",
+    "location": "Coimbatore, India",
+    "url": "https://indsysholdings.com/"
+  },
+  {
+    "companyName": "Digicodx Technologies Private limited",
+    "size": "50 - 249",
+    "location": "Delhi, India",
+    "url": "https://digicodx.com/"
+  },
+  {
+    "companyName": "AccellionX",
+    "size": "10 - 49",
+    "location": "Lahore, Pakistan",
+    "url": "https://www.accellionx.com"
+  },
+  {
+    "companyName": "Future Mind",
+    "size": "50 - 249",
+    "location": "Warsaw, Poland",
+    "url": "https://www.futuremind.com/"
+  },
+  {
+    "companyName": "Invennico Technolabs Pvt Ltd",
+    "size": "10 - 49",
+    "location": "Vadodara, India",
+    "url": "https://invennico.com/"
+  },
+  {
+    "companyName": "Greenmindai Technologies Private Limited",
+    "size": "10 - 49",
+    "location": "Noida, India",
+    "url": "https://greenmindai.in/"
+  },
+  {
+    "companyName": "IAPFSAI Technologies Pvt Ltd",
+    "size": "10 - 49",
+    "location": "Bengaluru, India",
+    "url": "https://iapfsai.com"
+  },
+  {
+    "companyName": "Web Soft Valley",
+    "size": "10 - 49",
+    "location": "Bhopal, India",
+    "url": "https://www.websoftvalley.com"
+  },
+  {
+    "companyName": "Erratum Solutions Pvt Ltd",
+    "size": "10 - 49",
+    "location": "Kozhikode, India",
+    "url": "https://erratums.com"
+  },
+  {
+    "companyName": "ImmersiveData.AI",
+    "size": "10 - 49",
+    "location": "Pune, India",
+    "url": "https://immersivedata.ai/"
+  },
+  {
+    "companyName": "cm-opti sp. z o.o.",
+    "size": "2 - 9",
+    "location": "",
+    "url": "https://www.cm-opti.com"
+  },
+  {
+    "companyName": "Leetio",
+    "size": "10 - 49",
+    "location": "Tallinn, Estonia",
+    "url": "https://leetio.org/"
+  },
+  {
+    "companyName": "Tektronix Technologies",
+    "size": "50 - 249",
+    "location": "Deira, UAE",
+    "url": "https://tektronixllc.ae/"
+  },
+  {
+    "companyName": "Code Mind",
+    "size": "2 - 9",
+    "location": "Beirut, Lebanon",
+    "url": "https://code-mind.com"
+  },
+  {
+    "companyName": "Sortiq Solutions Pvt. Ltd.",
+    "size": "10 - 49",
+    "location": "Mohali, India",
+    "url": "https://sortiqsolutions.com/"
+  },
+  {
+    "companyName": "Heraklet",
+    "size": "10 - 49",
+    "location": "Hamburg, Germany",
+    "url": "https://heraklet.com"
+  },
+  {
+    "companyName": "Webshot Digital Pvt. Ltd.",
+    "size": "10 - 49",
+    "location": "Noida, India",
+    "url": "https://webshotdigital.com/"
+  },
+  {
+    "companyName": "Ui Trax",
+    "size": "10 - 49",
+    "location": "Lahore, Pakistan",
+    "url": "https://www.uitrax.com"
+  },
+  {
+    "companyName": "Regenapps Clouds Private Limited",
+    "size": "10 - 49",
+    "location": "Surat, India",
+    "url": "https://regenapps.com/"
+  },
+  {
+    "companyName": "Codynex",
+    "size": "2 - 9",
+    "location": "Houston, United States",
+    "url": "https://codynex.com"
+  },
+  {
+    "companyName": "Smartronix Innovations Inc.",
+    "size": "10 - 49",
+    "location": "Toronto, Canada",
+    "url": "https://smartronix.ca/"
+  },
+  {
+    "companyName": "PyOps Tech Solutions LLP",
+    "size": "2 - 9",
+    "location": "Bengaluru, India",
+    "url": "https://www.pyopstech.com/"
+  },
+  {
+    "companyName": "DevXpire",
+    "size": "10 - 49",
+    "location": "London, United Kingdom",
+    "url": "https://devxpire.com"
+  },
+  {
+    "companyName": "aNquest Media",
+    "size": "10 - 49",
+    "location": "Ghaziabad, India",
+    "url": "https://anquestmedia.com/"
+  },
+  {
+    "companyName": "Zevi Digital",
+    "size": "2 - 9",
+    "location": "Los Angeles, United States",
+    "url": "https://Zevidigital.com"
+  },
+  {
+    "companyName": "Nexus Tech Support",
+    "size": "50 - 249",
+    "location": "Cairo, Egypt",
+    "url": "https://nexustech-egy.com"
+  },
+  {
+    "companyName": "Web On Dev",
+    "size": "10 - 49",
+    "location": "Lahore, Pakistan",
+    "url": "https://www.webondev.com/"
+  },
+  {
+    "companyName": "Code Xperts",
+    "size": "10 - 49",
+    "location": "Lahore, Pakistan",
+    "url": "https://code-xperts.com/"
+  },
+  {
+    "companyName": "SkyTech Global LLC",
+    "size": "250 - 999",
+    "location": "Dallas, United States",
+    "url": "https://www.skytechgbl.com/"
+  },
+  {
+    "companyName": "SKY X Digi Solutions",
+    "size": "10 - 49",
+    "location": "Krishnagiri, India",
+    "url": "https://www.skyxdigisolutions.com/"
+  },
+  {
+    "companyName": "Softean",
+    "size": "50 - 249",
+    "location": "Madurai, India",
+    "url": "https://www.softean.com/"
+  },
+  {
+    "companyName": "Jarin Tech",
+    "size": "2 - 9",
+    "location": "Dhaka, Bangladesh",
+    "url": "https://jarintech.com/"
+  },
+  {
+    "companyName": "Milople Technologies Pvt Ltd.",
+    "size": "10 - 49",
+    "location": "Bhavnagar, India",
+    "url": "https://www.milople.com/"
+  },
+  {
+    "companyName": "Matech CO",
+    "size": "50 - 249",
+    "location": "Brunswick, United States",
+    "url": "https://www.matechco.com/"
+  },
+  {
+    "companyName": "Chittagong Software",
+    "size": "2 - 9",
+    "location": "Chattogram, Bangladesh",
+    "url": "https://chittagongsoftware.com"
+  },
+  {
+    "companyName": "Kodegurus",
+    "size": "10 - 49",
+    "location": "Mohali, India",
+    "url": "https://kodegurus.com/"
+  },
+  {
+    "companyName": "Septem Tech",
+    "size": "10 - 49",
+    "location": "Saki, Azerbaijan",
+    "url": "https://septem.tech/"
+  },
+  {
+    "companyName": "GLEXEN Solutions Not yet reviewed",
+    "size": "10 - 49",
+    "location": "Tallinn, Estonia",
+    "url": "https://glexen.com/"
+  },
+  {
+    "companyName": "ARK DEV",
+    "size": "10 - 49",
+    "location": "Chile Chico, Chile",
+    "url": "https://www.ark-dev.org/"
+  },
+  {
+    "companyName": "Lidnes Technologies",
+    "size": "2 - 9",
+    "location": "Bengaluru, India",
+    "url": "https://lidnestech.com/"
+  },
+  {
+    "companyName": "Fibonce Tech Solutions Pvt Ltd",
+    "size": "10 - 49",
+    "location": "Pune, India",
+    "url": "https://www.fibonce.com/"
+  },
+  {
+    "companyName": "Vaidrix Technologies",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "https://vaidrix.com"
+  },
+  {
+    "companyName": "Altivix LLC",
+    "size": "2 - 9",
+    "location": "Richardson, United States",
+    "url": "https://www.altivix.com"
+  },
+  {
+    "companyName": "Codingclave Development LLP",
+    "size": "10 - 49",
+    "location": "Lucknow, India",
+    "url": "https://www.codingclave.com"
+  },
+  {
+    "companyName": "Cogniq AI",
+    "size": "2 - 9",
+    "location": "Pune, India",
+    "url": "https://cogniqai.ai/"
+  },
+  {
+    "companyName": "Defence.Investments",
+    "size": "10 - 49",
+    "location": "Astana, Kazakhstan",
+    "url": "https://clck.ru/3QssrS"
+  }
+]

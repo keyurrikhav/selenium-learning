@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "Isoft Technologies",
+    "size": "2 - 9",
+    "location": "Waitakere, New Zealand",
+    "url": "https://isoft.co.nz"
+  },
+  {
+    "companyName": "Dignep Group Pvt. Ltd.",
+    "size": "10 - 49",
+    "location": "Kathmandu, Nepal",
+    "url": "https://dignep.com.np/"
+  },
+  {
+    "companyName": "Way Too Digital",
+    "size": "2 - 9",
+    "location": "Buenos Aires, Argentina",
+    "url": "https://www.waytoodigital.com/"
+  },
+  {
+    "companyName": "Jade Software",
+    "size": "10 - 49",
+    "location": "Melbourne, Australia",
+    "url": "https://www.jadeworld.com/"
+  },
+  {
+    "companyName": "Eleteria",
+    "size": "2 - 9",
+    "location": "Winnipeg, Canada",
+    "url": "https://www.eleteria.ca/"
+  },
+  {
+    "companyName": "Pixelmatters",
+    "size": "50 - 249",
+    "location": "Porto, Portugal",
+    "url": "https://pixelmatters.com"
+  },
+  {
+    "companyName": "Apzzo Technologies Private Limited",
+    "size": "10 - 49",
+    "location": "Chennai, India",
+    "url": "https://www.apzzo.com"
+  },
+  {
+    "companyName": "Exiilien Softech Pvt Ltd",
+    "size": "10 - 49",
+    "location": "Jaipur, India",
+    "url": "https://www.exilliensoftech.com/"
+  },
+  {
+    "companyName": "Evoqins",
+    "size": "50 - 249",
+    "location": "Bengaluru, India",
+    "url": "https://evoqins.com/"
+  },
+  {
+    "companyName": "Zyxan Technologies Pvt Ltd",
+    "size": "10 - 49",
+    "location": "Hyderabad, India",
+    "url": "https://www.zyxantech.com/"
+  },
+  {
+    "companyName": "Appxeon",
+    "size": "10 - 49",
+    "location": "Bellaire, United States",
+    "url": "https://www.appxeon.com/"
+  },
+  {
+    "companyName": "minicode",
+    "size": "2 - 9",
+    "location": "Brisbane, Australia",
+    "url": "https://www.minicode.com.au/"
+  },
+  {
+    "companyName": "Digital Hyperlinks",
+    "size": "10 - 49",
+    "location": "Karachi, Pakistan",
+    "url": "https://digitalhyperlinks.com/"
+  },
+  {
+    "companyName": "OAK'S LAB",
+    "size": "50 - 249",
+    "location": "Prague, Czech Republic",
+    "url": "https://www.oakslab.com/"
+  },
+  {
+    "companyName": "Temy",
+    "size": "10 - 49",
+    "location": "Kyiv, Ukraine",
+    "url": "https://www.temy.co/"
+  },
+  {
+    "companyName": "Tooktech",
+    "size": "10 - 49",
+    "location": "Timisoara, Romania",
+    "url": "https://tooktech.com/"
+  },
+  {
+    "companyName": "Orthoplex Solutions",
+    "size": "10 - 49",
+    "location": "Toronto, Canada",
+    "url": "https://orthoplexsolutions.com/"
+  },
+  {
+    "companyName": "Up4Soft LLC",
+    "size": "10 - 49",
+    "location": "Minsk, Belarus",
+    "url": "https://up4soft.com/"
+  },
+  {
+    "companyName": "Our Boring Company",
+    "size": "2 - 9",
+    "location": "Jaipur, India",
+    "url": "https://ourboringcompany.in/"
+  },
+  {
+    "companyName": "Gemburg Private Limited",
+    "size": "2 - 9",
+    "location": "Bengaluru, India",
+    "url": "https://www.gemburg.com"
+  },
+  {
+    "companyName": "ADS Studios",
+    "size": "2 - 9",
+    "location": "Lagos, Nigeria",
+    "url": "https://adsstudios.com.ng/"
+  },
+  {
+    "companyName": "SP Software (P) Limited",
+    "size": "250 - 999",
+    "location": "Hyderabad, India",
+    "url": "https://www.spsoftglobal.com/"
+  },
+  {
+    "companyName": "Ompitech",
+    "size": "10 - 49",
+    "location": "Noida, India",
+    "url": "https://ompitech.com/"
+  },
+  {
+    "companyName": "Webshot",
+    "size": "10 - 49",
+    "location": "Noida, India",
+    "url": "https://webshot.in/"
+  },
+  {
+    "companyName": "Techiebears Pvt Ltd",
+    "size": "10 - 49",
+    "location": "Mumbai, India",
+    "url": "https://www.techiebears.com/"
+  },
+  {
+    "companyName": "KolibriLabs",
+    "size": "10 - 49",
+    "location": "Ljubljana, Slovenia",
+    "url": "https://kolibrilabs.ai/"
+  },
+  {
+    "companyName": "Algoritmi - Webs & Apps",
+    "size": "2 - 9",
+    "location": "Portoviejo, Ecuador",
+    "url": "https://algoritmi.dev"
+  },
+  {
+    "companyName": "Anmatics Technologies",
+    "size": "2 - 9",
+    "location": "Morbi, India",
+    "url": "https://www.anmatics.com/"
+  },
+  {
+    "companyName": "Amorio Technologies",
+    "size": "2 - 9",
+    "location": "Jersey City, United States",
+    "url": "https://amoriotech.com/"
+  },
+  {
+    "companyName": "Oacer Web Services",
+    "size": "10 - 49",
+    "location": "Hyderabad, India",
+    "url": "https://oacer.in/"
+  },
+  {
+    "companyName": "Ridiculous Engineering LLC",
+    "size": "2 - 9",
+    "location": "Lafayette, United States",
+    "url": "https://ridiculousengineering.com"
+  },
+  {
+    "companyName": "Drona Infotech",
+    "size": "2 - 9",
+    "location": "Noida, India",
+    "url": "https://www.dronainfotech.com/"
+  },
+  {
+    "companyName": "Aurora Software",
+    "size": "10 - 49",
+    "location": "Hanoi, Vietnam",
+    "url": "https://aurorasoftware.tech/"
+  },
+  {
+    "companyName": "Wrap Pixel",
+    "size": "10 - 49",
+    "location": "",
+    "url": "https://www.wrappixel.com"
+  },
+  {
+    "companyName": "Autotroph Infotech",
+    "size": "50 - 249",
+    "location": "Surat, India",
+    "url": "https://www.autotrophit.com"
+  },
+  {
+    "companyName": "WEBITO INFOTECH",
+    "size": "50 - 249",
+    "location": "Fair Lawn, United States",
+    "url": "https://webitoinfotech.com/"
+  },
+  {
+    "companyName": "Valuetree",
+    "size": "50 - 249",
+    "location": "Ahmedabad, India",
+    "url": "https://valuetree.io/"
+  },
+  {
+    "companyName": "Tisalabs Ltd",
+    "size": "10 - 49",
+    "location": "Cork, Ireland",
+    "url": "https://www.tisalabs.com"
+  },
+  {
+    "companyName": "Union Jack",
+    "size": "2 - 9",
+    "location": "London, United Kingdom",
+    "url": "https://unionjack.studio"
+  },
+  {
+    "companyName": "ReftOnbia Pvt. Ltd.",
+    "size": "10 - 49",
+    "location": "Delhi, India",
+    "url": "https://reftonbia.com/"
+  },
+  {
+    "companyName": "Abnex Softech",
+    "size": "50 - 249",
+    "location": "Ahmedabad, India",
+    "url": "https://www.abnexsoftech.com"
+  },
+  {
+    "companyName": "Techpearl",
+    "size": "10 - 49",
+    "location": "Bengaluru, India",
+    "url": "https://techpearl.com/"
+  },
+  {
+    "companyName": "BUGSBON",
+    "size": "2 - 9",
+    "location": "Mandsaur, India",
+    "url": "https://www.bugsbon.com/"
+  },
+  {
+    "companyName": "Steema",
+    "size": "10 - 49",
+    "location": "Bengaluru, India",
+    "url": "https://www.steemasoftware.com/"
+  },
+  {
+    "companyName": "Golden Bay Consulting",
+    "size": "2 - 9",
+    "location": "Albuquerque, United States",
+    "url": "https://www.goldenbay.tech/"
+  },
+  {
+    "companyName": "Neuvo WebTech LLP",
+    "size": "10 - 49",
+    "location": "Kolkata, India",
+    "url": "https://neuvo.co"
+  },
+  {
+    "companyName": "71K Solutions",
+    "size": "2 - 9",
+    "location": "Woburn, United States",
+    "url": "https://www.71ksolutions.com/"
+  },
+  {
+    "companyName": "Quantum Solutions",
+    "size": "10 - 49",
+    "location": "Yiannitsa, Greece",
+    "url": "https://www.qsa.gr/"
+  }
+]

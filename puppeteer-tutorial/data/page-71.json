@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "Centiro",
+    "size": "2 - 9",
+    "location": "Montreal, Canada",
+    "url": "https://www.centiro.com/"
+  },
+  {
+    "companyName": "Sciant",
+    "size": "50 - 249",
+    "location": "Sofia, Bulgaria",
+    "url": "https://www.sciant.com/"
+  },
+  {
+    "companyName": "Bit Complete",
+    "size": "2 - 9",
+    "location": "Toronto, Canada",
+    "url": "https://www.bitcomplete.io/"
+  },
+  {
+    "companyName": "WebcentriQ",
+    "size": "10 - 49",
+    "location": "Markham, Canada",
+    "url": "https://webcentriq.com/"
+  },
+  {
+    "companyName": "Cedarcode",
+    "size": "2 - 9",
+    "location": "Montevideo, Uruguay",
+    "url": "https://www.cedarcode.com/"
+  },
+  {
+    "companyName": "The App Master",
+    "size": "10 - 49",
+    "location": "Buenos Aires, Argentina",
+    "url": "https://www.theappmaster.com/"
+  },
+  {
+    "companyName": "This is Undefined",
+    "size": "2 - 9",
+    "location": "London, United Kingdom",
+    "url": "https://www.thisisundefined.com/"
+  },
+  {
+    "companyName": "Outliant",
+    "size": "250 - 999",
+    "location": "Austin, United States",
+    "url": "https://www.outliant.com/"
+  },
+  {
+    "companyName": "The Curve",
+    "size": "10 - 49",
+    "location": "Salford, United Kingdom",
+    "url": "https://thecurve.io/"
+  },
+  {
+    "companyName": "Launchcode",
+    "size": "50 - 249",
+    "location": "Sanford, United States",
+    "url": "https://lc.dev/"
+  },
+  {
+    "companyName": "Def Method",
+    "size": "10 - 49",
+    "location": "NYC, United States",
+    "url": "https://www.defmethod.com/"
+  },
+  {
+    "companyName": "Mitigate",
+    "size": "10 - 49",
+    "location": "Riga, Latvia",
+    "url": "https://www.mitigate.dev/"
+  },
+  {
+    "companyName": "Neo Vision",
+    "size": "2 - 9",
+    "location": "Bucharest, Romania",
+    "url": "https://neovision.dev/"
+  },
+  {
+    "companyName": "Mirit - PHP",
+    "size": "2 - 9",
+    "location": "Polaniec, Poland",
+    "url": "https://mirit.pl/"
+  },
+  {
+    "companyName": "iQuantM technologies",
+    "size": "10 - 49",
+    "location": "York, United Kingdom",
+    "url": "https://www.iquantm.com/"
+  },
+  {
+    "companyName": "Abaculus Consultancy",
+    "size": "2 - 9",
+    "location": "Faridkot, India",
+    "url": "https://abaculus.in/Default.aspx"
+  },
+  {
+    "companyName": "KDK Software",
+    "size": "50 - 249",
+    "location": "Jaipur, India",
+    "url": "https://www.kdksoftware.com/"
+  },
+  {
+    "companyName": "FrigginYeah Price Monitoring",
+    "size": "2 - 9",
+    "location": "Manhattan Beach, United States",
+    "url": "https://frigginyeah.com/"
+  },
+  {
+    "companyName": "Ricksoft, Inc.",
+    "size": "2 - 9",
+    "location": "Mountain View, United States",
+    "url": "https://www.ricksoft-inc.com/"
+  },
+  {
+    "companyName": "Mocero Health",
+    "size": "10 - 49",
+    "location": "Chennai, India",
+    "url": "https://mocerohealth.com/"
+  },
+  {
+    "companyName": "SourcePro Infotech Pvt. Ltd.",
+    "size": "250 - 999",
+    "location": "Ahmedabad, India",
+    "url": "https://sourcepro.co.in/"
+  },
+  {
+    "companyName": "EasyM Mechandiser Sdn Bhd",
+    "size": "10 - 49",
+    "location": "Petaling Jaya, Malaysia",
+    "url": "https://easym.com.my/"
+  },
+  {
+    "companyName": "VePay Inc.",
+    "size": "2 - 9",
+    "location": "Vancouver, Canada",
+    "url": "https://vepay.io/#"
+  },
+  {
+    "companyName": "Breeze Clock",
+    "size": "2 - 9",
+    "location": "",
+    "url": "https://breezeclock.com"
+  },
+  {
+    "companyName": "Paragon Marketing Inc",
+    "size": "2 - 9",
+    "location": "Jersey City, United States",
+    "url": "https://pmincusa.com/"
+  },
+  {
+    "companyName": "SheStarters Guide",
+    "size": "2 - 9",
+    "location": "Copenhagen, Denmark",
+    "url": "https://shestartersguide.com/"
+  },
+  {
+    "companyName": "Chiemgau Control UG",
+    "size": "2 - 9",
+    "location": "Traunstein, Germany",
+    "url": "https://www.chiemgau-control.de"
+  },
+  {
+    "companyName": "Manin Software",
+    "size": "10 - 49",
+    "location": "Tiruchirappalli, India",
+    "url": "https://maninorg.com/"
+  },
+  {
+    "companyName": "Sales Pipe Pro Inc.",
+    "size": "10 - 49",
+    "location": "West Palm Beach, United States",
+    "url": "https://salespipepro.com/"
+  },
+  {
+    "companyName": "Dacompass",
+    "size": "2 - 9",
+    "location": "City of Mexico, Mexico",
+    "url": "https://dacompass.io"
+  },
+  {
+    "companyName": "TechsBCN",
+    "size": "10 - 49",
+    "location": "Miami, United States",
+    "url": "https://techsbcn.com/en/"
+  },
+  {
+    "companyName": "Omega Coders",
+    "size": "10 - 49",
+    "location": "Sofia, Bulgaria",
+    "url": "https://omegacoders.com/"
+  },
+  {
+    "companyName": "IBORN.NET",
+    "size": "50 - 249",
+    "location": "Skopje, North Macedonia",
+    "url": "https://www.iborn.net/"
+  },
+  {
+    "companyName": "Genic Solutions Pte Ltd",
+    "size": "250 - 999",
+    "location": "Singapore, Singapore",
+    "url": "https://www.genicsolutions.com/custom-software/"
+  },
+  {
+    "companyName": "RELEX",
+    "size": "250 - 999",
+    "location": "Voronezh, Russia",
+    "url": "https://relex.ru/ru/?utm_source=catalog&utm_medium=goodfirms"
+  },
+  {
+    "companyName": "Adeptivity",
+    "size": "2 - 9",
+    "location": "Vancouver, Canada",
+    "url": "https://adeptivity.co/"
+  },
+  {
+    "companyName": "Gauranga Technologies",
+    "size": "10 - 49",
+    "location": "Navi Mumbai, India",
+    "url": "https://www.gaurangatech.com/"
+  },
+  {
+    "companyName": "Web Panel Solutions",
+    "size": "10 - 49",
+    "location": "Los Angeles, United States",
+    "url": "https://www.webpanelsolutions.com/"
+  },
+  {
+    "companyName": "eForte",
+    "size": "10 - 49",
+    "location": "San Jose, United States",
+    "url": "https://eforte.io/"
+  },
+  {
+    "companyName": "T-Minus Solutions",
+    "size": "2 - 9",
+    "location": "Houston, United States",
+    "url": "https://www.tminussolutions.com/"
+  },
+  {
+    "companyName": "Zelta Tech",
+    "size": "2 - 9",
+    "location": "Jaipur, India",
+    "url": "https://zeltatech.com/"
+  },
+  {
+    "companyName": "360factors",
+    "size": "50 - 249",
+    "location": "Karachi, Pakistan",
+    "url": "https://www.360factors.com"
+  },
+  {
+    "companyName": "Ortosoft",
+    "size": "10 - 49",
+    "location": "Czestochowa, Poland",
+    "url": "https://www.ortosoft.eu/"
+  },
+  {
+    "companyName": "EvoSonic",
+    "size": "10 - 49",
+    "location": "Kyiv, Ukraine",
+    "url": "https://evo-sonic.com/"
+  },
+  {
+    "companyName": "Text",
+    "size": "250 - 999",
+    "location": "Wroclaw, Poland",
+    "url": "https://text.com"
+  },
+  {
+    "companyName": "IBTI IT Tech",
+    "size": "2 - 9",
+    "location": "Sao Paulo, Brazil",
+    "url": "https://ibti.tech"
+  },
+  {
+    "companyName": "Oppolis Software Limited",
+    "size": "10 - 49",
+    "location": "Telford, United Kingdom",
+    "url": "https://www.oppolis.com/"
+  },
+  {
+    "companyName": "ICEKOME LLC",
+    "size": "2 - 9",
+    "location": "Albuquerque, United States",
+    "url": "https://icekome.com"
+  }
+]

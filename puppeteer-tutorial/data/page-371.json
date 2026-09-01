@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "Tapsoft Technologies",
+    "size": "10 - 49",
+    "location": "Pune, India",
+    "url": "https://tapsoft.in"
+  },
+  {
+    "companyName": "JB Solutions",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "http://jbsolutions.in"
+  },
+  {
+    "companyName": "The Banyan Infotech",
+    "size": "2 - 9",
+    "location": "Coimbatore, India",
+    "url": "https://www.banyaninfotech.com"
+  },
+  {
+    "companyName": "Mysphere Infotech",
+    "size": "10 - 49",
+    "location": "Vadodara, India",
+    "url": "http://www.mysphereinfotech.com/"
+  },
+  {
+    "companyName": "Wemonde Pvt Ltd",
+    "size": "10 - 49",
+    "location": "Delhi, India",
+    "url": "https://www.wemonde.com/"
+  },
+  {
+    "companyName": "Bramerz",
+    "size": "50 - 249",
+    "location": "Lahore, Pakistan",
+    "url": "https://bramerz.com/"
+  },
+  {
+    "companyName": "Neetable",
+    "size": "10 - 49",
+    "location": "Bengaluru, India",
+    "url": "https://neetable.com"
+  },
+  {
+    "companyName": "Skara Technologies Limited",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "https://www.skaratechnologies.com/"
+  },
+  {
+    "companyName": "GenITeam Solutions",
+    "size": "50 - 249",
+    "location": "Arlington, United States",
+    "url": "https://geniteam.com/gamedev/game-studio-for-hire.html"
+  },
+  {
+    "companyName": "Venturenox",
+    "size": "10 - 49",
+    "location": "Lahore, Pakistan",
+    "url": "https://venturenox.com/"
+  },
+  {
+    "companyName": "Shareforce",
+    "size": "10 - 49",
+    "location": "'s-Hertogenbosch, Netherlands",
+    "url": "https://www.shareforce.nl"
+  },
+  {
+    "companyName": "Alpha Alias",
+    "size": "10 - 49",
+    "location": "London, United Kingdom",
+    "url": "http://www.alphaalias.com"
+  },
+  {
+    "companyName": "Royalsoft",
+    "size": "10 - 49",
+    "location": "Constanta, Romania",
+    "url": "https://www.royalsoft.eu/"
+  },
+  {
+    "companyName": "Modernized Mobile",
+    "size": "10 - 49",
+    "location": "Gainesville, United States",
+    "url": "https://modernizedmobile.com/"
+  },
+  {
+    "companyName": "Canada Web Development",
+    "size": "2 - 9",
+    "location": "Ontario, Canada",
+    "url": "https://www.canadawebdevelopment.com/"
+  },
+  {
+    "companyName": "VNAppMob",
+    "size": "2 - 9",
+    "location": "Ho Chi Minh City, Vietnam",
+    "url": "https://web.vnappmob.com"
+  },
+  {
+    "companyName": "Brave River Solutions",
+    "size": "10 - 49",
+    "location": "Providence, United States",
+    "url": "https://www.braveriver.com"
+  },
+  {
+    "companyName": "Rajasri Systems",
+    "size": "50 - 249",
+    "location": "Chennai, India",
+    "url": "https://www.rajasri.com"
+  },
+  {
+    "companyName": "Ways Web Development Pvt Ltd",
+    "size": "2 - 9",
+    "location": "Bhubaneswar, India",
+    "url": "https://www.wayswebdevelopment.com/"
+  },
+  {
+    "companyName": "Fee Creative",
+    "size": "250 - 999",
+    "location": "Hong Kong, China",
+    "url": "https://www.feecreative.com/"
+  },
+  {
+    "companyName": "Fexle Inc",
+    "size": "50 - 249",
+    "location": "Plano, United States",
+    "url": "https://fexle.com/"
+  },
+  {
+    "companyName": "Simulas",
+    "size": "2 - 9",
+    "location": "Ahmedabad, India",
+    "url": "https://www.simulas.in"
+  },
+  {
+    "companyName": "worldindia.com",
+    "size": "2 - 9",
+    "location": "Mumbai, India",
+    "url": "https://www.worldindia.com/"
+  },
+  {
+    "companyName": "Ethon Technologies",
+    "size": "10 - 49",
+    "location": "Pune, India",
+    "url": "http://www.ethonindia.com"
+  },
+  {
+    "companyName": "Bit 01 Techplode",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "https://bit01.tech/"
+  },
+  {
+    "companyName": "Borne Digital",
+    "size": "10 - 49",
+    "location": "London, United Kingdom",
+    "url": "http://borneagency.com"
+  },
+  {
+    "companyName": "Sixth Star Technologies",
+    "size": "10 - 49",
+    "location": "Chennai, India",
+    "url": "https://sixthstartech.com/"
+  },
+  {
+    "companyName": "Tecpinion",
+    "size": "2 - 9",
+    "location": "Indore, India",
+    "url": "http://www.tecpinion.com"
+  },
+  {
+    "companyName": "VantaWorks",
+    "size": "2 - 9",
+    "location": "Istanbul, Turkey",
+    "url": "https://vantaworks.com/"
+  },
+  {
+    "companyName": "BCNWEBTEAM",
+    "size": "10 - 49",
+    "location": "Barcelona, Spain",
+    "url": "https://bcnwebteam.com/en/"
+  },
+  {
+    "companyName": "Elexoft technology",
+    "size": "10 - 49",
+    "location": "City of Commerce, United States",
+    "url": "http://www.elexoft.com/"
+  },
+  {
+    "companyName": "CynoInfotech",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "https://www.cynoinfotech.com"
+  },
+  {
+    "companyName": "Rockers Technology",
+    "size": "50 - 249",
+    "location": "Austin, United States",
+    "url": "https://www.rockersinfo.com"
+  },
+  {
+    "companyName": "Supernova Systems",
+    "size": "10 - 49",
+    "location": "Satara, India",
+    "url": "https://www.supernova-systems.com/"
+  },
+  {
+    "companyName": "Unbox innovations",
+    "size": "10 - 49",
+    "location": "Vasai, India",
+    "url": "https://www.unboxinnovations.com/"
+  },
+  {
+    "companyName": "Appsitsolution",
+    "size": "2 - 9",
+    "location": "Noida, India",
+    "url": "http://www.appsitsolution.com/"
+  },
+  {
+    "companyName": "Britwise Technologies",
+    "size": "10 - 49",
+    "location": "Pune, India",
+    "url": "https://www.britwise.com/"
+  },
+  {
+    "companyName": "Bitsclan IT Solutions",
+    "size": "50 - 249",
+    "location": "NYC, United States",
+    "url": "https://www.bitsclan.com"
+  },
+  {
+    "companyName": "sk-global",
+    "size": "10 - 49",
+    "location": "Ho Chi Minh City, Vietnam",
+    "url": "https://www.sk-global.biz/"
+  },
+  {
+    "companyName": "Taurus web solutions",
+    "size": "2 - 9",
+    "location": "Kochi, India",
+    "url": "https://www.tauruswebsolutions.com/"
+  },
+  {
+    "companyName": "Zuplic",
+    "size": "10 - 49",
+    "location": "Jaipur, India",
+    "url": "https://www.zuplic.com"
+  },
+  {
+    "companyName": "Virtual Spirit Technology Sdn Bhd",
+    "size": "10 - 49",
+    "location": "Petaling Jaya, Malaysia",
+    "url": "https://virtualspirit.me"
+  },
+  {
+    "companyName": "Nogor Solutions Limited",
+    "size": "10 - 49",
+    "location": "Dhaka, Bangladesh",
+    "url": "http://www.nogorsolutions.com"
+  },
+  {
+    "companyName": "Digital NINJA",
+    "size": "10 - 49",
+    "location": "Bucharest, Romania",
+    "url": "https://digitalninja.ro/"
+  },
+  {
+    "companyName": "DNG WEB TECH",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "https://www.dngwebtech.com"
+  },
+  {
+    "companyName": "WebFox",
+    "size": "50 - 249",
+    "location": "Houston, United States",
+    "url": "https://www.webfox.dev/"
+  },
+  {
+    "companyName": "Supportsoft Technologies",
+    "size": "10 - 49",
+    "location": "Sydney, Australia",
+    "url": "https://www.supportsoft.com.au/"
+  },
+  {
+    "companyName": "HeapTrace Technology Pvt. Ltd.",
+    "size": "50 - 249",
+    "location": "Pune, India",
+    "url": "https://heaptrace.com/"
+  }
+]

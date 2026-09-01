@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "Hyberlab IT Solutions",
+    "size": "10 - 49",
+    "location": "Kathmandu, Nepal",
+    "url": "https://www.hyberlab.com/"
+  },
+  {
+    "companyName": "AIUNSEEN Studio",
+    "size": "Freelancer",
+    "location": "Cairo, Egypt",
+    "url": "https://www.aiunseenstudio.com"
+  },
+  {
+    "companyName": "BdCalling IT Limited",
+    "size": "250 - 999",
+    "location": "Dhaka, Bangladesh",
+    "url": "https://bdcalling.com/"
+  },
+  {
+    "companyName": "iSolution Microsystems Pvt Ltd",
+    "size": "10 - 49",
+    "location": "Jaipur, India",
+    "url": "https://www.isolutiononline.com"
+  },
+  {
+    "companyName": "Alluxi",
+    "size": "2 - 9",
+    "location": "Monterrey, Mexico",
+    "url": "https://alluxi.com"
+  },
+  {
+    "companyName": "oprezo india private limited",
+    "size": "10 - 49",
+    "location": "Delhi, India",
+    "url": "https://www.oprezoindia.com/"
+  },
+  {
+    "companyName": "Codelix IT Solutions Pvt Ltd",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "https://www.codelixitsolutions.com/"
+  },
+  {
+    "companyName": "BL Stream",
+    "size": "1,000 - 9,999",
+    "location": "Sunnyvale, United States",
+    "url": "http://www.blstream.com/"
+  },
+  {
+    "companyName": "InfiniteT3ch",
+    "size": "Freelancer",
+    "location": "Edmonton, Canada",
+    "url": "http://infinitet3ch.com/"
+  },
+  {
+    "companyName": "superlumen",
+    "size": "Freelancer",
+    "location": "",
+    "url": "https://superlumen.io"
+  },
+  {
+    "companyName": "Margasoft",
+    "size": "10 - 49",
+    "location": "Los Angeles, United States",
+    "url": "https://www.margasoft.com/"
+  },
+  {
+    "companyName": "Rooster Park",
+    "size": "10 - 49",
+    "location": "Seattle, United States",
+    "url": "http://roosterpark.com"
+  },
+  {
+    "companyName": "Infobip",
+    "size": "250 - 999",
+    "location": "Seattle, United States",
+    "url": "https://www.infobip.com/"
+  },
+  {
+    "companyName": "PDG Consulting",
+    "size": "10 - 49",
+    "location": "Los Angeles, United States",
+    "url": "http://pdgc.com/"
+  },
+  {
+    "companyName": "Obecto",
+    "size": "10 - 49",
+    "location": "Sofia, Bulgaria",
+    "url": "http://www.obecto.com/"
+  },
+  {
+    "companyName": "Intellisoft Consultants",
+    "size": "2 - 9",
+    "location": "Solapur, India",
+    "url": "http://www.intellisoft.co.in/"
+  },
+  {
+    "companyName": "Enghouse Systems",
+    "size": "250 - 999",
+    "location": "Toronto, Canada",
+    "url": "http://www.enghouse.com/"
+  },
+  {
+    "companyName": "Ginni System Limited",
+    "size": "250 - 999",
+    "location": "Ghraunda, India",
+    "url": "http://www.ginesys.in/"
+  },
+  {
+    "companyName": "Dexterity Solution",
+    "size": "10 - 49",
+    "location": "Chennai, India",
+    "url": "http://www.dexteritysolution.com/"
+  },
+  {
+    "companyName": "Qualityze Inc",
+    "size": "50 - 249",
+    "location": "Bengaluru, India",
+    "url": "http://www.qualityze.com/"
+  },
+  {
+    "companyName": "Aezion Inc",
+    "size": "250 - 999",
+    "location": "Frisco, United States",
+    "url": "http://www.aezion.com/"
+  },
+  {
+    "companyName": "Optrise Software Pvt.Ltd",
+    "size": "10 - 49",
+    "location": "Bengaluru, India",
+    "url": "http://www.optirise.in/"
+  },
+  {
+    "companyName": "NGFO Technologies",
+    "size": "10 - 49",
+    "location": "Coimbatore, India",
+    "url": "https://www.ngfot.com/"
+  },
+  {
+    "companyName": "Infovium web scraping services",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "http://infoviumwebscraping.com/"
+  },
+  {
+    "companyName": "RealTime IT",
+    "size": "10 - 49",
+    "location": "Dothan, United States",
+    "url": "http://www.realtime-it.com"
+  },
+  {
+    "companyName": "Crosstrax",
+    "size": "Freelancer",
+    "location": "Destin, United States",
+    "url": "https://www.crosstrax.co/"
+  },
+  {
+    "companyName": "Shopery",
+    "size": "10 - 49",
+    "location": "Barcelona, Spain",
+    "url": "https://www.shopery.com/"
+  },
+  {
+    "companyName": "Tech Automation Solutions",
+    "size": "Freelancer",
+    "location": "Bengaluru, India",
+    "url": "https://techautomationsolutions.com/"
+  },
+  {
+    "companyName": "SoftLink International Pvt. Ltd.",
+    "size": "50 - 249",
+    "location": "Pune, India",
+    "url": "http://www.softlinkinternational.com"
+  },
+  {
+    "companyName": "Onelogicsoft",
+    "size": "10 - 49",
+    "location": "Kyiv, Ukraine",
+    "url": "https://onelogicsoft.com"
+  },
+  {
+    "companyName": "MaybeWorks",
+    "size": "10 - 49",
+    "location": "Kharkiv, Ukraine",
+    "url": "https://maybe.works/"
+  },
+  {
+    "companyName": "ILIAS Solution",
+    "size": "50 - 249",
+    "location": "Brussels, Belgium",
+    "url": "http://www.ilias-solutions.com"
+  },
+  {
+    "companyName": "TCA Accountants and Bookkeepers Pty Ltd",
+    "size": "Freelancer",
+    "location": "Melbourne, Australia",
+    "url": "https://www.tcadarwin.com.au/"
+  },
+  {
+    "companyName": "Agaram Technologies",
+    "size": "10 - 49",
+    "location": "Chennai, India",
+    "url": "https://agaramtech.com/"
+  },
+  {
+    "companyName": "BENUEVO",
+    "size": "2 - 9",
+    "location": "Tallinn, Estonia",
+    "url": "https://benuevo.com"
+  },
+  {
+    "companyName": "Eagle Soft Technologies LLC",
+    "size": "10 - 49",
+    "location": "Dubai, UAE",
+    "url": "http://www.eaglestuae.com/"
+  },
+  {
+    "companyName": "Intellial Solutions Pvt Ltd",
+    "size": "50 - 249",
+    "location": "Ahmedabad, India",
+    "url": "https://www.intellial.com"
+  },
+  {
+    "companyName": "DunRite Technologies",
+    "size": "10 - 49",
+    "location": "Chennai, India",
+    "url": "https://www.dunritetech.com/"
+  },
+  {
+    "companyName": "Hyperion Tech",
+    "size": "50 - 249",
+    "location": "L-Iklin, Malta",
+    "url": "https://hyperion-tech.co"
+  },
+  {
+    "companyName": "Infiniti Software Solutions",
+    "size": "250 - 999",
+    "location": "Chennai, India",
+    "url": "http://infinitisoftware.net/"
+  },
+  {
+    "companyName": "Brillibytes",
+    "size": "2 - 9",
+    "location": "Chennai, India",
+    "url": "http://www.brillibytes.com"
+  },
+  {
+    "companyName": "Digitalogy",
+    "size": "10 - 49",
+    "location": "Brooklyn, United States",
+    "url": "https://www.digitalogy.co"
+  },
+  {
+    "companyName": "CoSo by AROBS",
+    "size": "10 - 49",
+    "location": "Breda, Netherlands",
+    "url": "https://www.coso.nl"
+  },
+  {
+    "companyName": "Dolm IT",
+    "size": "10 - 49",
+    "location": "Tallinn, Estonia",
+    "url": "https://www.dolmit.com/"
+  },
+  {
+    "companyName": "Future Software UAE",
+    "size": "10 - 49",
+    "location": "Dubai, UAE",
+    "url": "https://www.futuresoftware.ae"
+  },
+  {
+    "companyName": "Bista Solutions",
+    "size": "50 - 249",
+    "location": "Norcross, United States",
+    "url": "https://www.bistasolutions.com"
+  },
+  {
+    "companyName": "Emsphere Technologies",
+    "size": "10 - 49",
+    "location": "Pune, India",
+    "url": "https://www.emsphere.com/"
+  },
+  {
+    "companyName": "Cambia Research",
+    "size": "Freelancer",
+    "location": "Liberty, United States",
+    "url": "https://www.cambiaresearch.com/custom-software-development-in-kansas-city"
+  }
+]

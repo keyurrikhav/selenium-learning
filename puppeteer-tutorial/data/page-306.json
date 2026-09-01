@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "NAPA - IT Services and Consulting",
+    "size": "50 - 249",
+    "location": "Da Nang, Vietnam",
+    "url": "https://www.napaglobal.com/"
+  },
+  {
+    "companyName": "G-Tech Solutions",
+    "size": "10 - 49",
+    "location": "Sydney, Australia",
+    "url": "https://g-techsolutions.com.au/"
+  },
+  {
+    "companyName": "Studio45Creations",
+    "size": "10 - 49",
+    "location": "Mohali, India",
+    "url": "http://studio45creations.com/"
+  },
+  {
+    "companyName": "Zigzag",
+    "size": "10 - 49",
+    "location": "Kyiv, Ukraine",
+    "url": "https://z-i-g-z-a-g.com/"
+  },
+  {
+    "companyName": "Ebryx Tech",
+    "size": "50 - 249",
+    "location": "Hampton, United States",
+    "url": "https://ebryxtech.com/"
+  },
+  {
+    "companyName": "royaldesignusa",
+    "size": "50 - 249",
+    "location": "Sheridan, United States",
+    "url": "https://www.royaldesignusa.com/"
+  },
+  {
+    "companyName": "Codi.pro",
+    "size": "2 - 9",
+    "location": "Rybnik, Poland",
+    "url": "https://codi.pro/"
+  },
+  {
+    "companyName": "IT Solutioner",
+    "size": "2 - 9",
+    "location": "Jessor, Bangladesh",
+    "url": "https://itsolutioner.com/"
+  },
+  {
+    "companyName": "Incredere Services Pvt. Ltd.",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "https://incredereservices.com/"
+  },
+  {
+    "companyName": "Vorac Innovation Labs",
+    "size": "2 - 9",
+    "location": "Alwar, India",
+    "url": "https://www.vilabs.in"
+  },
+  {
+    "companyName": "UUUSoftware.com",
+    "size": "10 - 49",
+    "location": "Toronto, Canada",
+    "url": "https://uuusoftware.com"
+  },
+  {
+    "companyName": "Drabito Technologies",
+    "size": "10 - 49",
+    "location": "Noida, India",
+    "url": "https://www.drabito.com/"
+  },
+  {
+    "companyName": "BlackBox Vision",
+    "size": "2 - 9",
+    "location": "Buenos Aires, Argentina",
+    "url": "https://blackboxvision.com/"
+  },
+  {
+    "companyName": "Quazma Techno Solutions",
+    "size": "10 - 49",
+    "location": "Indore, India",
+    "url": "https://quazma.com/"
+  },
+  {
+    "companyName": "Tech Talent Force",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "https://techtalentforce.com"
+  },
+  {
+    "companyName": "Mahendravijay InfoTech",
+    "size": "2 - 9",
+    "location": "Coimbatore, India",
+    "url": "https://www.mahendravijay.in"
+  },
+  {
+    "companyName": "Rebininfotech",
+    "size": "50 - 249",
+    "location": "Kolkata, India",
+    "url": "https://www.rebininfotech.com/"
+  },
+  {
+    "companyName": "Positive Geeks",
+    "size": "10 - 49",
+    "location": "Warsaw, Poland",
+    "url": "http://www.positivegeeks.com"
+  },
+  {
+    "companyName": "5w155",
+    "size": "10 - 49",
+    "location": "Geneva, Switzerland",
+    "url": "https://5w155.ch"
+  },
+  {
+    "companyName": "FOEFOX",
+    "size": "2 - 9",
+    "location": "Frankfurt, Germany",
+    "url": "https://foefox.com"
+  },
+  {
+    "companyName": "Nascenture Technologies",
+    "size": "10 - 49",
+    "location": "Houston, United States",
+    "url": "https://www.nascenture.com"
+  },
+  {
+    "companyName": "DigitalFlake",
+    "size": "10 - 49",
+    "location": "Pune, India",
+    "url": "https://digitalflake.com/"
+  },
+  {
+    "companyName": "SOFTLIX",
+    "size": "10 - 49",
+    "location": "Noida, India",
+    "url": "https://softlix.tech"
+  },
+  {
+    "companyName": "Inwizards LLC",
+    "size": "10 - 49",
+    "location": "Indore, India",
+    "url": "https://www.inwizards.com/"
+  },
+  {
+    "companyName": "Tri-Force Consulting Services Inc.",
+    "size": "50 - 249",
+    "location": "",
+    "url": "https://triforce-inc.com/"
+  },
+  {
+    "companyName": "Etech Technology Solutions",
+    "size": "1,000 - 9,999",
+    "location": "Nacogdoches, United States",
+    "url": "https://www.etechtechnologysolutions.com/"
+  },
+  {
+    "companyName": "TulaCo",
+    "size": "50 - 249",
+    "location": "Santa Monica, United States",
+    "url": "https://tula.co/"
+  },
+  {
+    "companyName": "Devdutt Technologies",
+    "size": "2 - 9",
+    "location": "Surendranagar, India",
+    "url": "https://devdutttechnologies.com/"
+  },
+  {
+    "companyName": "DS360",
+    "size": "10 - 49",
+    "location": "Bialystok, Poland",
+    "url": "https://ds360.pl/"
+  },
+  {
+    "companyName": "Simpos Australia PVT LTD",
+    "size": "10 - 49",
+    "location": "Sydney, Australia",
+    "url": "https://simpos.com.au/"
+  },
+  {
+    "companyName": "Lead Marketing Strategies",
+    "size": "10 - 49",
+    "location": "Long Island, United States",
+    "url": "https://www.leadmarketingstrategies.com/"
+  },
+  {
+    "companyName": "Lionix",
+    "size": "2 - 9",
+    "location": "Yerevan, Armenia",
+    "url": "https://lionix.io"
+  },
+  {
+    "companyName": "Sparsa Digital Private Limited",
+    "size": "50 - 249",
+    "location": "Gurgaon, India",
+    "url": "https://www.sparsadigital.in"
+  },
+  {
+    "companyName": "Dezital Technologies",
+    "size": "10 - 49",
+    "location": "Coleshill, United Kingdom",
+    "url": "https://www.dezital.com/"
+  },
+  {
+    "companyName": "ewasoft",
+    "size": "10 - 49",
+    "location": "Novi Sad, Serbia",
+    "url": "https://ewasoft.rs/"
+  },
+  {
+    "companyName": "Protech Ltd.",
+    "size": "10 - 49",
+    "location": "Novi Sad, Serbia",
+    "url": "https://protech.rs/"
+  },
+  {
+    "companyName": "ilegra",
+    "size": "250 - 999",
+    "location": "Rio Grande do Sul, Brazil",
+    "url": "https://ilegra.com/en/"
+  },
+  {
+    "companyName": "Superb Developer",
+    "size": "10 - 49",
+    "location": "Plano, United States",
+    "url": "https://www.superbdeveloper.com/"
+  },
+  {
+    "companyName": "HiLearn",
+    "size": "10 - 49",
+    "location": "Yerevan, Armenia",
+    "url": "https://www.hilearn.io/"
+  },
+  {
+    "companyName": "Techware Hut",
+    "size": "50 - 249",
+    "location": "Pickering, Canada",
+    "url": "https://www.techwarehut.com/"
+  },
+  {
+    "companyName": "Kode Technologies",
+    "size": "2 - 9",
+    "location": "London, United Kingdom",
+    "url": "https://kodetechnologies.com/"
+  },
+  {
+    "companyName": "Sourcefile Solutions Private Limited",
+    "size": "2 - 9",
+    "location": "Bengaluru, India",
+    "url": "https://www.sourcefilesolutions.com"
+  },
+  {
+    "companyName": "Brivian",
+    "size": "10 - 49",
+    "location": "Wilmington, United States",
+    "url": "https://brivian.com/"
+  },
+  {
+    "companyName": "Propelius Technologies",
+    "size": "10 - 49",
+    "location": "Surat, India",
+    "url": "https://www.propelius.tech/"
+  },
+  {
+    "companyName": "Webotix",
+    "size": "50 - 249",
+    "location": "Dubai, UAE",
+    "url": "https://www.webotix.ae/"
+  },
+  {
+    "companyName": "Mangosoft",
+    "size": "10 - 49",
+    "location": "Struga, North Macedonia",
+    "url": "https://www.mangosoft.mk/"
+  },
+  {
+    "companyName": "Baldwin",
+    "size": "10 - 49",
+    "location": "Gent, Belgium",
+    "url": "https://www.baldwin.agency/"
+  },
+  {
+    "companyName": "Intellier Limited",
+    "size": "50 - 249",
+    "location": "Dhaka, Bangladesh",
+    "url": "https://intellier.com/"
+  }
+]

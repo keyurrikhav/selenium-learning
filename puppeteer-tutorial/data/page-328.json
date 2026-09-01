@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "Webology  World",
+    "size": "10 - 49",
+    "location": "Dubai, UAE",
+    "url": "https://webologyworld.com/"
+  },
+  {
+    "companyName": "Foscio Canada",
+    "size": "2 - 9",
+    "location": "Bengaluru, India",
+    "url": "https://www.foscio.ca/"
+  },
+  {
+    "companyName": "Pittsburgh SEO company",
+    "size": "2 - 9",
+    "location": "Coraopolis, United States",
+    "url": "https://pittsburghseoservices.com/"
+  },
+  {
+    "companyName": "7 Heaven Technology",
+    "size": "10 - 49",
+    "location": "Dubai, UAE",
+    "url": "https://www.7heaventech.com"
+  },
+  {
+    "companyName": "WP Bunch",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "https://wpbunch.com/"
+  },
+  {
+    "companyName": "progressive byte",
+    "size": "10 - 49",
+    "location": "Jersey City, United States",
+    "url": "https://progressivebyte.com/"
+  },
+  {
+    "companyName": "Techneutron",
+    "size": "50 - 249",
+    "location": "Pune, India",
+    "url": "https://techneutron.in/"
+  },
+  {
+    "companyName": "Multimedia Gen",
+    "size": "50 - 249",
+    "location": "Sylhet, Bangladesh",
+    "url": "https://multimediagen.com/"
+  },
+  {
+    "companyName": "Extremis Technologies",
+    "size": "2 - 9",
+    "location": "Ahmedabad, India",
+    "url": "https://www.extremis.tech/"
+  },
+  {
+    "companyName": "BigDataTech",
+    "size": "2 - 9",
+    "location": "Hanoi, Vietnam",
+    "url": "https://bigdatatech.vn/"
+  },
+  {
+    "companyName": "Digital Crop",
+    "size": "10 - 49",
+    "location": "Bogora, Bangladesh",
+    "url": "https://digital-crop.com/"
+  },
+  {
+    "companyName": "DEsigners X",
+    "size": "10 - 49",
+    "location": "Margate, United States",
+    "url": "https://www.designersx.us/"
+  },
+  {
+    "companyName": "Quantumbyte Technologies",
+    "size": "2 - 9",
+    "location": "Ramganj, Bangladesh",
+    "url": "https://quantumbytetech.com"
+  },
+  {
+    "companyName": "SourceCatch Konnect Pvt. Ltd.",
+    "size": "2 - 9",
+    "location": "Jalgaon, India",
+    "url": "https://sckonnect.com/"
+  },
+  {
+    "companyName": "BrandBay",
+    "size": "10 - 49",
+    "location": "Noida, India",
+    "url": "https://www.brandbay.in/"
+  },
+  {
+    "companyName": "Truis",
+    "size": "2 - 9",
+    "location": "Brisbane, Australia",
+    "url": "https://truis.com.au/"
+  },
+  {
+    "companyName": "Digital Analyticc",
+    "size": "2 - 9",
+    "location": "Texas City, United States",
+    "url": "https://digital-analytic.com/"
+  },
+  {
+    "companyName": "Accel Fintech Pvt Ltd",
+    "size": "10 - 49",
+    "location": "Gandhinagar, India",
+    "url": "https://www.accelfintech.com"
+  },
+  {
+    "companyName": "Peacock Design Solutions",
+    "size": "2 - 9",
+    "location": "Chennai, India",
+    "url": "https://www.peacockdesignsolutions.com"
+  },
+  {
+    "companyName": "Bhagirath Software",
+    "size": "2 - 9",
+    "location": "Ahmedabad, India",
+    "url": "https://bhagirathsoftware.com"
+  },
+  {
+    "companyName": "Havilah Blockchain Studios",
+    "size": "10 - 49",
+    "location": "Awka, Nigeria",
+    "url": "https://havilahblockchainstudios.com"
+  },
+  {
+    "companyName": "Debugged Pro Pvt. Ltd.",
+    "size": "10 - 49",
+    "location": "Mohali, India",
+    "url": "https://debugged-pro.com/"
+  },
+  {
+    "companyName": "SharpAnt",
+    "size": "10 - 49",
+    "location": "Yerevan, Armenia",
+    "url": "https://sharp-ant.com/"
+  },
+  {
+    "companyName": "TConnectX Solutions",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "https://tconnectx.com"
+  },
+  {
+    "companyName": "CrosLinks",
+    "size": "10 - 49",
+    "location": "Anaheim, United States",
+    "url": "https://www.croslinks.com/"
+  },
+  {
+    "companyName": "42i",
+    "size": "10 - 49",
+    "location": "NYC, United States",
+    "url": "https://42i.co"
+  },
+  {
+    "companyName": "M2N IT TECHNOLOGY",
+    "size": "10 - 49",
+    "location": "Jaipur, India",
+    "url": "https://m2nittech.com/"
+  },
+  {
+    "companyName": "Techeunoia International",
+    "size": "10 - 49",
+    "location": "Agra, India",
+    "url": "https://techeunoiainternational.com/"
+  },
+  {
+    "companyName": "Infid AB",
+    "size": "2 - 9",
+    "location": "Karlstad, Sweden",
+    "url": "https://infid.dev"
+  },
+  {
+    "companyName": "Asynchron Labs",
+    "size": "50 - 249",
+    "location": "NYC, United States",
+    "url": "https://asynchronlabs.com"
+  },
+  {
+    "companyName": "Zero Point Intel",
+    "size": "2 - 9",
+    "location": "Zurich, Switzerland",
+    "url": "https://www.zeropointintel.com/"
+  },
+  {
+    "companyName": "Greenboxtechs",
+    "size": "2 - 9",
+    "location": "Medellin, Colombia",
+    "url": "https://www.greenboxtechnologies.com/"
+  },
+  {
+    "companyName": "GM Sunshine",
+    "size": "10 - 49",
+    "location": "New Castle, United States",
+    "url": "https://gm-sunshine.com"
+  },
+  {
+    "companyName": "Software NextDoor",
+    "size": "10 - 49",
+    "location": "San Francisco, United States",
+    "url": "https://www.softwarenextdoor.com/"
+  },
+  {
+    "companyName": "Developios",
+    "size": "10 - 49",
+    "location": "Jhelum, Pakistan",
+    "url": "https://www.developios.com"
+  },
+  {
+    "companyName": "Netiquette Technologu",
+    "size": "2 - 9",
+    "location": "Jhunjhunun, India",
+    "url": "https://netiquettetechnology.com"
+  },
+  {
+    "companyName": "DigiEvolve",
+    "size": "10 - 49",
+    "location": "Springfield, United States",
+    "url": "https://digievolveagency.com/"
+  },
+  {
+    "companyName": "Async Consulting group",
+    "size": "2 - 9",
+    "location": "Sydney, Australia",
+    "url": "https://www.asyncgts.com/"
+  },
+  {
+    "companyName": "Systechlogic",
+    "size": "10 - 49",
+    "location": "Karachi, Pakistan",
+    "url": "https://systechlogic.com/"
+  },
+  {
+    "companyName": "XCon Technologies",
+    "size": "10 - 49",
+    "location": "Charlotte, United States",
+    "url": "https://xcontechnologies.com/"
+  },
+  {
+    "companyName": "Serversys Limited",
+    "size": "10 - 49",
+    "location": "Reading, United Kingdom",
+    "url": "https://www.serversys.com/"
+  },
+  {
+    "companyName": "KC4 Cloud Technologies LLC",
+    "size": "10 - 49",
+    "location": "Dubai, UAE",
+    "url": "https://www.kcforcloud.com"
+  },
+  {
+    "companyName": "Intelaro",
+    "size": "2 - 9",
+    "location": "Dubai, UAE",
+    "url": "https://www.intelaro.com"
+  },
+  {
+    "companyName": "SpY D Technology",
+    "size": "50 - 249",
+    "location": "Hyderabad, India",
+    "url": "https://www.spydtech.com/"
+  },
+  {
+    "companyName": "mergeIT",
+    "size": "2 - 9",
+    "location": "Copenhagen, Denmark",
+    "url": "https://mergeit.dk/en/"
+  },
+  {
+    "companyName": "Kodeclust Technologies",
+    "size": "10 - 49",
+    "location": "Truganina, Australia",
+    "url": "https://www.kodeclust.com/software-testing"
+  },
+  {
+    "companyName": "Camel Expert",
+    "size": "2 - 9",
+    "location": "Warsaw, Poland",
+    "url": "https://camel.expert/"
+  },
+  {
+    "companyName": "Ohanaone",
+    "size": "50 - 249",
+    "location": "Carlsbad, United States",
+    "url": "https://ohanaone.com/"
+  }
+]

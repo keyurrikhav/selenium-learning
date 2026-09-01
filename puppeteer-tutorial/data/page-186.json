@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "Anvilo Inc.",
+    "size": "10 - 49",
+    "location": "Chicago, United States",
+    "url": "https://anvilo.com"
+  },
+  {
+    "companyName": "IT Breeze",
+    "size": "50 - 249",
+    "location": "London, United Kingdom",
+    "url": "https://it-breeze.com/"
+  },
+  {
+    "companyName": "Lovell Software Consulting",
+    "size": "2 - 9",
+    "location": "Maine, United States",
+    "url": "https://www.lovellsoftware.com"
+  },
+  {
+    "companyName": "Avsoftlab",
+    "size": "2 - 9",
+    "location": "Jaipur, India",
+    "url": "https://www.avsoftlab.com/"
+  },
+  {
+    "companyName": "TeraVault",
+    "size": "2 - 9",
+    "location": "Cebu City, Philippines",
+    "url": "https://www.teravault.co/"
+  },
+  {
+    "companyName": "Devs X",
+    "size": "10 - 49",
+    "location": "Wilmington, United States",
+    "url": "https://www.devsx.net/"
+  },
+  {
+    "companyName": "Zelifcam",
+    "size": "10 - 49",
+    "location": "San Antonio, United States",
+    "url": "http://www.zelifcam.net"
+  },
+  {
+    "companyName": "Devcraft",
+    "size": "2 - 9",
+    "location": "Hrodna, Belarus",
+    "url": "https://devcraft.by/"
+  },
+  {
+    "companyName": "Believe Creative ITES Pvt Ltd",
+    "size": "10 - 49",
+    "location": "Hyderabad, India",
+    "url": "https://www.believecreative.com/"
+  },
+  {
+    "companyName": "Brand Center USA",
+    "size": "10 - 49",
+    "location": "Wilmington, United States",
+    "url": "https://brandcenterusa.com"
+  },
+  {
+    "companyName": "Augurs Innovation Pvt. Ltd.",
+    "size": "2 - 9",
+    "location": "Lucknow, India",
+    "url": "https://augursinnovation.com/"
+  },
+  {
+    "companyName": "3 Dex",
+    "size": "10 - 49",
+    "location": "Irvine, United States",
+    "url": "https://3dex.com/"
+  },
+  {
+    "companyName": "ZCoordinate Solutions",
+    "size": "2 - 9",
+    "location": "Delhi, India",
+    "url": "https://zcoordinate.com/"
+  },
+  {
+    "companyName": "Ecleva Pvt Ltd",
+    "size": "50 - 249",
+    "location": "Ahmedabad, India",
+    "url": "https://ecleva.com"
+  },
+  {
+    "companyName": "Arcane Web Design",
+    "size": "2 - 9",
+    "location": "Boise, United States",
+    "url": "https://www.arcane-web-design.com"
+  },
+  {
+    "companyName": "Hex10 Creatives",
+    "size": "2 - 9",
+    "location": "Lagos, Nigeria",
+    "url": "https://hex10creatives.com/"
+  },
+  {
+    "companyName": "Datakrypton AI",
+    "size": "2 - 9",
+    "location": "Toronto, Canada",
+    "url": "http://datakrypton.ai/"
+  },
+  {
+    "companyName": "IntWins",
+    "size": "2 - 9",
+    "location": "Middletown, United States",
+    "url": "https://www.intwins.com/"
+  },
+  {
+    "companyName": "CodeSync Lab",
+    "size": "10 - 49",
+    "location": "Islamabad, Pakistan",
+    "url": "https://codesynclab.com/"
+  },
+  {
+    "companyName": "Kansoft Schweiz GmbH",
+    "size": "50 - 249",
+    "location": "Oberengstringen, Switzerland",
+    "url": "https://kansoft.ch/"
+  },
+  {
+    "companyName": "Valentius Kryptix",
+    "size": "10 - 49",
+    "location": "Pune, India",
+    "url": "https://valentiuskryptix.com/"
+  },
+  {
+    "companyName": "codex solutions",
+    "size": "10 - 49",
+    "location": "Panipat, India",
+    "url": "https://codexsolutions.in"
+  },
+  {
+    "companyName": "RSTEKH",
+    "size": "10 - 49",
+    "location": "Saint Petersburg, Russia",
+    "url": "https://www.itrstech.ru/"
+  },
+  {
+    "companyName": "Tricon Infotech Private Limited",
+    "size": "250 - 999",
+    "location": "Jersey City, United States",
+    "url": "https://www.triconinfotech.com/"
+  },
+  {
+    "companyName": "Hardware Design LTD",
+    "size": "2 - 9",
+    "location": "Sofia, Bulgaria",
+    "url": "https://www.hwdbg.com"
+  },
+  {
+    "companyName": "Exportarts GmbH",
+    "size": "10 - 49",
+    "location": "Kassel, Germany",
+    "url": "https://www.exportarts.io/?utm_source=goodfirms"
+  },
+  {
+    "companyName": "WizzDev",
+    "size": "10 - 49",
+    "location": "Poznan, Poland",
+    "url": "https://wizzdev.com"
+  },
+  {
+    "companyName": "iT-Kenya",
+    "size": "Freelancer",
+    "location": "Nairobi, Kenya",
+    "url": "https://itkenya.com"
+  },
+  {
+    "companyName": "Sahajway Technologies Pvt. Ltd.",
+    "size": "10 - 49",
+    "location": "Nadiad, India",
+    "url": "https://sahajwaytechnologies.com/"
+  },
+  {
+    "companyName": "Estudio Salvatierra",
+    "size": "Freelancer",
+    "location": "Cadiz, Spain",
+    "url": "https://salvatierra.digital"
+  },
+  {
+    "companyName": "Nieuwise",
+    "size": "Freelancer",
+    "location": "Cape Town, South Africa",
+    "url": "https://nieuwise.com"
+  },
+  {
+    "companyName": "Volcor Software",
+    "size": "2 - 9",
+    "location": "Ahmedabad, India",
+    "url": "https://www.volcorsoftware.com"
+  },
+  {
+    "companyName": "Mantiqh Technologies Pvt Ltd",
+    "size": "10 - 49",
+    "location": "Bengaluru, India",
+    "url": "https://mantiqh.com/"
+  },
+  {
+    "companyName": "The Niche Society",
+    "size": "2 - 9",
+    "location": "Bucharest, Romania",
+    "url": "https://thenichesociety.ro"
+  },
+  {
+    "companyName": "Digitari Solutions",
+    "size": "Freelancer",
+    "location": "Vancouver, Canada",
+    "url": "https://digitarisolutions.com/"
+  },
+  {
+    "companyName": "TCinnovate Technologies Limited",
+    "size": "10 - 49",
+    "location": "Lagos, Nigeria",
+    "url": "https://www.tcinnovate.net/services.html"
+  },
+  {
+    "companyName": "One AD Solutions",
+    "size": "10 - 49",
+    "location": "Lahore, Pakistan",
+    "url": "http://oneadsolutions.com/"
+  },
+  {
+    "companyName": "We Design Marbella",
+    "size": "Freelancer",
+    "location": "Marbella, Spain",
+    "url": "https://wedesignmarbella.com/"
+  },
+  {
+    "companyName": "J2 Group Malta",
+    "size": "10 - 49",
+    "location": "Birkirkara, Malta",
+    "url": "Https://www.j2groupmalta.com"
+  },
+  {
+    "companyName": "Zintrix Digital Technologies Private Limited",
+    "size": "2 - 9",
+    "location": "Oakengates-Donnington, United Kingdom",
+    "url": "https://zintrixtechnologies.com/"
+  },
+  {
+    "companyName": "Boolean Digital LLC",
+    "size": "10 - 49",
+    "location": "Missouri City, United States",
+    "url": "https://booleandigitalllc.com/"
+  },
+  {
+    "companyName": "SyedFarazCorp",
+    "size": "2 - 9",
+    "location": "Karachi, Pakistan",
+    "url": "https://www.syedfarazcorp.com/"
+  },
+  {
+    "companyName": "BoroTech Solution",
+    "size": "2 - 9",
+    "location": "Kokrajhar, India",
+    "url": "https://borotechsolution.com/"
+  },
+  {
+    "companyName": "Monroe Media Company",
+    "size": "2 - 9",
+    "location": "Charlotte, United States",
+    "url": "https://www.monroemediacompany.com"
+  },
+  {
+    "companyName": "Optimusflow Software",
+    "size": "2 - 9",
+    "location": "Istanbul, Turkey",
+    "url": "https://optimusflow.com/"
+  },
+  {
+    "companyName": "Pro-Sight property Inspections",
+    "size": "2 - 9",
+    "location": "Phoenix, United States",
+    "url": "https://www.prosightpi.com/"
+  },
+  {
+    "companyName": "Dot Web Solutions",
+    "size": "2 - 9",
+    "location": "Melbourne, Australia",
+    "url": "https://www.dotwebsolutions.com.au"
+  },
+  {
+    "companyName": "YDC Pro",
+    "size": "250 - 999",
+    "location": "Toronto, Canada",
+    "url": "https://ydcpro.com"
+  }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "TechFi Zone Pvt Ltd",
+    "size": "2 - 9",
+    "location": "Kanpur, India",
+    "url": "https://www.techfizone.com"
+  },
+  {
+    "companyName": "Aivenflow",
+    "size": "10 - 49",
+    "location": "Navi Mumbai, India",
+    "url": "http://aivenflow.com"
+  },
+  {
+    "companyName": "Dixit global Tech IT Solutions`",
+    "size": "2 - 9",
+    "location": "Bengaluru, India",
+    "url": "https://dixitglobaltech.com/"
+  },
+  {
+    "companyName": "Appsinai Private Limited",
+    "size": "10 - 49",
+    "location": "Coimbatore, India",
+    "url": "https://appsin.ai/"
+  },
+  {
+    "companyName": "Automatic Technology Solutions LLC",
+    "size": "10 - 49",
+    "location": "Dubai, UAE",
+    "url": "https://www.ats-systems.net/en"
+  },
+  {
+    "companyName": "Techifice",
+    "size": "2 - 9",
+    "location": "Middletown, United States",
+    "url": "https://techifice.com"
+  },
+  {
+    "companyName": "ParsavTek",
+    "size": "2 - 9",
+    "location": "Ahmedabad, India",
+    "url": "https://www.parsavtek.com/"
+  },
+  {
+    "companyName": "Websync Ventures",
+    "size": "2 - 9",
+    "location": "Udaipur, India",
+    "url": "https://websyncventures.com"
+  },
+  {
+    "companyName": "Aseum Infotech",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "https://aseuminfotech.com/"
+  },
+  {
+    "companyName": "Codeshaper",
+    "size": "10 - 49",
+    "location": "Dhaka, Bangladesh",
+    "url": "https://codeshaper.net/"
+  },
+  {
+    "companyName": "Times Developers",
+    "size": "2 - 9",
+    "location": "Ahmedabad, India",
+    "url": "https://www.timesdevelopers.com"
+  },
+  {
+    "companyName": "SobSoft",
+    "size": "2 - 9",
+    "location": "Stupava, Slovakia",
+    "url": "https://sobsoft.sk"
+  },
+  {
+    "companyName": "Haven Media Solutions",
+    "size": "2 - 9",
+    "location": "Buford, United States",
+    "url": "https://havenmediasolutions.com"
+  },
+  {
+    "companyName": "Vertex Systems Network",
+    "size": "250 - 999",
+    "location": "Multan, Pakistan",
+    "url": "https://vertexsystemsnetwork.com/"
+  },
+  {
+    "companyName": "KyotoTech LLC",
+    "size": "2 - 9",
+    "location": "Kyoto, Japan",
+    "url": "https://kyototech.co.jp/"
+  },
+  {
+    "companyName": "DOIT.CO.ID",
+    "size": "2 - 9",
+    "location": "Tangerang, Indonesia",
+    "url": "https://www.doit.co.id"
+  },
+  {
+    "companyName": "Etihad Golden Falcon",
+    "size": "10 - 49",
+    "location": "Riyadh, Saudi Arabia",
+    "url": "https://etihad-gf.com"
+  },
+  {
+    "companyName": "Smart Universe",
+    "size": "10 - 49",
+    "location": "Abu Dhabi, UAE",
+    "url": "https://smart-universe.ae"
+  },
+  {
+    "companyName": "Wority Technology",
+    "size": "2 - 9",
+    "location": "Gandhinagar, India",
+    "url": "https://woritytechnology.com/"
+  },
+  {
+    "companyName": "Craftelligence",
+    "size": "2 - 9",
+    "location": "Jaipur, India",
+    "url": "https://www.craftelligence.tech/"
+  },
+  {
+    "companyName": "Parts Connect",
+    "size": "10 - 49",
+    "location": "California City, United States",
+    "url": "https://www.partsconnect.io/"
+  },
+  {
+    "companyName": "Livv Creative Studio",
+    "size": "2 - 9",
+    "location": "Buenos Aires, Argentina",
+    "url": "https://livvvv.com/"
+  },
+  {
+    "companyName": "PowerCliq Technologies",
+    "size": "2 - 9",
+    "location": "Dharwar, India",
+    "url": "https://www.powercliq.in/"
+  },
+  {
+    "companyName": "Mevoro",
+    "size": "2 - 9",
+    "location": "Cluj-Napoca, Romania",
+    "url": "https://mevoro.com"
+  },
+  {
+    "companyName": "Codetech Software",
+    "size": "2 - 9",
+    "location": "Sao Paulo, Brazil",
+    "url": "https://codetech.software"
+  },
+  {
+    "companyName": "Tenre AI",
+    "size": "2 - 9",
+    "location": "Sacramento, United States",
+    "url": "https://www.tenre.ai/"
+  },
+  {
+    "companyName": "Software Chasers",
+    "size": "10 - 49",
+    "location": "Lahore, Pakistan",
+    "url": "https://softwarechaser.com/"
+  },
+  {
+    "companyName": "Digital Assistance",
+    "size": "2 - 9",
+    "location": "Prayagraj, India",
+    "url": "https://digitalassistance.in/"
+  },
+  {
+    "companyName": "ecomndev",
+    "size": "10 - 49",
+    "location": "Saint Petersburg, United States",
+    "url": "https://ecomndev.com"
+  },
+  {
+    "companyName": "Stradux Technologies",
+    "size": "10 - 49",
+    "location": "Hyderabad, India",
+    "url": "https://www.stradux.in"
+  },
+  {
+    "companyName": "Arctrait",
+    "size": "10 - 49",
+    "location": "Lahore, Pakistan",
+    "url": "https://arctrait.com/"
+  },
+  {
+    "companyName": "Yunsoft Software",
+    "size": "2 - 9",
+    "location": "Bursa, Turkey",
+    "url": "https://yunsoft.com/"
+  },
+  {
+    "companyName": "Prodjex",
+    "size": "10 - 49",
+    "location": "Liberty, United States",
+    "url": "https://www.prodjex.com"
+  },
+  {
+    "companyName": "Jalenthra Private Limited",
+    "size": "2 - 9",
+    "location": "Kanchipuram, India",
+    "url": "https://www.jalenthra.com"
+  },
+  {
+    "companyName": "SEBS",
+    "size": "10 - 49",
+    "location": "Moratuwa, Sri Lanka",
+    "url": "https://www.sebslabs.com/"
+  },
+  {
+    "companyName": "Bytecreators",
+    "size": "2 - 9",
+    "location": "Karachi, Pakistan",
+    "url": "https://bytecreators.cloud/"
+  },
+  {
+    "companyName": "Articul Research",
+    "size": "2 - 9",
+    "location": "Alkmaar, Netherlands",
+    "url": "https://articul.nl"
+  },
+  {
+    "companyName": "Virtual Aegis",
+    "size": "2 - 9",
+    "location": "Mohali, India",
+    "url": "https://www.virtualaegis.com/"
+  },
+  {
+    "companyName": "TapTap Technolgoies",
+    "size": "50 - 249",
+    "location": "Tunbridge Wells, United Kingdom",
+    "url": "https://www.taptaptechnologies.com/"
+  },
+  {
+    "companyName": "Hemsoft Technologies",
+    "size": "2 - 9",
+    "location": "Dombivli, India",
+    "url": "https://hemsofttech.com/"
+  },
+  {
+    "companyName": "RevNdev Studios",
+    "size": "50 - 249",
+    "location": "Ambala Cantt, India",
+    "url": "https://revndev.co/"
+  },
+  {
+    "companyName": "WB DIGITECH",
+    "size": "10 - 49",
+    "location": "Dubai, UAE",
+    "url": "https://wbdigitech.ae/"
+  },
+  {
+    "companyName": "Galaxy Systems",
+    "size": "10 - 49",
+    "location": "Los Angeles, United States",
+    "url": "https://galaxysystems.org/"
+  },
+  {
+    "companyName": "Delta Creation Pvt. Ltd.",
+    "size": "10 - 49",
+    "location": "Kathmandu, Nepal",
+    "url": "https://deltacreation.com.np/"
+  },
+  {
+    "companyName": "AOPAY Technology",
+    "size": "1,000 - 9,999",
+    "location": "Delhi, India",
+    "url": "https://aopay.in"
+  },
+  {
+    "companyName": "Algominds LLC",
+    "size": "50 - 249",
+    "location": "Lahore, Pakistan",
+    "url": "https://algominds.live/"
+  },
+  {
+    "companyName": "Global Suntec Solutions",
+    "size": "10 - 49",
+    "location": "Pune, India",
+    "url": "https://www.gsuntec.com/"
+  },
+  {
+    "companyName": "The Development Studio",
+    "size": "2 - 9",
+    "location": "Nagapattinam, India",
+    "url": "https://www.devstudioco.com/#home"
+  }
+]

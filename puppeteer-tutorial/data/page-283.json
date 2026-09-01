@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "Choice TechLab",
+    "size": "50 - 249",
+    "location": "Mumbai, India",
+    "url": "https://choicetechlab.com/"
+  },
+  {
+    "companyName": "Alvin Software",
+    "size": "2 - 9",
+    "location": "Ahmedabad, India",
+    "url": "http://www.alvinsoftware.com/"
+  },
+  {
+    "companyName": "Augusto Digital",
+    "size": "10 - 49",
+    "location": "Grand Rapids, United States",
+    "url": "https://augusto.digital/"
+  },
+  {
+    "companyName": "Occams Group",
+    "size": "2 - 9",
+    "location": "Columbia (Maryland), United States",
+    "url": "https://occamsgroup.com/"
+  },
+  {
+    "companyName": "West Elinor Technologies",
+    "size": "10 - 49",
+    "location": "Delhi, India",
+    "url": "https://www.westelinor.com"
+  },
+  {
+    "companyName": "Lineate",
+    "size": "250 - 999",
+    "location": "NYC, United States",
+    "url": "https://lineate.com/"
+  },
+  {
+    "companyName": "Waytoglobal Solutions",
+    "size": "2 - 9",
+    "location": "Mumbai, India",
+    "url": "https://waytoglobal.com"
+  },
+  {
+    "companyName": "PegaLogics Solutions Private Limited",
+    "size": "10 - 49",
+    "location": "Noida, India",
+    "url": "https://www.pegalogics.com/"
+  },
+  {
+    "companyName": "Congton Technologies",
+    "size": "2 - 9",
+    "location": "Delhi, India",
+    "url": "https://www.congton.com/"
+  },
+  {
+    "companyName": "AgileInit Technology Pvt Ltd",
+    "size": "2 - 9",
+    "location": "Pune, India",
+    "url": "http://www.agileinit.com"
+  },
+  {
+    "companyName": "ElephantApps",
+    "size": "10 - 49",
+    "location": "Austin, United States",
+    "url": "http://elephantapps.co"
+  },
+  {
+    "companyName": "Magma",
+    "size": "10 - 49",
+    "location": "Las Vegas, United States",
+    "url": "https://www.magmalabs.io"
+  },
+  {
+    "companyName": "Rawdah",
+    "size": "10 - 49",
+    "location": "Tuskegee, United States",
+    "url": "https://rawdah.io"
+  },
+  {
+    "companyName": "SM Global",
+    "size": "10 - 49",
+    "location": "Mumbai, India",
+    "url": "https://smglobal.in"
+  },
+  {
+    "companyName": "KPR Solutions",
+    "size": "2 - 9",
+    "location": "Kolkata, India",
+    "url": "http://www.kprsolution.com"
+  },
+  {
+    "companyName": "Knoxpo Solutions",
+    "size": "10 - 49",
+    "location": "Mumbai, India",
+    "url": "https://www.knoxpo.com"
+  },
+  {
+    "companyName": "external experts",
+    "size": "10 - 49",
+    "location": "Bengaluru, India",
+    "url": "https://www.externalexperts.com/"
+  },
+  {
+    "companyName": "InStandart",
+    "size": "10 - 49",
+    "location": "Wimborne, United Kingdom",
+    "url": "https://instandart.com/"
+  },
+  {
+    "companyName": "ConceptShelf TechnoLabs Pvt Ltd",
+    "size": "2 - 9",
+    "location": "Ernakulam, India",
+    "url": "https://www.conceptshelf.com/"
+  },
+  {
+    "companyName": "GL Info-Tech",
+    "size": "10 - 49",
+    "location": "Melbourne, United States",
+    "url": "http://www.godlandit.com"
+  },
+  {
+    "companyName": "InteleBiz",
+    "size": "10 - 49",
+    "location": "Mumbai, India",
+    "url": "https://www.intelebiz.com/"
+  },
+  {
+    "companyName": "Elvento Labs",
+    "size": "10 - 49",
+    "location": "Noida, India",
+    "url": "https://elvento.com"
+  },
+  {
+    "companyName": "Novumlogic Technologies Pvt Ltd",
+    "size": "10 - 49",
+    "location": "Vadodara, India",
+    "url": "https://novumlogic.com/"
+  },
+  {
+    "companyName": "KNP Technologies Private Limited",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "http://www.knp-tech.com"
+  },
+  {
+    "companyName": "RHOMBUS INFOTECH PVT LTD",
+    "size": "10 - 49",
+    "location": "Mohali, India",
+    "url": "http://www.rhombusinfotech.com"
+  },
+  {
+    "companyName": "Inizio, Inc.",
+    "size": "10 - 49",
+    "location": "San Jose, United States",
+    "url": "http://www.inizio.io"
+  },
+  {
+    "companyName": "JPR Infotech",
+    "size": "10 - 49",
+    "location": "Jaipur, India",
+    "url": "https://jprinfotech.com"
+  },
+  {
+    "companyName": "RSI Concepts FZE",
+    "size": "10 - 49",
+    "location": "Sharjah, UAE",
+    "url": "https://www.rsiconcepts.com"
+  },
+  {
+    "companyName": "TechLatitude",
+    "size": "10 - 49",
+    "location": "Lahore, Pakistan",
+    "url": "http://techlatitude.com/"
+  },
+  {
+    "companyName": "303 Software",
+    "size": "10 - 49",
+    "location": "Denver, United States",
+    "url": "https://www.303software.com"
+  },
+  {
+    "companyName": "ArtSoft Consult",
+    "size": "50 - 249",
+    "location": "Cluj-Napoca, Romania",
+    "url": "https://www.artsoft-consult.ro"
+  },
+  {
+    "companyName": "spectta infoservices pvt ltd",
+    "size": "2 - 9",
+    "location": "Kalyan, India",
+    "url": "https://www.spectta.com"
+  },
+  {
+    "companyName": "Divum Corporate Services Pvt Ltd",
+    "size": "50 - 249",
+    "location": "Bengaluru, India",
+    "url": "https://divum.in/"
+  },
+  {
+    "companyName": "Digital Resource",
+    "size": "2 - 9",
+    "location": "West Palm Beach, United States",
+    "url": "https://yourdigitalresource.com"
+  },
+  {
+    "companyName": "highsense",
+    "size": "2 - 9",
+    "location": "Surat, India",
+    "url": "https://highsense.in"
+  },
+  {
+    "companyName": "Zetamp Energy",
+    "size": "2 - 9",
+    "location": "Bengaluru, India",
+    "url": "https://www.zetamp.com"
+  },
+  {
+    "companyName": "H-line Soft",
+    "size": "250 - 999",
+    "location": "Secunderabad, India",
+    "url": "http://www.hlinesoft.com/"
+  },
+  {
+    "companyName": "Aura BPO Services",
+    "size": "50 - 249",
+    "location": "Chennai, India",
+    "url": "http://aurabpo.com/"
+  },
+  {
+    "companyName": "Idigitie Private Limited",
+    "size": "2 - 9",
+    "location": "Delhi, India",
+    "url": "https://www.idigitie.com/"
+  },
+  {
+    "companyName": "ANAND TECHVERCE LLC",
+    "size": "10 - 49",
+    "location": "Chennai, India",
+    "url": "http://anandtechverce.com/"
+  },
+  {
+    "companyName": "Cogxim Technologies",
+    "size": "50 - 249",
+    "location": "Jaipur, India",
+    "url": "https://www.cogxim.com"
+  },
+  {
+    "companyName": "G&G Technologies, Inc.",
+    "size": "2 - 9",
+    "location": "Fremont, United States",
+    "url": "https://www.gandgtech.com"
+  },
+  {
+    "companyName": "Outsource2Latvia.com",
+    "size": "10 - 49",
+    "location": "Riga, Latvia",
+    "url": "https://www.outsource2latvia.com"
+  },
+  {
+    "companyName": "Valiant Technosoft",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "https://valianttechnosoft.com"
+  },
+  {
+    "companyName": "Yonder",
+    "size": "250 - 999",
+    "location": "Cluj-Napoca, Romania",
+    "url": "https://tss-yonder.com/"
+  },
+  {
+    "companyName": "Uraan Softskills",
+    "size": "10 - 49",
+    "location": "Indore, India",
+    "url": "http://uraansoftskills.com/"
+  },
+  {
+    "companyName": "WES Consultancy & Services Private Limited",
+    "size": "10 - 49",
+    "location": "Raipur, India",
+    "url": "https://www.wes.co.in"
+  },
+  {
+    "companyName": "ProweSolution",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "http://www.prowesolution.com"
+  }
+]

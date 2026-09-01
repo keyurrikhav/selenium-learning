@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "Envinse LLC",
+    "size": "10 - 49",
+    "location": "Houston, United States",
+    "url": "https://www.envinse.com"
+  },
+  {
+    "companyName": "26bitz",
+    "size": "10 - 49",
+    "location": "Krakow, Poland",
+    "url": "https://www.26bitz.com/"
+  },
+  {
+    "companyName": "TechEunovate",
+    "size": "2 - 9",
+    "location": "Rajkot, India",
+    "url": "http://www.techeunovate.com/"
+  },
+  {
+    "companyName": "flipcode solutions Pvt Ltd.",
+    "size": "10 - 49",
+    "location": "Surendranagar, India",
+    "url": "https://flipcodesolutions.com/"
+  },
+  {
+    "companyName": "Arena Code Software",
+    "size": "10 - 49",
+    "location": "Sao Paulo, Brazil",
+    "url": "https://arenacode.io"
+  },
+  {
+    "companyName": "Directio",
+    "size": "50 - 249",
+    "location": "Warsaw, Poland",
+    "url": "http://directio.com"
+  },
+  {
+    "companyName": "TopSqill Private Limited",
+    "size": "10 - 49",
+    "location": "Noida, India",
+    "url": "https://www.topsqill.com/"
+  },
+  {
+    "companyName": "Top Rated Designer",
+    "size": "2 - 9",
+    "location": "Chattogram, Bangladesh",
+    "url": "https://toprateddesigner.com/"
+  },
+  {
+    "companyName": "Phlera Ltd",
+    "size": "10 - 49",
+    "location": "London, United Kingdom",
+    "url": "Https://phlera.com"
+  },
+  {
+    "companyName": "BlazeLink Technologies",
+    "size": "2 - 9",
+    "location": "Holly Hill, United States",
+    "url": "https://www.blazelink.com/"
+  },
+  {
+    "companyName": "DevOra Solution",
+    "size": "2 - 9",
+    "location": "Lahore, Pakistan",
+    "url": "https://devorasolution.com"
+  },
+  {
+    "companyName": "Digitally Buzzed",
+    "size": "10 - 49",
+    "location": "Darwin City, Australia",
+    "url": "https://digitallybuzzed.com.au"
+  },
+  {
+    "companyName": "Shivay Digital",
+    "size": "2 - 9",
+    "location": "Surendranagar, India",
+    "url": "https://shivaydigital.com/"
+  },
+  {
+    "companyName": "Xyplix",
+    "size": "10 - 49",
+    "location": "Palo Alto, United States",
+    "url": "https://xyplix.com"
+  },
+  {
+    "companyName": "Vanguardev",
+    "size": "2 - 9",
+    "location": "Buenos Aires, Argentina",
+    "url": "https://vanguardev.com/"
+  },
+  {
+    "companyName": "Oktets Technologies",
+    "size": "2 - 9",
+    "location": "Ahmedabad, India",
+    "url": "https://www.oktets.com/"
+  },
+  {
+    "companyName": "Dynamic Solution Innovators Ltd. (DSi)",
+    "size": "250 - 999",
+    "location": "Dhaka, Bangladesh",
+    "url": "https://www.dsinnovators.com/"
+  },
+  {
+    "companyName": "Eastway Digital media Ltd",
+    "size": "2 - 9",
+    "location": "Essex, United Kingdom",
+    "url": "https://www.eastwaymedia.com"
+  },
+  {
+    "companyName": "HEY",
+    "size": "2 - 9",
+    "location": "Douala, Cameroon",
+    "url": "https://hey.cm/en"
+  },
+  {
+    "companyName": "CODIXSYSTEMS",
+    "size": "10 - 49",
+    "location": "Sheridan, United States",
+    "url": "https://www.codixsystems.com"
+  },
+  {
+    "companyName": "Raktch Technology & Software",
+    "size": "10 - 49",
+    "location": "Dhaka, Bangladesh",
+    "url": "https://www.raktch.com/"
+  },
+  {
+    "companyName": "Carrycode Technology Pvt Ltd",
+    "size": "2 - 9",
+    "location": "Bikaner, India",
+    "url": "http://carrycode.in"
+  },
+  {
+    "companyName": "TechcoIT",
+    "size": "2 - 9",
+    "location": "Rangpur, Bangladesh",
+    "url": "https://www.techcoit.com/"
+  },
+  {
+    "companyName": "Mitroz Technologies",
+    "size": "10 - 49",
+    "location": "Pune, India",
+    "url": "https://mitroztech.com"
+  },
+  {
+    "companyName": "Dynasol Technologies LLC",
+    "size": "10 - 49",
+    "location": "Dover, United States",
+    "url": "https://dynasol.tech/"
+  },
+  {
+    "companyName": "Craxus Software Solutions Pvt. Ltd.",
+    "size": "10 - 49",
+    "location": "Surat, India",
+    "url": "https://www.craxus.com/"
+  },
+  {
+    "companyName": "Edhaas digisoft",
+    "size": "50 - 249",
+    "location": "Pune, India",
+    "url": "https://edhaasvisuals.com/"
+  },
+  {
+    "companyName": "MVPable",
+    "size": "2 - 9",
+    "location": "Lyon, France",
+    "url": "https://build.mvpable.com"
+  },
+  {
+    "companyName": "Gtech.team",
+    "size": "10 - 49",
+    "location": "Barranquilla, Colombia",
+    "url": "https://gtech.team/"
+  },
+  {
+    "companyName": "Rodion Solutions Pvt. Ltd.",
+    "size": "2 - 9",
+    "location": "Bhubaneswar, India",
+    "url": "https://rodionsolutions.com/"
+  },
+  {
+    "companyName": "Multisite Dev Web Design Dubai",
+    "size": "10 - 49",
+    "location": "Dubai, UAE",
+    "url": "https://multisitedev.com/"
+  },
+  {
+    "companyName": "HighAppler",
+    "size": "2 - 9",
+    "location": "Shumen, Bulgaria",
+    "url": "https://highappler.com"
+  },
+  {
+    "companyName": "Levon ventures",
+    "size": "50 - 249",
+    "location": "Dubai, UAE",
+    "url": "https://www.levonventures.ae/"
+  },
+  {
+    "companyName": "RAVA Global Solutions",
+    "size": "50 - 249",
+    "location": "Rochester Hills, United States",
+    "url": "https://ravaglobalsolutions.com/"
+  },
+  {
+    "companyName": "CodeNicely",
+    "size": "50 - 249",
+    "location": "Raipur, India",
+    "url": "https://codenicely.in/"
+  },
+  {
+    "companyName": "ZSquare Tech India Pvt. Ltd",
+    "size": "2 - 9",
+    "location": "Ahmedabad, India",
+    "url": "https://www.zsquaretechindia.com/"
+  },
+  {
+    "companyName": "UVTech Global",
+    "size": "10 - 49",
+    "location": "Vallabh Vidyanagar, India",
+    "url": "https://uvtechglobal.com/"
+  },
+  {
+    "companyName": "Vayuverse",
+    "size": "2 - 9",
+    "location": "Rajkot, India",
+    "url": "http://vayuverse.in"
+  },
+  {
+    "companyName": "Mahtot Technologies",
+    "size": "2 - 9",
+    "location": "Addis Ababa, Ethiopia",
+    "url": "https://www.mahtot.com"
+  },
+  {
+    "companyName": "InnoKaRa Systems",
+    "size": "2 - 9",
+    "location": "Ahmedabad, India",
+    "url": "https://innokara-systems.vercel.app/"
+  },
+  {
+    "companyName": "Linkites Infotech Pvt Ltd",
+    "size": "50 - 249",
+    "location": "Florida City, United States",
+    "url": "https://linkites.com"
+  },
+  {
+    "companyName": "iTrellis",
+    "size": "10 - 49",
+    "location": "Seattle, United States",
+    "url": "https://www.itrellis.com/"
+  },
+  {
+    "companyName": "SBS DIGITAL INFOTECH",
+    "size": "2 - 9",
+    "location": "Ghaziabad, India",
+    "url": "https://sbsdigitalinfotech.com/"
+  },
+  {
+    "companyName": "ASMBL",
+    "size": "50 - 249",
+    "location": "Seattle, United States",
+    "url": "https://www.asmbl.digital/"
+  },
+  {
+    "companyName": "Falcon Software",
+    "size": "10 - 49",
+    "location": "Seattle, United States",
+    "url": "https://www.falcon-software.com/"
+  },
+  {
+    "companyName": "Industrial Software Solutions",
+    "size": "10 - 49",
+    "location": "Bothell, United States",
+    "url": "http://industrial-software.com/"
+  },
+  {
+    "companyName": "Zallpy Digital",
+    "size": "250 - 999",
+    "location": "Frisco, United States",
+    "url": "https://northamerica.zallpy.com/clutch"
+  },
+  {
+    "companyName": "TechInfoUSA",
+    "size": "2 - 9",
+    "location": "Philadelphia, United States",
+    "url": "https://www.techinfousa.com/"
+  }
+]

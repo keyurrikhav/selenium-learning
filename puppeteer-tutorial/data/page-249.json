@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "The Lean Product Studio",
+    "size": "2 - 9",
+    "location": "Pune, India",
+    "url": "https://theleanproduct.studio"
+  },
+  {
+    "companyName": "The House Of Code",
+    "size": "2 - 9",
+    "location": "Belfast, United Kingdom",
+    "url": "https://thehouseofcode.com/"
+  },
+  {
+    "companyName": "Scaffold Digital",
+    "size": "10 - 49",
+    "location": "Belfast, United Kingdom",
+    "url": "https://www.scaffold.digital/"
+  },
+  {
+    "companyName": "Sidekick Digital",
+    "size": "2 - 9",
+    "location": "Cambridge, United Kingdom",
+    "url": "https://www.sidekickdigital.co.uk/"
+  },
+  {
+    "companyName": "IT Software Solutions",
+    "size": "2 - 9",
+    "location": "Oxford, United Kingdom",
+    "url": "https://itsoftwaresolutions.uk/"
+  },
+  {
+    "companyName": "TechSwamy",
+    "size": "2 - 9",
+    "location": "Bengaluru, India",
+    "url": "https://www.techswamy.com"
+  },
+  {
+    "companyName": "Userware",
+    "size": "10 - 49",
+    "location": "Paris, France",
+    "url": "https://userware.dev"
+  },
+  {
+    "companyName": "Captain Up",
+    "size": "2 - 9",
+    "location": "Tel Aviv, Israel",
+    "url": "https://captainup.com/"
+  },
+  {
+    "companyName": "SEO CT Experts",
+    "size": "10 - 49",
+    "location": "Stamford, United States",
+    "url": "https://seoctexperts.com/"
+  },
+  {
+    "companyName": "SBM Progressive",
+    "size": "2 - 9",
+    "location": "Bhopal, India",
+    "url": "https://www.sbmprogressive.com/"
+  },
+  {
+    "companyName": "Tamar Software",
+    "size": "10 - 49",
+    "location": "Noida, India",
+    "url": "https://tamarsoftware.in/"
+  },
+  {
+    "companyName": "Design Vortax",
+    "size": "50 - 249",
+    "location": "London, United Kingdom",
+    "url": "https://designvortax.com/"
+  },
+  {
+    "companyName": "Givni",
+    "size": "10 - 49",
+    "location": "Patna, India",
+    "url": "https://givni.in/"
+  },
+  {
+    "companyName": "TechTaliya Informatics Pvt. Ltd.",
+    "size": "50 - 249",
+    "location": "Kochi, India",
+    "url": "https://www.techtaliya.com/"
+  },
+  {
+    "companyName": "Devsoul Technologies PVT LTD",
+    "size": "10 - 49",
+    "location": "Gujranwala, Pakistan",
+    "url": "https://devsoul.net/"
+  },
+  {
+    "companyName": "DigitalProjex",
+    "size": "10 - 49",
+    "location": "Maldonado, Uruguay",
+    "url": "https://digitalprojex.com/"
+  },
+  {
+    "companyName": "CloudLeap, Inc.",
+    "size": "10 - 49",
+    "location": "Burlington, United States",
+    "url": "https://cloudleap.com"
+  },
+  {
+    "companyName": "Techsopi Global Pvt Ltd",
+    "size": "10 - 49",
+    "location": "Bengaluru, India",
+    "url": "https://techsopi.com/"
+  },
+  {
+    "companyName": "Rorix Technologies Private Limited",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "https://rorixtech.com/"
+  },
+  {
+    "companyName": "SSCX Technovation (PT SSCX Teknovasi Prima)",
+    "size": "10 - 49",
+    "location": "Jakarta, Indonesia",
+    "url": "https://www.sscxtech.com/"
+  },
+  {
+    "companyName": "Hashloops Technologies",
+    "size": "10 - 49",
+    "location": "Lahore, Pakistan",
+    "url": "https://hashloops.com/"
+  },
+  {
+    "companyName": "Kheprix",
+    "size": "2 - 9",
+    "location": "Santana-de-Mures, Romania",
+    "url": "https://www.kheprix.com/"
+  },
+  {
+    "companyName": "SIXPHERE Technologies",
+    "size": "10 - 49",
+    "location": "Dos Hermanas, Spain",
+    "url": "https://sixphere.com"
+  },
+  {
+    "companyName": "Loma Software",
+    "size": "2 - 9",
+    "location": "Winkler, Canada",
+    "url": "https://www.lomasoftware.com/"
+  },
+  {
+    "companyName": "Dr Tech",
+    "size": "10 - 49",
+    "location": "Murshidabad, India",
+    "url": "https://www.mydrtech.in/"
+  },
+  {
+    "companyName": "Wisely Limited",
+    "size": "10 - 49",
+    "location": "North Shore, New Zealand",
+    "url": "https://www.wiselyglobal.tech/"
+  },
+  {
+    "companyName": "PYGIO",
+    "size": "50 - 249",
+    "location": "Johannesburg, South Africa",
+    "url": "https://www.pygio.com"
+  },
+  {
+    "companyName": "Geekseed",
+    "size": "2 - 9",
+    "location": "Eindhoven, Netherlands",
+    "url": "https://geekseed.nl/"
+  },
+  {
+    "companyName": "Neksoft Consultancy Services",
+    "size": "50 - 249",
+    "location": "Sitamarhi, India",
+    "url": "https://www.neksoftconsultancy.com/"
+  },
+  {
+    "companyName": "ERP Software Services in Mumbai - Growthawk",
+    "size": "50 - 249",
+    "location": "Navi Mumbai, India",
+    "url": "https://erp.growthawk.com/"
+  },
+  {
+    "companyName": "Greypath Solutions",
+    "size": "10 - 49",
+    "location": "Bengaluru, India",
+    "url": "https://www.greypathsolutions.com/"
+  },
+  {
+    "companyName": "Ventive LLC",
+    "size": "10 - 49",
+    "location": "Meridian, United States",
+    "url": "https://www.getventive.com/"
+  },
+  {
+    "companyName": "DataTech Consultants",
+    "size": "10 - 49",
+    "location": "Melbourne, Australia",
+    "url": "https://datatechconsultants.com.au/"
+  },
+  {
+    "companyName": "JDC Digital",
+    "size": "50 - 249",
+    "location": "Ulverston, United Kingdom",
+    "url": "https://jdc-digital.co.uk/"
+  },
+  {
+    "companyName": "Shivohm",
+    "size": "50 - 249",
+    "location": "Gandhinagar, India",
+    "url": "https://www.shivohm.com/"
+  },
+  {
+    "companyName": "Nexpro Technologies",
+    "size": "10 - 49",
+    "location": "Nairobi, Kenya",
+    "url": "https://nexprotechnologies.co.ke/"
+  },
+  {
+    "companyName": "Scientia Infotech and Engineering Solutions",
+    "size": "50 - 249",
+    "location": "Mohali, India",
+    "url": "https://scientiabusiness.online/"
+  },
+  {
+    "companyName": "Corsel Technologies",
+    "size": "50 - 249",
+    "location": "Bengaluru, India",
+    "url": "https://corseltechnologies.com/"
+  },
+  {
+    "companyName": "Yaandu Corporate Private Limited",
+    "size": "2 - 9",
+    "location": "Salem, India",
+    "url": "https://yaandu.com/"
+  },
+  {
+    "companyName": "Webwise Studio Private Limited",
+    "size": "10 - 49",
+    "location": "Noida, India",
+    "url": "https://mayawebtech.com"
+  },
+  {
+    "companyName": "Viral Tactix",
+    "size": "10 - 49",
+    "location": "Noida, India",
+    "url": "https://www.viraltactix.com/"
+  },
+  {
+    "companyName": "DataRepo",
+    "size": "2 - 9",
+    "location": "Noida, India",
+    "url": "https://datarepo.in/"
+  },
+  {
+    "companyName": "Datronix Tech",
+    "size": "2 - 9",
+    "location": "Shimla, India",
+    "url": "https://datronixtech.com/"
+  },
+  {
+    "companyName": "Neural Coders",
+    "size": "10 - 49",
+    "location": "San Jose, Costa Rica",
+    "url": "https://www.neuralcoders.com/"
+  },
+  {
+    "companyName": "WOMO SOFTWARE",
+    "size": "2 - 9",
+    "location": "Medellin, Colombia",
+    "url": "https://www.womoinc.com"
+  },
+  {
+    "companyName": "Aynsoft.com",
+    "size": "2 - 9",
+    "location": "Delhi, India",
+    "url": "https://www.aynsoft.com"
+  },
+  {
+    "companyName": "Stellanova Globaltech Pvt Ltd",
+    "size": "2 - 9",
+    "location": "Udaipur, India",
+    "url": "https://stellanovaglobal.com/"
+  },
+  {
+    "companyName": "SeoSiteSoft",
+    "size": "10 - 49",
+    "location": "Faisalabad, Pakistan",
+    "url": "https://seositesoft.com/"
+  }
+]

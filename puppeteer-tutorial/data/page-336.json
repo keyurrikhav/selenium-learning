@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "Apptalyst",
+    "size": "10 - 49",
+    "location": "Great Falls, United States",
+    "url": "https://apptalyst.com/"
+  },
+  {
+    "companyName": "The Next Webz",
+    "size": "2 - 9",
+    "location": "Philadelphia, United States",
+    "url": "https://thenextwebz.com/"
+  },
+  {
+    "companyName": "Growbrandly",
+    "size": "2 - 9",
+    "location": "Dhaka, Bangladesh",
+    "url": "https://www.growbrandly.com"
+  },
+  {
+    "companyName": "Miles IT",
+    "size": "250 - 999",
+    "location": "Jersey City, United States",
+    "url": "https://www.milesit.com/"
+  },
+  {
+    "companyName": "Inoverus",
+    "size": "2 - 9",
+    "location": "Boston, United States",
+    "url": "https://www.inoverus.com/"
+  },
+  {
+    "companyName": "Osprey Software",
+    "size": "50 - 249",
+    "location": "Boston, United States",
+    "url": "https://ospreysoftware.com/"
+  },
+  {
+    "companyName": "Geisel Software",
+    "size": "10 - 49",
+    "location": "Worcester, United States",
+    "url": "https://geisel.software/"
+  },
+  {
+    "companyName": "Ucombinator",
+    "size": "50 - 249",
+    "location": "",
+    "url": "https://ucombinator.co.uk/"
+  },
+  {
+    "companyName": "Design Condition",
+    "size": "2 - 9",
+    "location": "Boston, United States",
+    "url": "https://designcondition.com/"
+  },
+  {
+    "companyName": "G Tech Group S.R.L.S.",
+    "size": "2 - 9",
+    "location": "Roma, Italy",
+    "url": "https://gtechgroup.it"
+  },
+  {
+    "companyName": "Infiazure Technologies",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "https://www.infiazure.com/"
+  },
+  {
+    "companyName": "NexGrowix",
+    "size": "2 - 9",
+    "location": "Dhaka, Bangladesh",
+    "url": "https://nexgrowix.com/"
+  },
+  {
+    "companyName": "Distortion",
+    "size": "2 - 9",
+    "location": "Birmingham, United Kingdom",
+    "url": "https://www.distortion.co.uk/"
+  },
+  {
+    "companyName": "Prixaro",
+    "size": "10 - 49",
+    "location": "Jaipur, India",
+    "url": "https://www.prixaro.com"
+  },
+  {
+    "companyName": "LIME TECHNOLOGY IKE",
+    "size": "2 - 9",
+    "location": "Ioannina, Greece",
+    "url": "https://www.lime-technology.gr"
+  },
+  {
+    "companyName": "Netstek",
+    "size": "2 - 9",
+    "location": "Orlando, United States",
+    "url": "http://www.netstek.com/"
+  },
+  {
+    "companyName": "Euclid Innovations",
+    "size": "250 - 999",
+    "location": "Charlotte, United States",
+    "url": "https://euclidinnovations.com/"
+  },
+  {
+    "companyName": "Crazybox Studio Private Limited",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "https://www.crazyboxstudio.com"
+  },
+  {
+    "companyName": "GOPRIME NETWORKS & SYSTEMS PVT LTD",
+    "size": "10 - 49",
+    "location": "Mumbai, India",
+    "url": "https://primenetworks.io/"
+  },
+  {
+    "companyName": "Cosmo Infomis",
+    "size": "10 - 49",
+    "location": "Maharajganj, India",
+    "url": "https://www.cosmoinfomis.in"
+  },
+  {
+    "companyName": "SevenUnique Tech Solution Pvt. Ltd.",
+    "size": "50 - 249",
+    "location": "Jaipur, India",
+    "url": "https://www.sevenunique.com/"
+  },
+  {
+    "companyName": "HappyFunCorp",
+    "size": "50 - 249",
+    "location": "Brooklyn, United States",
+    "url": "https://www.happyfuncorp.com/"
+  },
+  {
+    "companyName": "Connect 2U",
+    "size": "2 - 9",
+    "location": "Calgary, Canada",
+    "url": "https://connect2u.ca/"
+  },
+  {
+    "companyName": "LT3 Advanced Technology Group",
+    "size": "10 - 49",
+    "location": "Calgary, Canada",
+    "url": "https://lt3atg.com/"
+  },
+  {
+    "companyName": "SELISE Group AG",
+    "size": "250 - 999",
+    "location": "Zurich, Switzerland",
+    "url": "https://selisegroup.com/"
+  },
+  {
+    "companyName": "Canada Software Company",
+    "size": "50 - 249",
+    "location": "Mississauga, Canada",
+    "url": "https://canadasoftwarecompany.ca/"
+  },
+  {
+    "companyName": "EncoreSky Technologies",
+    "size": "50 - 249",
+    "location": "Indore, India",
+    "url": "https://encoresky.com/"
+  },
+  {
+    "companyName": "The Projects All",
+    "size": "10 - 49",
+    "location": "Kathmandu, Nepal",
+    "url": "http://theprojectsall.com"
+  },
+  {
+    "companyName": "Simple Logics",
+    "size": "2 - 9",
+    "location": "Mississauga, Canada",
+    "url": "https://www.simplelogics.com/"
+  },
+  {
+    "companyName": "CodePerk",
+    "size": "2 - 9",
+    "location": "Ahmedabad, India",
+    "url": "https://www.codeperksolutions.com/"
+  },
+  {
+    "companyName": "MarketingAid",
+    "size": "10 - 49",
+    "location": "Dover, United States",
+    "url": "https://marketingaid.org/"
+  },
+  {
+    "companyName": "TurnPikeAnalyst",
+    "size": "50 - 249",
+    "location": "Allentown, United States",
+    "url": "https://www.turnpikeanalyst.com/"
+  },
+  {
+    "companyName": "Bitkraft",
+    "size": "10 - 49",
+    "location": "Mumbai, India",
+    "url": "https://bitkraft.co.in/"
+  },
+  {
+    "companyName": "Vantino",
+    "size": "10 - 49",
+    "location": "Kyiv, Ukraine",
+    "url": "https://vantino.com/"
+  },
+  {
+    "companyName": "Shvintech",
+    "size": "10 - 49",
+    "location": "Hyderabad, India",
+    "url": "https://shvintech.com/"
+  },
+  {
+    "companyName": "Kiimkern Technologies",
+    "size": "10 - 49",
+    "location": "Mainz, Germany",
+    "url": "https://www.kiimkern.com"
+  },
+  {
+    "companyName": "Ateed Tech",
+    "size": "10 - 49",
+    "location": "",
+    "url": "https://www.ateedtech.com"
+  },
+  {
+    "companyName": "NetPotential",
+    "size": "2 - 9",
+    "location": "Auckland, New Zealand",
+    "url": "https://www.netpotential.co.nz/"
+  },
+  {
+    "companyName": "System 7",
+    "size": "2 - 9",
+    "location": "Auckland, New Zealand",
+    "url": "https://system7.co.nz/"
+  },
+  {
+    "companyName": "Sliday",
+    "size": "10 - 49",
+    "location": "Auckland, New Zealand",
+    "url": "https://sliday.com/"
+  },
+  {
+    "companyName": "CERENIMBUS INC.",
+    "size": "10 - 49",
+    "location": "Orem, United States",
+    "url": "https://cerenimbus.com/"
+  },
+  {
+    "companyName": "THINKNOVUS",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "https://thinknovus.com/"
+  },
+  {
+    "companyName": "Teqar",
+    "size": "2 - 9",
+    "location": "Perth, Australia",
+    "url": "https://www.teqar.com.au/"
+  },
+  {
+    "companyName": "CodelogicX",
+    "size": "250 - 999",
+    "location": "Jersey City, United States",
+    "url": "https://www.codelogicx.com/"
+  },
+  {
+    "companyName": "Wavexcel",
+    "size": "10 - 49",
+    "location": "Gurgaon, India",
+    "url": "https://www.wavexcel.in/"
+  },
+  {
+    "companyName": "Wildnet Edge",
+    "size": "250 - 999",
+    "location": "Lewes, United States",
+    "url": "https://www.wildnetedge.com"
+  },
+  {
+    "companyName": "CODER DEVISE",
+    "size": "10 - 49",
+    "location": "Surat, India",
+    "url": "https://coderdevise.com/"
+  },
+  {
+    "companyName": "Upcomingverse Tech Labs Pvt. Ltd.",
+    "size": "10 - 49",
+    "location": "Indore, India",
+    "url": "https://upcomingverse.ai"
+  }
+]

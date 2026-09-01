@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "LiveStrong Technologies",
+    "size": "2 - 9",
+    "location": "Nashik, India",
+    "url": "https://livestrongtechnologies.com/"
+  },
+  {
+    "companyName": "FAMRO LLC",
+    "size": "10 - 49",
+    "location": "Sharjah, UAE",
+    "url": "https://famro-llc.com"
+  },
+  {
+    "companyName": "Amygdal",
+    "size": "10 - 49",
+    "location": "Sarajevo, Bosnia and Herzegovina",
+    "url": "https://www.amygdal.com/"
+  },
+  {
+    "companyName": "maffey.com",
+    "size": "2 - 9",
+    "location": "Auckland, New Zealand",
+    "url": "https://maffey.com"
+  },
+  {
+    "companyName": "ArkEvo Group",
+    "size": "50 - 249",
+    "location": "Tirana, Albania",
+    "url": "https://arkevo-group.com/"
+  },
+  {
+    "companyName": "Allomate Solutions",
+    "size": "10 - 49",
+    "location": "Lahore, Pakistan",
+    "url": "https://www.allomate.com"
+  },
+  {
+    "companyName": "Project42",
+    "size": "10 - 49",
+    "location": "Zagreb, Croatia",
+    "url": "https://www.project42.agency"
+  },
+  {
+    "companyName": "Shuban Software Services & Solutions",
+    "size": "10 - 49",
+    "location": "Jaipur, India",
+    "url": "https://shubansoftware.com"
+  },
+  {
+    "companyName": "Codemech Solutions",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "https://www.codemechsolutions.com/"
+  },
+  {
+    "companyName": "NavyGEN Technology Pvt Ltd",
+    "size": "10 - 49",
+    "location": "Jaipur, India",
+    "url": "http://navygen.in"
+  },
+  {
+    "companyName": "BlueLight",
+    "size": "10 - 49",
+    "location": "Bucharest, Romania",
+    "url": "https://www.bluelightsoftware.co/"
+  },
+  {
+    "companyName": "Zeren Software",
+    "size": "10 - 49",
+    "location": "Bucharest, Romania",
+    "url": "https://www.zerensoftware.com/"
+  },
+  {
+    "companyName": "Childish AI",
+    "size": "10 - 49",
+    "location": "Sofia, Bulgaria",
+    "url": "https://childish.ai/"
+  },
+  {
+    "companyName": "Mugna Technologies",
+    "size": "10 - 49",
+    "location": "Davao City, Philippines",
+    "url": "https://www.mugna.tech/"
+  },
+  {
+    "companyName": "Turn Up Technologies",
+    "size": "50 - 249",
+    "location": "Toronto, Canada",
+    "url": "https://turnuptechnologies.co/"
+  },
+  {
+    "companyName": "Solwit SA",
+    "size": "250 - 999",
+    "location": "Gdansk, Poland",
+    "url": "https://solwit.com/en/"
+  },
+  {
+    "companyName": "BariTechSol",
+    "size": "50 - 249",
+    "location": "Karachi, Pakistan",
+    "url": "https://baritechsol.com/"
+  },
+  {
+    "companyName": "OC Imagine",
+    "size": "10 - 49",
+    "location": "",
+    "url": "http://ocimagine.com"
+  },
+  {
+    "companyName": "Amagi Group",
+    "size": "10 - 49",
+    "location": "Carrizal, Venezuela",
+    "url": "https://www.amagigroup.net/en/"
+  },
+  {
+    "companyName": "Conectium",
+    "size": "10 - 49",
+    "location": "Carrizal, Venezuela",
+    "url": "https://www.conectium.com/"
+  },
+  {
+    "companyName": "BrainForge IT Software & Consulting Sp. z o. o.",
+    "size": "10 - 49",
+    "location": "Wroclaw, Poland",
+    "url": "https://www.brainforgeit.com/"
+  },
+  {
+    "companyName": "LimonAgaci",
+    "size": "2 - 9",
+    "location": "Istanbul, Turkey",
+    "url": "https://www.limonagaci.com"
+  },
+  {
+    "companyName": "Codzgarage Infotech",
+    "size": "50 - 249",
+    "location": "Ahmedabad, India",
+    "url": "https://www.codzgarage.com/"
+  },
+  {
+    "companyName": "Buildfast",
+    "size": "2 - 9",
+    "location": "Noida, India",
+    "url": "https://buildfast.co.in/design-agency"
+  },
+  {
+    "companyName": "Decision Tree Consulting",
+    "size": "2 - 9",
+    "location": "Tulsa, United States",
+    "url": "https://www.decisiont.com"
+  },
+  {
+    "companyName": "CPCS",
+    "size": "50 - 249",
+    "location": "Hong Kong, China",
+    "url": "https://cpcs.team/"
+  },
+  {
+    "companyName": "Verticalsols",
+    "size": "50 - 249",
+    "location": "Coral Springs, United States",
+    "url": "https://www.verticalsols.com/"
+  },
+  {
+    "companyName": "Developer Partners",
+    "size": "2 - 9",
+    "location": "Los Angeles, United States",
+    "url": "https://developerpartners.com/"
+  },
+  {
+    "companyName": "DEVOPSTEK",
+    "size": "10 - 49",
+    "location": "Columbus, United States",
+    "url": "https://www.devopstek-us.com/#"
+  },
+  {
+    "companyName": "Grocient Infotech Pvt. Ltd.",
+    "size": "50 - 249",
+    "location": "Jaipur, India",
+    "url": "https://www.grocient.com/"
+  },
+  {
+    "companyName": "Tech Bridge Consultancy",
+    "size": "50 - 249",
+    "location": "Lahore, Pakistan",
+    "url": "https://www.techbridgeconsultancy.com/"
+  },
+  {
+    "companyName": "FlipLogics Software Development",
+    "size": "10 - 49",
+    "location": "NYC, United States",
+    "url": "https://fliplogics.com/"
+  },
+  {
+    "companyName": "Head First Studios",
+    "size": "10 - 49",
+    "location": "Brussels, Belgium",
+    "url": "https://www.headfirststudios.com/"
+  },
+  {
+    "companyName": "LTS Group",
+    "size": "250 - 999",
+    "location": "Hanoi, Vietnam",
+    "url": "https://www.ltsgroup.tech/?utm_source=Goodfirms&utm_campaign=Directory"
+  },
+  {
+    "companyName": "Migra software",
+    "size": "10 - 49",
+    "location": "Sankt Peterburg, Russia",
+    "url": "https://migra.ru/"
+  },
+  {
+    "companyName": "D.G. Techlink Ltd",
+    "size": "50 - 249",
+    "location": "Nicosia, Cyprus",
+    "url": "https://www.techlink.com.cy"
+  },
+  {
+    "companyName": "Accepire",
+    "size": "2 - 9",
+    "location": "Bandipur, India",
+    "url": "https://www.accepire.com"
+  },
+  {
+    "companyName": "Adott Solutions",
+    "size": "2 - 9",
+    "location": "Pecs, Hungary",
+    "url": "https://adott.solutions/"
+  },
+  {
+    "companyName": "Alcax Solutions",
+    "size": "50 - 249",
+    "location": "Delhi, India",
+    "url": "https://www.alcax.com/"
+  },
+  {
+    "companyName": "Boldheart",
+    "size": "10 - 49",
+    "location": "Berlin, Germany",
+    "url": "https://www.boldheart.io/"
+  },
+  {
+    "companyName": "Dynacom Solutions",
+    "size": "2 - 9",
+    "location": "London, United Kingdom",
+    "url": "https://dynacom.solutions/"
+  },
+  {
+    "companyName": "Al Rafay Consulting LLC",
+    "size": "10 - 49",
+    "location": "Chicago, United States",
+    "url": "https://www.alrafayglobal.com"
+  },
+  {
+    "companyName": "Skylink Infosolutions",
+    "size": "2 - 9",
+    "location": "Gandhinagar, India",
+    "url": "https://skylinkinfosolutions.com/"
+  },
+  {
+    "companyName": "Lambda Team",
+    "size": "50 - 249",
+    "location": "Dnipro, Ukraine",
+    "url": "https://lambda.direct/"
+  },
+  {
+    "companyName": "Appexoft",
+    "size": "50 - 249",
+    "location": "Lviv, Ukraine",
+    "url": "https://appexoft.com/"
+  },
+  {
+    "companyName": "Zikra Infotech LLC",
+    "size": "10 - 49",
+    "location": "Karimnagar, India",
+    "url": "https://zikrainfotech.com/"
+  },
+  {
+    "companyName": "Rocketsoft",
+    "size": "2 - 9",
+    "location": "Cape Town, South Africa",
+    "url": "https://www.therocketsoft.com/"
+  },
+  {
+    "companyName": "Greenlogic",
+    "size": "10 - 49",
+    "location": "Wroclaw, Poland",
+    "url": "https://greenlogic.eu"
+  }
+]

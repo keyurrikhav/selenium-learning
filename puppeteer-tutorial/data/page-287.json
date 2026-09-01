@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "Sirma Group Holding JSC",
+    "size": "250 - 999",
+    "location": "Sofia, Bulgaria",
+    "url": "https://sirma.com"
+  },
+  {
+    "companyName": "Cyber Intelligent Solution",
+    "size": "50 - 249",
+    "location": "Lahore, Pakistan",
+    "url": "http://cyberisol.com/"
+  },
+  {
+    "companyName": "Homepage Infotech Solutions LLP",
+    "size": "10 - 49",
+    "location": "Indore, India",
+    "url": "http://www.homepageit.net/"
+  },
+  {
+    "companyName": "Ingress IT Solutions",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "https://ingressit.com"
+  },
+  {
+    "companyName": "Techitree Technologies",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "http://techitree.com/"
+  },
+  {
+    "companyName": "Semiosis Software Private Limited",
+    "size": "10 - 49",
+    "location": "Jaipur, India",
+    "url": "http://www.semiosissoftware.com"
+  },
+  {
+    "companyName": "Nuage Biztech Pvt. Ltd.",
+    "size": "50 - 249",
+    "location": "Ghaziabad, India",
+    "url": "https://nuagebiz.tech/"
+  },
+  {
+    "companyName": "White Cloak Technologies, Inc.",
+    "size": "50 - 249",
+    "location": "Pasig, Philippines",
+    "url": "https://www.whitecloak.com/"
+  },
+  {
+    "companyName": "zAmtech",
+    "size": "10 - 49",
+    "location": "Lahore, Pakistan",
+    "url": "https://www.zamtech.co/"
+  },
+  {
+    "companyName": "Infigo Software India",
+    "size": "10 - 49",
+    "location": "Kota, India",
+    "url": "https://infigosoftware.in/"
+  },
+  {
+    "companyName": "JSdevs",
+    "size": "50 - 249",
+    "location": "Islamabad, Pakistan",
+    "url": "https://jsdevs.dev/"
+  },
+  {
+    "companyName": "Stylers",
+    "size": "10 - 49",
+    "location": "Budapest, Hungary",
+    "url": "https://stylersonline.com/"
+  },
+  {
+    "companyName": "Kushwaha Webformat Pvt. Ltd.",
+    "size": "2 - 9",
+    "location": "Raxaul, India",
+    "url": "http://www.mistryji.in"
+  },
+  {
+    "companyName": "VaST ITES",
+    "size": "2 - 9",
+    "location": "Ahmedabad, India",
+    "url": "https://www.vastites.com"
+  },
+  {
+    "companyName": "ScottsdaleBizz",
+    "size": "10 - 49",
+    "location": "Scottsdale, United States",
+    "url": "http://www.scottsdalebizz.com"
+  },
+  {
+    "companyName": "Motifworks",
+    "size": "50 - 249",
+    "location": "Towson, United States",
+    "url": "https://www.motifworks.com/"
+  },
+  {
+    "companyName": "TRG Digital",
+    "size": "10 - 49",
+    "location": "San Jose, United States",
+    "url": "https://www.trgdigital.com"
+  },
+  {
+    "companyName": "The Media Troop",
+    "size": "2 - 9",
+    "location": "Pune, India",
+    "url": "https://www.themediatroop.com"
+  },
+  {
+    "companyName": "Starshot",
+    "size": "50 - 249",
+    "location": "Helsinki, Finland",
+    "url": "http://starshotsoftware.com/"
+  },
+  {
+    "companyName": "Authorselvi",
+    "size": "10 - 49",
+    "location": "Vellore, India",
+    "url": "https://www.authorselvi.com/"
+  },
+  {
+    "companyName": "Archirayan",
+    "size": "10 - 49",
+    "location": "",
+    "url": "https://archirayan.com/index.php"
+  },
+  {
+    "companyName": "ManpraX Software LLP",
+    "size": "10 - 49",
+    "location": "Delhi, India",
+    "url": "https://www.manprax.com"
+  },
+  {
+    "companyName": "Denovers",
+    "size": "2 - 9",
+    "location": "Karachi, Pakistan",
+    "url": "https://denovers.com/"
+  },
+  {
+    "companyName": "App Design Agency",
+    "size": "2 - 9",
+    "location": "Madrid, Spain",
+    "url": "https://appdesign.dev/"
+  },
+  {
+    "companyName": "Prime Vision Tech",
+    "size": "50 - 249",
+    "location": "Toronto, Canada",
+    "url": "http://primevisiontech.com/"
+  },
+  {
+    "companyName": "32 Bit Solutions",
+    "size": "10 - 49",
+    "location": "Mohali, India",
+    "url": "https://32bitsolutions.com/"
+  },
+  {
+    "companyName": "Aafiyah Technologies",
+    "size": "2 - 9",
+    "location": "Chhatrapati Sambhajinagar, India",
+    "url": "https://aafiyahtech.com"
+  },
+  {
+    "companyName": "MaxiLead",
+    "size": "2 - 9",
+    "location": "Chennai, India",
+    "url": "http://maxilead.in"
+  },
+  {
+    "companyName": "CS Soft Solutions India Pvt. Ltd.",
+    "size": "250 - 999",
+    "location": "Mohali, India",
+    "url": "https://www.cssoftsolutions.com"
+  },
+  {
+    "companyName": "Intlabs Technology",
+    "size": "2 - 9",
+    "location": "Mysuru, India",
+    "url": "http://intlabstech.com/"
+  },
+  {
+    "companyName": "QOLAC",
+    "size": "10 - 49",
+    "location": "Dhaka, Bangladesh",
+    "url": "https://qolac.com"
+  },
+  {
+    "companyName": "The Danse",
+    "size": "2 - 9",
+    "location": "Collierville, United States",
+    "url": "http://www.thedanse.com/"
+  },
+  {
+    "companyName": "Stylers Group",
+    "size": "10 - 49",
+    "location": "",
+    "url": "https://stylersonline.com/"
+  },
+  {
+    "companyName": "Fortify Enterprise Inc.",
+    "size": "2 - 9",
+    "location": "Vancouver, Canada",
+    "url": "https://fortify.pro"
+  },
+  {
+    "companyName": "folio1",
+    "size": "10 - 49",
+    "location": "Melbourne, Australia",
+    "url": "https://folio1.technology/"
+  },
+  {
+    "companyName": "Khired Networks",
+    "size": "10 - 49",
+    "location": "London, United Kingdom",
+    "url": "https://khired.com/"
+  },
+  {
+    "companyName": "ARITS Limited",
+    "size": "10 - 49",
+    "location": "Dhaka, Bangladesh",
+    "url": "https://arits.tech/"
+  },
+  {
+    "companyName": "Akimad",
+    "size": "2 - 9",
+    "location": "Madrid, Spain",
+    "url": "https://akimad.com"
+  },
+  {
+    "companyName": "RIBS Technologies",
+    "size": "2 - 9",
+    "location": "Sharjah, UAE",
+    "url": "https://www.ribstechnologies.com/"
+  },
+  {
+    "companyName": "Boring Owl",
+    "size": "2 - 9",
+    "location": "Warsaw, Poland",
+    "url": "https://boringowl.io/en/"
+  },
+  {
+    "companyName": "Noetic Labs pvt ltd",
+    "size": "10 - 49",
+    "location": "Pune, India",
+    "url": "http://noetic-labs.com/"
+  },
+  {
+    "companyName": "ZEREFLAB",
+    "size": "10 - 49",
+    "location": "Lahore, Pakistan",
+    "url": "https://zereflab.com"
+  },
+  {
+    "companyName": "MyExpoPro",
+    "size": "10 - 49",
+    "location": "",
+    "url": "https://www.myexpopro.com"
+  },
+  {
+    "companyName": "Dakshraj Enterprise",
+    "size": "2 - 9",
+    "location": "24 Parganas (n), India",
+    "url": "https://www.dakshraj.com/"
+  },
+  {
+    "companyName": "Netcoreinfo Business Services",
+    "size": "10 - 49",
+    "location": "Noida, India",
+    "url": "http://www.netcoreinfo.com/"
+  },
+  {
+    "companyName": "Reflection Infosys",
+    "size": "10 - 49",
+    "location": "Sofia, Bulgaria",
+    "url": "https://rflinfosys.com"
+  },
+  {
+    "companyName": "Blazon Infotech",
+    "size": "2 - 9",
+    "location": "Surat, India",
+    "url": "http://blazoninfotech.com/"
+  },
+  {
+    "companyName": "Encaptechno",
+    "size": "10 - 49",
+    "location": "Brampton, Canada",
+    "url": "https://www.encaptechno.com/"
+  }
+]

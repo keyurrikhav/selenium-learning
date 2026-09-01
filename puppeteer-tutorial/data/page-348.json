@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "Inversify",
+    "size": "2 - 9",
+    "location": "Colombo, Sri Lanka",
+    "url": "https://inversify.lk/"
+  },
+  {
+    "companyName": "CleverApp LLC",
+    "size": "2 - 9",
+    "location": "Chisinau, Moldova",
+    "url": "https://cleverapptech.com"
+  },
+  {
+    "companyName": "groooh",
+    "size": "2 - 9",
+    "location": "Faisalabad, Pakistan",
+    "url": "https://groooh.com"
+  },
+  {
+    "companyName": "WebEgypt",
+    "size": "2 - 9",
+    "location": "Cairo, Egypt",
+    "url": "https://webegypt-site.firebaseapp.com"
+  },
+  {
+    "companyName": "Rasm Labs LLC",
+    "size": "2 - 9",
+    "location": "Sheridan, United States",
+    "url": "https://rasmlabs.com/"
+  },
+  {
+    "companyName": "Bizsage",
+    "size": "2 - 9",
+    "location": "Rawalpindi, Pakistan",
+    "url": "https://bizsage.co"
+  },
+  {
+    "companyName": "Argenius",
+    "size": "10 - 49",
+    "location": "Delhi, India",
+    "url": "https://argenius.in"
+  },
+  {
+    "companyName": "DTech Solution",
+    "size": "Freelancer",
+    "location": "Tirana, Albania",
+    "url": "https://d-tech-solution.com/"
+  },
+  {
+    "companyName": "Tecomato Pty Ltd",
+    "size": "2 - 9",
+    "location": "Adelaide, Australia",
+    "url": "https://tecomato.com/"
+  },
+  {
+    "companyName": "Alphurious Technologies",
+    "size": "50 - 249",
+    "location": "Mohali, India",
+    "url": "https://alphurious.com/"
+  },
+  {
+    "companyName": "Cascade Web Development",
+    "size": "2 - 9",
+    "location": "Portland, United States",
+    "url": "https://cascadewebdev.com/"
+  },
+  {
+    "companyName": "INVURIC TECHNOLOGIES PTY. LTD.",
+    "size": "50 - 249",
+    "location": "Noida, India",
+    "url": "https://invuric.co/"
+  },
+  {
+    "companyName": "ThinkMove Solutions",
+    "size": "10 - 49",
+    "location": "Lalitpur, Nepal",
+    "url": "https://thinkmovesolutions.com/"
+  },
+  {
+    "companyName": "Appetenza Technologies",
+    "size": "10 - 49",
+    "location": "Delhi, India",
+    "url": "https://www.appetenza.com/"
+  },
+  {
+    "companyName": "baaz",
+    "size": "10 - 49",
+    "location": "Bengaluru, India",
+    "url": "https://www.baaz.pro"
+  },
+  {
+    "companyName": "Webexis LLC",
+    "size": "2 - 9",
+    "location": "Albuquerque, United States",
+    "url": "https://webexis.com/"
+  },
+  {
+    "companyName": "RK Code Waves",
+    "size": "2 - 9",
+    "location": "Mohali, India",
+    "url": "https://rkcodewaves.in"
+  },
+  {
+    "companyName": "Emitlogic Technologies Private Limited",
+    "size": "2 - 9",
+    "location": "Hosur, India",
+    "url": "https://www.emitlogic.com/"
+  },
+  {
+    "companyName": "Afrixh Solutions",
+    "size": "2 - 9",
+    "location": "Islamabad, Pakistan",
+    "url": "https://afrixh.com"
+  },
+  {
+    "companyName": "Rakonex Infotech",
+    "size": "10 - 49",
+    "location": "Doha, Qatar",
+    "url": "https://rakonex.com/"
+  },
+  {
+    "companyName": "Oasis Techno Cloud",
+    "size": "2 - 9",
+    "location": "Rabat, Morocco",
+    "url": "https://oasistechnocloud.com"
+  },
+  {
+    "companyName": "Webbzee",
+    "size": "2 - 9",
+    "location": "Kozhikode, India",
+    "url": "https://webbzee.com/"
+  },
+  {
+    "companyName": "Weby Care",
+    "size": "10 - 49",
+    "location": "Nandigama, India",
+    "url": "https://webycare.com/"
+  },
+  {
+    "companyName": "Akshar Webtech",
+    "size": "2 - 9",
+    "location": "Rajkot, India",
+    "url": "https://aksharwebtech.com/"
+  },
+  {
+    "companyName": "AP Itechnosoft Systems Private Limited",
+    "size": "10 - 49",
+    "location": "Varanasi, India",
+    "url": "https://itechnosoft.in"
+  },
+  {
+    "companyName": "Paradigm Solutions",
+    "size": "2 - 9",
+    "location": "Temecula, United States",
+    "url": "https://www.paradigm-solutions.io/"
+  },
+  {
+    "companyName": "VTechLabs",
+    "size": "2 - 9",
+    "location": "Vadodara, India",
+    "url": "https://www.vtechlabs.com/courses/node-js-training"
+  },
+  {
+    "companyName": "Codebar",
+    "size": "2 - 9",
+    "location": "Chennai, India",
+    "url": "https://codebar.in"
+  },
+  {
+    "companyName": "Permute IT",
+    "size": "10 - 49",
+    "location": "Jaipur, India",
+    "url": "https://permuteit.in/"
+  },
+  {
+    "companyName": "CodeMetrics Infotech Pvt. Ltd.",
+    "size": "10 - 49",
+    "location": "Noida, India",
+    "url": "https://www.codemetrics.in/"
+  },
+  {
+    "companyName": "SUDS Tech Company Ltd",
+    "size": "2 - 9",
+    "location": "Kampala, Uganda",
+    "url": "https://www.suds-tech.com/"
+  },
+  {
+    "companyName": "Cipher Trivia",
+    "size": "10 - 49",
+    "location": "Bengaluru, India",
+    "url": "http://ciphertrivia.com/"
+  },
+  {
+    "companyName": "Utilizor",
+    "size": "10 - 49",
+    "location": "Multan, Pakistan",
+    "url": "https://www.utilizor.com/"
+  },
+  {
+    "companyName": "TechFanatic",
+    "size": "2 - 9",
+    "location": "Surat, India",
+    "url": "https://techfanatic.in/"
+  },
+  {
+    "companyName": "S P Associates",
+    "size": "2 - 9",
+    "location": "Hyderabad, India",
+    "url": "https://spassociates.online/"
+  },
+  {
+    "companyName": "Auspro Studios",
+    "size": "2 - 9",
+    "location": "Brisbane, Australia",
+    "url": "https://ausprostudios.com.au"
+  },
+  {
+    "companyName": "onext technology",
+    "size": "2 - 9",
+    "location": "Barcelona, Spain",
+    "url": "https://www.onext.es"
+  },
+  {
+    "companyName": "Automation Consultign Pty Ltd",
+    "size": "10 - 49",
+    "location": "Sydney, Australia",
+    "url": "https://automationconsulting.com.au/"
+  },
+  {
+    "companyName": "Appziac Technologies",
+    "size": "10 - 49",
+    "location": "Malappuram, India",
+    "url": "https://appziac.com/"
+  },
+  {
+    "companyName": "Aivora Technologies",
+    "size": "2 - 9",
+    "location": "Dehradun, India",
+    "url": "https://aivoratechnologies.in"
+  },
+  {
+    "companyName": "LB Digital Solutions FZ-LLC",
+    "size": "2 - 9",
+    "location": "Ras Al Khaimah, UAE",
+    "url": "https://lbdigital.ltd"
+  },
+  {
+    "companyName": "Audioscribe LLC",
+    "size": "2 - 9",
+    "location": "Minsk, Belarus",
+    "url": "https://tiit.ai/"
+  },
+  {
+    "companyName": "Averta Strategy Pvt LTd.",
+    "size": "10 - 49",
+    "location": "Pune, India",
+    "url": "https://www.avertastrategy.com"
+  },
+  {
+    "companyName": "Tech Prosense",
+    "size": "10 - 49",
+    "location": "Gurgaon, India",
+    "url": "https://www.techprosense.com/"
+  },
+  {
+    "companyName": "HK EdgeTech LLP",
+    "size": "2 - 9",
+    "location": "Surat, India",
+    "url": "https://hkedgetech.com/"
+  },
+  {
+    "companyName": "alphalab",
+    "size": "2 - 9",
+    "location": "Nahariyya, Israel",
+    "url": "https://alphalab.co.il/"
+  },
+  {
+    "companyName": "BayresHaus",
+    "size": "10 - 49",
+    "location": "Buenos Aires, Argentina",
+    "url": "https://BayresHaus.com"
+  },
+  {
+    "companyName": "Scalara Labs",
+    "size": "10 - 49",
+    "location": "Dubai, UAE",
+    "url": "https://www.scalaralabs.com/"
+  }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "Zendev AB",
+    "size": "50 - 249",
+    "location": "Gothenburg, Sweden",
+    "url": "https://www.zendev.se/"
+  },
+  {
+    "companyName": "Coppermax Technologies",
+    "size": "10 - 49",
+    "location": "Mumbai, India",
+    "url": "https://www.coppermaxtechnologies.com/"
+  },
+  {
+    "companyName": "Gunadhya Software Solutions",
+    "size": "10 - 49",
+    "location": "Pune, India",
+    "url": "https://www.gunadhyasoft.com/"
+  },
+  {
+    "companyName": "Addxp Technologies",
+    "size": "10 - 49",
+    "location": "Houston, United States",
+    "url": "https://www.addxp.com/"
+  },
+  {
+    "companyName": "Voyager Scientific",
+    "size": "2 - 9",
+    "location": "Conshohocken, United States",
+    "url": "https://voyagerscientific.com"
+  },
+  {
+    "companyName": "Kwiqwork Tech Studio LLP",
+    "size": "10 - 49",
+    "location": "Gandhinagar, India",
+    "url": "https://kwiqwork.com"
+  },
+  {
+    "companyName": "T7 HEALTHTECH PRIVATE LIMITED",
+    "size": "2 - 9",
+    "location": "Ahmedabad, India",
+    "url": "https://t7healthtech.com"
+  },
+  {
+    "companyName": "Primal Codes Technologies",
+    "size": "2 - 9",
+    "location": "Kozhikode, India",
+    "url": "https://www.primalcodes.com/"
+  },
+  {
+    "companyName": "Ocavior",
+    "size": "10 - 49",
+    "location": "Jaipur, India",
+    "url": "https://www.ocavior.com/"
+  },
+  {
+    "companyName": "NTS",
+    "size": "10 - 49",
+    "location": "Cairo, Egypt",
+    "url": "https://www.ntscompany.net/"
+  },
+  {
+    "companyName": "Connect Devs",
+    "size": "2 - 9",
+    "location": "San Francisco, United States",
+    "url": "https://connectdevs.com"
+  },
+  {
+    "companyName": "Elera Yazılım ve Bilgi Teknolojileri Ltd",
+    "size": "10 - 49",
+    "location": "Istanbul, Turkey",
+    "url": "https://www.elera.com.tr"
+  },
+  {
+    "companyName": "Solverix Technologies Private Limited.",
+    "size": "50 - 249",
+    "location": "Mumbai, India",
+    "url": "https://solverixtechnologies.com/"
+  },
+  {
+    "companyName": "Perficient Global",
+    "size": "10 - 49",
+    "location": "Dubai, UAE",
+    "url": "https://www.perficientglobalfze.com/"
+  },
+  {
+    "companyName": "BAT.WEB",
+    "size": "2 - 9",
+    "location": "Kyiv, Ukraine",
+    "url": "https://bat-web.com/"
+  },
+  {
+    "companyName": "IQ Lab",
+    "size": "10 - 49",
+    "location": "Anchorage, United States",
+    "url": "https://www.iqlab.us/"
+  },
+  {
+    "companyName": "Kenmerk Softwares Private Limited",
+    "size": "10 - 49",
+    "location": "Sulthan Bathery, India",
+    "url": "https://kenmerksoftwares.com/"
+  },
+  {
+    "companyName": "Abbon Corporation",
+    "size": "50 - 249",
+    "location": "Bangkok, Thailand",
+    "url": "https://abbon.co.th"
+  },
+  {
+    "companyName": "DQSO Corporation",
+    "size": "10 - 49",
+    "location": "Seoul, South Korea",
+    "url": "https://dqso.com/en"
+  },
+  {
+    "companyName": "Centizen, Inc.",
+    "size": "250 - 999",
+    "location": "Oregon City, United States",
+    "url": "https://www.centizen.com/"
+  },
+  {
+    "companyName": "Fluy",
+    "size": "2 - 9",
+    "location": "Santo Andre, Brazil",
+    "url": "https://fluy-lp.vercel.app"
+  },
+  {
+    "companyName": "Franco Expert Global",
+    "size": "10 - 49",
+    "location": "Miami, United States",
+    "url": "https://franco.expert/"
+  },
+  {
+    "companyName": "DETAY Studio",
+    "size": "2 - 9",
+    "location": "Pristina, Kosovo",
+    "url": "https://detaystudio.com/"
+  },
+  {
+    "companyName": "Valrix",
+    "size": "50 - 249",
+    "location": "Vernon Hills, United States",
+    "url": "https://valrix.com/"
+  },
+  {
+    "companyName": "Fuiox Technologies",
+    "size": "10 - 49",
+    "location": "Thiruvananthapuram, India",
+    "url": "https://fuiox.com"
+  },
+  {
+    "companyName": "IF Solutions",
+    "size": "10 - 49",
+    "location": "Kolonnawa, Sri Lanka",
+    "url": "https://ifsolutions.lk/"
+  },
+  {
+    "companyName": "Lucere",
+    "size": "2 - 9",
+    "location": "Sao Paulo, Brazil",
+    "url": "https://lucere.com.br"
+  },
+  {
+    "companyName": "Pagecog",
+    "size": "2 - 9",
+    "location": "Wollongong, Australia",
+    "url": "https://pagecog.com.au"
+  },
+  {
+    "companyName": "SOUTHWORKS",
+    "size": "250 - 999",
+    "location": "Bellevue, United States",
+    "url": "https://www.southworks.com/"
+  },
+  {
+    "companyName": "TANGO",
+    "size": "10 - 49",
+    "location": "Seattle, United States",
+    "url": "https://www.tango.io/"
+  },
+  {
+    "companyName": "Sarathi",
+    "size": "10 - 49",
+    "location": "Pune, India",
+    "url": "https://sarathisoftech.com/"
+  },
+  {
+    "companyName": "BeesQA",
+    "size": "2 - 9",
+    "location": "Seattle, United States",
+    "url": "https://beesqa.com/"
+  },
+  {
+    "companyName": "ShellLogix",
+    "size": "10 - 49",
+    "location": "Yerevan, Armenia",
+    "url": "https://shelllogix.com"
+  },
+  {
+    "companyName": "Integral GIS",
+    "size": "10 - 49",
+    "location": "Seattle, United States",
+    "url": "https://integralgis.com/"
+  },
+  {
+    "companyName": "Odolution",
+    "size": "50 - 249",
+    "location": "Karachi, Pakistan",
+    "url": "https://www.odolution.com/"
+  },
+  {
+    "companyName": "Techplus Consultancy",
+    "size": "10 - 49",
+    "location": "Indore, India",
+    "url": "https://techplusconsultancy.com/"
+  },
+  {
+    "companyName": "Sybrid Private Limited",
+    "size": "1,000 - 9,999",
+    "location": "Karachi, Pakistan",
+    "url": "https://sybrid.com/"
+  },
+  {
+    "companyName": "Restless Labs",
+    "size": "2 - 9",
+    "location": "Jersey City, United States",
+    "url": "https://restlesslabs.com/"
+  },
+  {
+    "companyName": "Restaff - House of Norway",
+    "size": "50 - 249",
+    "location": "Ho Chi Minh City, Vietnam",
+    "url": "https://www.restaff.no/en/about"
+  },
+  {
+    "companyName": "Champsoft",
+    "size": "50 - 249",
+    "location": "Brentwood, United States",
+    "url": "https://www.champsoft.com/"
+  },
+  {
+    "companyName": "Sparkwire Solutions",
+    "size": "2 - 9",
+    "location": "Boston, United States",
+    "url": "http://sparkwiresolutions.com/"
+  },
+  {
+    "companyName": "Simply Software",
+    "size": "2 - 9",
+    "location": "Birmingham, United Kingdom",
+    "url": "https://www.custombespoke.co.uk/"
+  },
+  {
+    "companyName": "Master Sustainability Today",
+    "size": "50 - 249",
+    "location": "Rotterdam, Netherlands",
+    "url": "https://www.mastersustainability.today/"
+  },
+  {
+    "companyName": "NG-CODER",
+    "size": "2 - 9",
+    "location": "Dhaka, Bangladesh",
+    "url": "https://ng-coder.com"
+  },
+  {
+    "companyName": "DelaxNet",
+    "size": "2 - 9",
+    "location": "Birmingham, United Kingdom",
+    "url": "https://www.delaxnet.com/"
+  },
+  {
+    "companyName": "Griffiths Waite",
+    "size": "50 - 249",
+    "location": "Birmingham, United Kingdom",
+    "url": "https://www.griffiths-waite.co.uk/"
+  },
+  {
+    "companyName": "TEEPS",
+    "size": "10 - 49",
+    "location": "Orlando, United States",
+    "url": "https://teeps.org/"
+  },
+  {
+    "companyName": "Effortless Presence",
+    "size": "2 - 9",
+    "location": "Orlando, United States",
+    "url": "https://www.effortlesspresence.com/"
+  }
+]

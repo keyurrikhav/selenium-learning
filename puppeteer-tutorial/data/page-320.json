@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "Crikey Web",
+    "size": "2 - 9",
+    "location": "Dubbo, Australia",
+    "url": "https://crikeyweb.com.au/"
+  },
+  {
+    "companyName": "Overseas IT Solution",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "https://overseasitsolution.com/"
+  },
+  {
+    "companyName": "Joyboy.ae",
+    "size": "10 - 49",
+    "location": "Dubai, UAE",
+    "url": "https://www.joyboy.ae/"
+  },
+  {
+    "companyName": "New Normal",
+    "size": "10 - 49",
+    "location": "Seattle, United States",
+    "url": "https://newnormal.agency"
+  },
+  {
+    "companyName": "Arete Softwares",
+    "size": "10 - 49",
+    "location": "Delhi, India",
+    "url": "https://www.aretesoftwares.com/"
+  },
+  {
+    "companyName": "BCD Apps",
+    "size": "10 - 49",
+    "location": "Islamabad, Pakistan",
+    "url": "https://bcdapps.io/"
+  },
+  {
+    "companyName": "KSM Media Hut",
+    "size": "10 - 49",
+    "location": "Lahore, Pakistan",
+    "url": "https://ksmmediahut.com/"
+  },
+  {
+    "companyName": "HighStreet Media",
+    "size": "10 - 49",
+    "location": "London, United Kingdom",
+    "url": "https://high-streetmedia.com/"
+  },
+  {
+    "companyName": "iCore Pioneer Business Solution Private Limited",
+    "size": "10 - 49",
+    "location": "Thiruvananthapuram, India",
+    "url": "https://www.icorepioneer.com/"
+  },
+  {
+    "companyName": "Thoughtworks USA",
+    "size": "10000+",
+    "location": "Chicago, United States",
+    "url": "https://www.thoughtworks.com/en-gb"
+  },
+  {
+    "companyName": "Northlink Digital",
+    "size": "10 - 49",
+    "location": "London, United Kingdom",
+    "url": "https://www.northlink.digital/"
+  },
+  {
+    "companyName": "I‑Finity",
+    "size": "10 - 49",
+    "location": "York, United Kingdom",
+    "url": "https://www.i-finity.co.uk/"
+  },
+  {
+    "companyName": "Fingoweb",
+    "size": "10 - 49",
+    "location": "Krakow, Poland",
+    "url": "https://www.fingoweb.com/"
+  },
+  {
+    "companyName": "Spaceteams",
+    "size": "10 - 49",
+    "location": "Hamburg, Germany",
+    "url": "https://www.spaceteams.de/"
+  },
+  {
+    "companyName": "Sodehal",
+    "size": "10 - 49",
+    "location": "Bratislava, Slovakia",
+    "url": "https://sodehal.com/"
+  },
+  {
+    "companyName": "StackNyu",
+    "size": "10 - 49",
+    "location": "Vadodara, India",
+    "url": "https://stacknyu.com/"
+  },
+  {
+    "companyName": "SR Web Studio",
+    "size": "10 - 49",
+    "location": "Dhaka, Bangladesh",
+    "url": "https://srwebstudio.com/"
+  },
+  {
+    "companyName": "Plastyk",
+    "size": "10 - 49",
+    "location": "Adelaide, Australia",
+    "url": "https://www.plastyk.com.au/"
+  },
+  {
+    "companyName": "GoatBytes.IO",
+    "size": "2 - 9",
+    "location": "Irvine, United States",
+    "url": "https://goatbytes.io"
+  },
+  {
+    "companyName": "MentorSol",
+    "size": "10 - 49",
+    "location": "Lahore, Pakistan",
+    "url": "https://mentorsol.com/"
+  },
+  {
+    "companyName": "MA Digital",
+    "size": "10 - 49",
+    "location": "Faisalabad, Pakistan",
+    "url": "https://madigital.pk/"
+  },
+  {
+    "companyName": "DigitalRepublic",
+    "size": "10 - 49",
+    "location": "East Grinstead, United Kingdom",
+    "url": "https://www.digital-republic.co.uk/"
+  },
+  {
+    "companyName": "Anuation Labs",
+    "size": "10 - 49",
+    "location": "Noida, India",
+    "url": "https://www.anuationlabs.com"
+  },
+  {
+    "companyName": "Techtweek Infotech LLC",
+    "size": "10 - 49",
+    "location": "Sheridan, United States",
+    "url": "https://techtweekinfotech.com/"
+  },
+  {
+    "companyName": "eCommDaddy",
+    "size": "2 - 9",
+    "location": "Ambala Cantt, India",
+    "url": "https://ecommdaddy.com/"
+  },
+  {
+    "companyName": "PSI-SQUARE",
+    "size": "2 - 9",
+    "location": "Lahore, Pakistan",
+    "url": "http://psi-square.net/"
+  },
+  {
+    "companyName": "2N Consulting Group",
+    "size": "50 - 249",
+    "location": "Afghanistan",
+    "url": "https://2nbusinessconsulting.com/"
+  },
+  {
+    "companyName": "Intellect Consulting Pvt Ltd",
+    "size": "10 - 49",
+    "location": "Pannipitiya, Sri Lanka",
+    "url": "https://intellectconsulting.io"
+  },
+  {
+    "companyName": "Zukk",
+    "size": "50 - 249",
+    "location": "Sao Paulo, Brazil",
+    "url": "https://zukk.com.br/"
+  },
+  {
+    "companyName": "Miraclesoftsolutions",
+    "size": "10 - 49",
+    "location": "Wilmington, United States",
+    "url": "https://miraclesoftsolutions.com/"
+  },
+  {
+    "companyName": "M-Square Technology",
+    "size": "2 - 9",
+    "location": "Ahmedabad, India",
+    "url": "https://www.msquare.technology"
+  },
+  {
+    "companyName": "Zectagon Technologies",
+    "size": "10 - 49",
+    "location": "Jaipur, India",
+    "url": "https://zectagon.com/"
+  },
+  {
+    "companyName": "softnotions technologies",
+    "size": "50 - 249",
+    "location": "Thiruvananthapuram, India",
+    "url": "https://softnotions.com/"
+  },
+  {
+    "companyName": "StellarMetrics Media",
+    "size": "10 - 49",
+    "location": "NYC, United States",
+    "url": "https://stellar-metrics.com/"
+  },
+  {
+    "companyName": "Ezec Design",
+    "size": "10 - 49",
+    "location": "Nottingham, United Kingdom",
+    "url": "https://ezecdesign.com/"
+  },
+  {
+    "companyName": "Triplayz Technology Solutions Company Limited",
+    "size": "10 - 49",
+    "location": "Hanoi, Vietnam",
+    "url": "https://triplayz.com/"
+  },
+  {
+    "companyName": "The Thinking Team",
+    "size": "10 - 49",
+    "location": "Hyderabad, India",
+    "url": "https://thethinkingteam.in/"
+  },
+  {
+    "companyName": "Bizbee Insights",
+    "size": "10 - 49",
+    "location": "Dubai, UAE",
+    "url": "https://bizbeeinsights.com/"
+  },
+  {
+    "companyName": "CHL Softech",
+    "size": "50 - 249",
+    "location": "Delhi, India",
+    "url": "https://www.chlsoftech.com"
+  },
+  {
+    "companyName": "NXT YOU GmbH",
+    "size": "10 - 49",
+    "location": "Grunwald, Germany",
+    "url": "https://nxtyou.de/de"
+  },
+  {
+    "companyName": "Techtics.AI",
+    "size": "10 - 49",
+    "location": "Houston, United States",
+    "url": "https://techtics.ai/"
+  },
+  {
+    "companyName": "Mosaik Software",
+    "size": "2 - 9",
+    "location": "Gold Coast, Australia",
+    "url": "https://www.mosaik.au"
+  },
+  {
+    "companyName": "ina Payments",
+    "size": "2 - 9",
+    "location": "Hyderabad, India",
+    "url": "https://inapayments.com/"
+  },
+  {
+    "companyName": "ASH IT Service",
+    "size": "10 - 49",
+    "location": "Delhi, India",
+    "url": "https://www.ashitservice.com/"
+  },
+  {
+    "companyName": "Third Pig Software",
+    "size": "10 - 49",
+    "location": "London, United Kingdom",
+    "url": "https://thirdpigsoftware.com/"
+  },
+  {
+    "companyName": "Software Kraken",
+    "size": "10 - 49",
+    "location": "Szczecin, Poland",
+    "url": "https://softwarekraken.com/"
+  },
+  {
+    "companyName": "kSemin Systems Pvt. Ltd.",
+    "size": "2 - 9",
+    "location": "Pune, India",
+    "url": "https://ksemin.in/"
+  },
+  {
+    "companyName": "Sunset Software House",
+    "size": "10 - 49",
+    "location": "Popayan, Colombia",
+    "url": "https://sunsetswh.com/"
+  }
+]

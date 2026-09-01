@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "Ampik Digital Co",
+    "size": "50 - 249",
+    "location": "Los Angeles, United States",
+    "url": "https://ampikdigital.co"
+  },
+  {
+    "companyName": "Agence Stafe",
+    "size": "2 - 9",
+    "location": "Avrille, France",
+    "url": "https://www.stafe.fr"
+  },
+  {
+    "companyName": "QA10",
+    "size": "2 - 9",
+    "location": "Katowice, Poland",
+    "url": "https://qa10.io"
+  },
+  {
+    "companyName": "SLK Projects",
+    "size": "2 - 9",
+    "location": "Johannesburg, South Africa",
+    "url": "https://www.slkprojects.com/"
+  },
+  {
+    "companyName": "Your Firm Growth",
+    "size": "10 - 49",
+    "location": "Dallas, United States",
+    "url": "https://yourfirmgrowth.com/"
+  },
+  {
+    "companyName": "Fase Cuatro - Driving Innovation",
+    "size": "10 - 49",
+    "location": "Buenos Aires, Argentina",
+    "url": "https://fasecuatro.com.ar"
+  },
+  {
+    "companyName": "AI4SALE",
+    "size": "10 - 49",
+    "location": "Cheyenne, United States",
+    "url": "https://ai4.sale"
+  },
+  {
+    "companyName": "exstrue",
+    "size": "2 - 9",
+    "location": "Tangier, Morocco",
+    "url": "https://exstrue.com"
+  },
+  {
+    "companyName": "Velrix",
+    "size": "2 - 9",
+    "location": "Istanbul, Turkey",
+    "url": "https://velrix.co/"
+  },
+  {
+    "companyName": "OnyxStack Labs",
+    "size": "2 - 9",
+    "location": "Khushab, Pakistan",
+    "url": "https://www.onyxstacklabs.com"
+  },
+  {
+    "companyName": "Agencia Emagenic Ltda",
+    "size": "10 - 49",
+    "location": "Santiago, Chile",
+    "url": "https://www.emagenic.cl/"
+  },
+  {
+    "companyName": "Dopmin Technologies",
+    "size": "2 - 9",
+    "location": "Dehiwala-Mount Lavinia, Sri Lanka",
+    "url": "https://dopmin.vercel.app/"
+  },
+  {
+    "companyName": "Rynexus Infotech Ltd.",
+    "size": "10 - 49",
+    "location": "Dhaka, Bangladesh",
+    "url": "https://rynexus.com/"
+  },
+  {
+    "companyName": "Deltivia Technologies",
+    "size": "2 - 9",
+    "location": "Indore, India",
+    "url": "https://deltivia.com/"
+  },
+  {
+    "companyName": "Rootid",
+    "size": "2 - 9",
+    "location": "Sarajevo, Bosnia and Herzegovina",
+    "url": "https://rootid.dev"
+  },
+  {
+    "companyName": "GeekSSort",
+    "size": "10 - 49",
+    "location": "Dhaka, Bangladesh",
+    "url": "https://geekssort.com/"
+  },
+  {
+    "companyName": "Data Apps Technologies",
+    "size": "10 - 49",
+    "location": "Coimbatore, India",
+    "url": "https://dataapps.cloud/"
+  },
+  {
+    "companyName": "Produsell",
+    "size": "2 - 9",
+    "location": "Durban, South Africa",
+    "url": "https://www.produsell.io"
+  },
+  {
+    "companyName": "AZERATECH SOLUTIONS",
+    "size": "2 - 9",
+    "location": "Sabuncu, Azerbaijan",
+    "url": "https://azeratech.az/"
+  },
+  {
+    "companyName": "Innersite Solutions",
+    "size": "2 - 9",
+    "location": "Aiken, United States",
+    "url": "https://innersitesolutions.com"
+  },
+  {
+    "companyName": "Tandem Studios Inc.",
+    "size": "2 - 9",
+    "location": "Vancouver, Canada",
+    "url": "https://www.tandemstudios.ca/"
+  },
+  {
+    "companyName": "AHA Technocrats",
+    "size": "10 - 49",
+    "location": "Noida, India",
+    "url": "https://ahatechnocrats.com/"
+  },
+  {
+    "companyName": "Cyber Milo",
+    "size": "2 - 9",
+    "location": "Srinagar, India",
+    "url": "https://www.cybermilo.com/"
+  },
+  {
+    "companyName": "Host Modules",
+    "size": "10 - 49",
+    "location": "Streetsboro, United States",
+    "url": "https://hostmodules.com/"
+  },
+  {
+    "companyName": "Codhaus Agency",
+    "size": "10 - 49",
+    "location": "Riyadh, Saudi Arabia",
+    "url": "https://codhaus.com/"
+  },
+  {
+    "companyName": "INSPARK",
+    "size": "50 - 249",
+    "location": "Istanbul, Turkey",
+    "url": "https://www.inspark.com"
+  },
+  {
+    "companyName": "Krishiv Innovations Private Limited",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "https://www.krishivinnovations.com/"
+  },
+  {
+    "companyName": "Crescentic",
+    "size": "10 - 49",
+    "location": "Mississauga, Canada",
+    "url": "https://crescentic.com"
+  },
+  {
+    "companyName": "Mesklintech LLP",
+    "size": "10 - 49",
+    "location": "Thane, India",
+    "url": "https://mesklintech.com"
+  },
+  {
+    "companyName": "NexaSoftech",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "https://nexasoftech.com/"
+  },
+  {
+    "companyName": "Rankmerabbit",
+    "size": "2 - 9",
+    "location": "Kolkata, India",
+    "url": "https://rankmerabbit.com/"
+  },
+  {
+    "companyName": "Agevole Innovation Private Limited",
+    "size": "2 - 9",
+    "location": "Surat, India",
+    "url": "https://agevoleinnovation.com/"
+  },
+  {
+    "companyName": "Javest Srls",
+    "size": "2 - 9",
+    "location": "La Spezia, Italy",
+    "url": "https://www.javest.com"
+  },
+  {
+    "companyName": "Venora AI",
+    "size": "2 - 9",
+    "location": "Ahmedabad, India",
+    "url": "https://venoraai.in"
+  },
+  {
+    "companyName": "CIS Technologies",
+    "size": "2 - 9",
+    "location": "Coimbatore, India",
+    "url": "https://www.c-infosoft.com/"
+  },
+  {
+    "companyName": "Azkkan",
+    "size": "2 - 9",
+    "location": "Lahore, Pakistan",
+    "url": "https://www.azkkan.com/"
+  },
+  {
+    "companyName": "SB-Techworks",
+    "size": "2 - 9",
+    "location": "Regensburg, Germany",
+    "url": "https://sb-techworks.de"
+  },
+  {
+    "companyName": "Nezore",
+    "size": "2 - 9",
+    "location": "Turku, Finland",
+    "url": "https://www.nezore.com"
+  },
+  {
+    "companyName": "Zeta-V Technology Solutions Inc",
+    "size": "10 - 49",
+    "location": "Orlando, United States",
+    "url": "https://zeta-v.com/"
+  },
+  {
+    "companyName": "Capiller Studio",
+    "size": "2 - 9",
+    "location": "Ahmedabad, India",
+    "url": "https://capiller.com/"
+  },
+  {
+    "companyName": "MSApps Ltd",
+    "size": "2 - 9",
+    "location": "Tel Aviv, Israel",
+    "url": "https://claudeservices.ai"
+  },
+  {
+    "companyName": "BengalTech Solutions",
+    "size": "10 - 49",
+    "location": "Dhaka, Bangladesh",
+    "url": "https://bengaltechbd.com"
+  },
+  {
+    "companyName": "SolutionWeb",
+    "size": "Freelancer",
+    "location": "Rabat, Morocco",
+    "url": "https://solutionwebpro.com/"
+  },
+  {
+    "companyName": "Built To Spec AI",
+    "size": "2 - 9",
+    "location": "Irvine, United States",
+    "url": "https://builttospec.ai"
+  },
+  {
+    "companyName": "TickThink Technologies",
+    "size": "10 - 49",
+    "location": "Sikar, India",
+    "url": "https://tickthink.in"
+  },
+  {
+    "companyName": "Codexify Solutions",
+    "size": "2 - 9",
+    "location": "Lahore, Pakistan",
+    "url": "https://www.codexifysolutions.com/"
+  },
+  {
+    "companyName": "ServicesByExpert Pvt Ltd",
+    "size": "10 - 49",
+    "location": "Dubai, UAE",
+    "url": "https://servicesbyexpert.com"
+  },
+  {
+    "companyName": "Konsul",
+    "size": "2 - 9",
+    "location": "Panama City, Panama",
+    "url": "https://konsul.digital/"
+  }
+]

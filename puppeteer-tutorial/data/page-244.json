@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "Web Solutions India",
+    "size": "2 - 9",
+    "location": "Delhi, India",
+    "url": "https://www.websolutionsindia.org/"
+  },
+  {
+    "companyName": "Appstrax Technology",
+    "size": "10 - 49",
+    "location": "Cape Town, South Africa",
+    "url": "https://appstrax.tech/"
+  },
+  {
+    "companyName": "Qualtrix",
+    "size": "10 - 49",
+    "location": "Randburg, South Africa",
+    "url": "https://qualtrix.co.za/"
+  },
+  {
+    "companyName": "Nordic Web Team",
+    "size": "10 - 49",
+    "location": "Stockholm, Sweden",
+    "url": "https://nordicwebteam.com/"
+  },
+  {
+    "companyName": "Tera Craft",
+    "size": "10 - 49",
+    "location": "Dallas, United States",
+    "url": "https://teracraft.tech/"
+  },
+  {
+    "companyName": "Rapid App Studio",
+    "size": "10 - 49",
+    "location": "Taupo, New Zealand",
+    "url": "https://www.rapidappstudio.com/"
+  },
+  {
+    "companyName": "Tudor John & Co.",
+    "size": "2 - 9",
+    "location": "Miami, United States",
+    "url": "https://tudorjohn.com"
+  },
+  {
+    "companyName": "WebApps4u",
+    "size": "2 - 9",
+    "location": "Kitchener, Canada",
+    "url": "https://webapps4u.com/"
+  },
+  {
+    "companyName": "360 Design",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "https://www.360design.in/"
+  },
+  {
+    "companyName": "Softr Solutions",
+    "size": "2 - 9",
+    "location": "Sarajevo, Bosnia and Herzegovina",
+    "url": "https://www.softr-solutions.com"
+  },
+  {
+    "companyName": "Softwaric",
+    "size": "50 - 249",
+    "location": "NYC, United States",
+    "url": "https://softwaric.com/"
+  },
+  {
+    "companyName": "Info Services",
+    "size": "250 - 999",
+    "location": "Hyderabad, India",
+    "url": "https://www.infoservices.com/"
+  },
+  {
+    "companyName": "Oykos Development",
+    "size": "10 - 49",
+    "location": "Podgorica, Montenegro",
+    "url": "https://oykos.me/"
+  },
+  {
+    "companyName": "Flawless infotech",
+    "size": "2 - 9",
+    "location": "Bhopal, India",
+    "url": "https://flawlessinfotech.com/"
+  },
+  {
+    "companyName": "Dspars Digital Lab",
+    "size": "2 - 9",
+    "location": "Ahmedabad, India",
+    "url": "https://www.dspars.io/"
+  },
+  {
+    "companyName": "Sodaru Technologies",
+    "size": "10 - 49",
+    "location": "Bengaluru, India",
+    "url": "https://sodaru.com"
+  },
+  {
+    "companyName": "Network Economic Service Ventures",
+    "size": "10 - 49",
+    "location": "Manila, Philippines",
+    "url": "https://nesv.ph"
+  },
+  {
+    "companyName": "Axtech Limited",
+    "size": "10 - 49",
+    "location": "Nairobi, Kenya",
+    "url": "https://axtech.co.ke/"
+  },
+  {
+    "companyName": "Kodo Kalviai",
+    "size": "2 - 9",
+    "location": "Vilnius, Lithuania",
+    "url": "https://kodokalviai.com/"
+  },
+  {
+    "companyName": "Goldbelt Glacier Health Services",
+    "size": "2 - 9",
+    "location": "Alexandria, United States",
+    "url": "https://www.gbg-hs.com/"
+  },
+  {
+    "companyName": "StableLogic Labs",
+    "size": "10 - 49",
+    "location": "London, United Kingdom",
+    "url": "https://labs.stablelogic.com/"
+  },
+  {
+    "companyName": "DMS Software Engineering Pvt Ltd",
+    "size": "10 - 49",
+    "location": "Rajagiriya, Sri Lanka",
+    "url": "https://www.dmsswe.com/"
+  },
+  {
+    "companyName": "Goldent Software",
+    "size": "10 - 49",
+    "location": "Freetown, Sierra Leone",
+    "url": "https://goldentsoftware.com/"
+  },
+  {
+    "companyName": "Safety Heads",
+    "size": "50 - 249",
+    "location": "Wroclaw, Poland",
+    "url": "https://safetyheads.com/"
+  },
+  {
+    "companyName": "Webzworld",
+    "size": "2 - 9",
+    "location": "Mumbai, India",
+    "url": "https://webzworld.in/"
+  },
+  {
+    "companyName": "TRUE AND FAIR SUPPORT SERVICES FZE",
+    "size": "Freelancer",
+    "location": "Sharjah, UAE",
+    "url": "http://www.trueandfairsupport.com/"
+  },
+  {
+    "companyName": "KPCS Pro",
+    "size": "2 - 9",
+    "location": "North Bethesda, United States",
+    "url": "https://www.kpcspro.com/"
+  },
+  {
+    "companyName": "Simplified Web Solutions",
+    "size": "2 - 9",
+    "location": "Dallas, United States",
+    "url": "https://simplified.ws"
+  },
+  {
+    "companyName": "Webivox",
+    "size": "2 - 9",
+    "location": "Dehiwala-Mount Lavinia, Sri Lanka",
+    "url": "https://www.webivox.lk/"
+  },
+  {
+    "companyName": "LogiQbits Limited",
+    "size": "10 - 49",
+    "location": "Dhaka, Bangladesh",
+    "url": "https://logiqbits.com/"
+  },
+  {
+    "companyName": "Codigsys (Pvt.) Ltd.",
+    "size": "2 - 9",
+    "location": "Sacramento, United States",
+    "url": "https://codigsys.com/"
+  },
+  {
+    "companyName": "Aadviktech Pvt. Ltd",
+    "size": "10 - 49",
+    "location": "Jaipur, India",
+    "url": "https://www.aadviktech.com/"
+  },
+  {
+    "companyName": "Cody Web Development Inc",
+    "size": "50 - 249",
+    "location": "Cebu City, Philippines",
+    "url": "https://cody.inc/"
+  },
+  {
+    "companyName": "nSoft, Inc.",
+    "size": "10 - 49",
+    "location": "Tel Aviv, Israel",
+    "url": "https://www.nsoftdev.com/"
+  },
+  {
+    "companyName": "Redkite Network LLP",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "https://redkitenetwork.net/"
+  },
+  {
+    "companyName": "Aweb",
+    "size": "2 - 9",
+    "location": "Umraniye, Turkey",
+    "url": "https://www.aweb.com.tr"
+  },
+  {
+    "companyName": "Blake Information Solutions, Inc.",
+    "size": "10 - 49",
+    "location": "Surprise, United States",
+    "url": "https://www.blakeis.com/"
+  },
+  {
+    "companyName": "Acuit Development, Inc.",
+    "size": "2 - 9",
+    "location": "Fayetteville, United States",
+    "url": "https://www.acuit.com/"
+  },
+  {
+    "companyName": "Mythical Development, LLC",
+    "size": "Freelancer",
+    "location": "Providence, United States",
+    "url": "https://mythicaldev.com/"
+  },
+  {
+    "companyName": "Outsoft.eu",
+    "size": "10 - 49",
+    "location": "Moorpark, United States",
+    "url": "https://outsoft.eu/"
+  },
+  {
+    "companyName": "Buena Digital",
+    "size": "2 - 9",
+    "location": "Thousand Oaks, United States",
+    "url": "https://www.buenadigital.com"
+  },
+  {
+    "companyName": "MAKONIS GmbH",
+    "size": "10 - 49",
+    "location": "Munich, Germany",
+    "url": "https://www.makonis.de/"
+  },
+  {
+    "companyName": "XPG Factor",
+    "size": "50 - 249",
+    "location": "Warsaw, Poland",
+    "url": "https://xpgfactor.com/"
+  },
+  {
+    "companyName": "Sydney Software Development",
+    "size": "2 - 9",
+    "location": "Sydney, Australia",
+    "url": "https://www.sydney.software/"
+  },
+  {
+    "companyName": "Stellar Development",
+    "size": "10 - 49",
+    "location": "Brussels, Belgium",
+    "url": "https://stellarlab.dev/"
+  },
+  {
+    "companyName": "PRIME IT Web Development",
+    "size": "10 - 49",
+    "location": "Yerevan, Armenia",
+    "url": "https://primeit.dev/"
+  },
+  {
+    "companyName": "Digital Developments Ltd",
+    "size": "2 - 9",
+    "location": "Razlog, Bulgaria",
+    "url": "https://digitaldevelopments.tech/"
+  },
+  {
+    "companyName": "Appcentric",
+    "size": "10 - 49",
+    "location": "Rubery, United Kingdom",
+    "url": "https://appcentric.co.uk/"
+  }
+]
