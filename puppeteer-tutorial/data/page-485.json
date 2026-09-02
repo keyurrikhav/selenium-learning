@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "Webaxis",
+    "size": "2 - 9",
+    "location": "Toronto, Canada",
+    "url": "https://webaxis.ca/"
+  },
+  {
+    "companyName": "FANATICS",
+    "size": "2 - 9",
+    "location": "Amsterdam, Netherlands",
+    "url": "https://fanatics.nl"
+  },
+  {
+    "companyName": "PakTecSoft",
+    "size": "10 - 49",
+    "location": "Lahore, Pakistan",
+    "url": "https://paktecsoft.com/"
+  },
+  {
+    "companyName": "Sonet Microsytems pvt ltd",
+    "size": "2 - 9",
+    "location": "Noida, India",
+    "url": "https://www.sonetmicrosystems.com/"
+  },
+  {
+    "companyName": "Inspirux",
+    "size": "250 - 999",
+    "location": "London, United Kingdom",
+    "url": "https://www.inspirux.com/"
+  },
+  {
+    "companyName": "eDesk Solutions",
+    "size": "2 - 9",
+    "location": "Karachi, Pakistan",
+    "url": "https://edesksol.com"
+  },
+  {
+    "companyName": "Pixabulous Designs",
+    "size": "2 - 9",
+    "location": "Noida, India",
+    "url": "https://pixabulousdesigns.com/"
+  },
+  {
+    "companyName": "efour",
+    "size": "50 - 249",
+    "location": "Ahmedabad, India",
+    "url": "https://www.efour.co/"
+  },
+  {
+    "companyName": "WitQualis Technologies Pvt Ltd",
+    "size": "50 - 249",
+    "location": "Faridabad, India",
+    "url": "https://witqualis.com/"
+  },
+  {
+    "companyName": "Succeedo Digital Marketing",
+    "size": "10 - 49",
+    "location": "Visakhapatnam, India",
+    "url": "https://www.succeedodm.com/"
+  },
+  {
+    "companyName": "Hire Backend Developer",
+    "size": "250 - 999",
+    "location": "Ahmedabad, India",
+    "url": "https://www.hirebackenddeveloper.com/"
+  },
+  {
+    "companyName": "CodeGenIT",
+    "size": "10 - 49",
+    "location": "Noida, India",
+    "url": "https://www.codegenit.com/"
+  },
+  {
+    "companyName": "Hire Frontend Developer India",
+    "size": "50 - 249",
+    "location": "Ahmedabad, India",
+    "url": "https://www.hirefrontenddeveloperindia.com/"
+  },
+  {
+    "companyName": "Dizayn",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "https://dizayn.io/"
+  },
+  {
+    "companyName": "GrowthGear",
+    "size": "10 - 49",
+    "location": "Gurgaon, India",
+    "url": "https://www.growthgear.in"
+  },
+  {
+    "companyName": "Rwizen Technologies PVT.LTD",
+    "size": "10 - 49",
+    "location": "Noida, India",
+    "url": "https://www.rwizen.com"
+  },
+  {
+    "companyName": "Digital Tripolystudio",
+    "size": "10 - 49",
+    "location": "Bengaluru, India",
+    "url": "https://digitaltripolystudio.com/"
+  },
+  {
+    "companyName": "Octosys ITech",
+    "size": "2 - 9",
+    "location": "Jaipur, India",
+    "url": "http://octosysitech.com/"
+  },
+  {
+    "companyName": "Frontend Development Company",
+    "size": "250 - 999",
+    "location": "Ahmedabad, India",
+    "url": "https://www.frontenddevelopmentcompany.com/"
+  },
+  {
+    "companyName": "Element Marketing Company",
+    "size": "2 - 9",
+    "location": "Myrtle Beach, United States",
+    "url": "https://elementmarketingcompany.com/"
+  },
+  {
+    "companyName": "Backend Development Company",
+    "size": "250 - 999",
+    "location": "Ahmedabad, India",
+    "url": "https://www.backenddevelopmentcompany.com/"
+  },
+  {
+    "companyName": "Evanic Freelancing Solutions",
+    "size": "50 - 249",
+    "location": "Ilesha, Nigeria",
+    "url": "https://evanicfreelancingsolutions.com"
+  },
+  {
+    "companyName": "Himank Soft Solutions Private Limited",
+    "size": "10 - 49",
+    "location": "Faridabad, India",
+    "url": "https://himanksolutions.com/"
+  },
+  {
+    "companyName": "Inside Creative AS",
+    "size": "2 - 9",
+    "location": "Mysen, Norway",
+    "url": "https://insidecreative.no"
+  },
+  {
+    "companyName": "Techwarezen Pvt Ltd",
+    "size": "10 - 49",
+    "location": "Noida, India",
+    "url": "https://techwarezen.com"
+  },
+  {
+    "companyName": "ThatsEnd Pvt. Ltd.",
+    "size": "10 - 49",
+    "location": "Surat, India",
+    "url": "https://www.thatsend.com/"
+  },
+  {
+    "companyName": "XTEALTH",
+    "size": "2 - 9",
+    "location": "Gurgaon, India",
+    "url": "https://xtealthglobal.com/"
+  },
+  {
+    "companyName": "ElloSpaces",
+    "size": "2 - 9",
+    "location": "Bengaluru, India",
+    "url": "https://ellospaces.com"
+  },
+  {
+    "companyName": "Front Desk Helpers",
+    "size": "50 - 249",
+    "location": "Jersey City, United States",
+    "url": "https://frontdeskhelpers.com"
+  },
+  {
+    "companyName": "Cognitiva AI",
+    "size": "10 - 49",
+    "location": "London, United Kingdom",
+    "url": "https://www.cognitiva.dev/"
+  },
+  {
+    "companyName": "DevsSpace",
+    "size": "10 - 49",
+    "location": "Tampa, United States",
+    "url": "https://www.devsspace.com/"
+  },
+  {
+    "companyName": "Sourceed",
+    "size": "10 - 49",
+    "location": "Draper, United States",
+    "url": "https://sourceed.com/"
+  },
+  {
+    "companyName": "Angel Web Solution",
+    "size": "2 - 9",
+    "location": "Ahmedabad, India",
+    "url": "https://angelwebsolution.com/"
+  },
+  {
+    "companyName": "Aklikx Technologies LLC",
+    "size": "10 - 49",
+    "location": "NYC, United States",
+    "url": "https://www.aklikx.com"
+  },
+  {
+    "companyName": "Enum Digital LLC",
+    "size": "50 - 249",
+    "location": "Dubai, UAE",
+    "url": "https://enumdigital.com/"
+  },
+  {
+    "companyName": "Intuition SofTech Australia Pty Ltd",
+    "size": "50 - 249",
+    "location": "Sydney, Australia",
+    "url": "https://intuitionsoftech.com.au/"
+  },
+  {
+    "companyName": "QuaintX Innovations",
+    "size": "10 - 49",
+    "location": "Delhi, India",
+    "url": "https://quaintx.com"
+  },
+  {
+    "companyName": "Prolap Web LLC",
+    "size": "10 - 49",
+    "location": "Elkridge, United States",
+    "url": "https://prolapweb.com/"
+  },
+  {
+    "companyName": "CETech",
+    "size": "10 - 49",
+    "location": "Rochester, United States",
+    "url": "https://www.cetechno.com/"
+  },
+  {
+    "companyName": "Nomfro Technologies",
+    "size": "2 - 9",
+    "location": "Abuja, Nigeria",
+    "url": "https://nomfro.com"
+  },
+  {
+    "companyName": "Das Galerie",
+    "size": "10 - 49",
+    "location": "Delhi, India",
+    "url": "https://dasgalerie.com/"
+  },
+  {
+    "companyName": "VisioneerIT",
+    "size": "10 - 49",
+    "location": "Baltimore, United States",
+    "url": "https://www.visioneerit.com"
+  },
+  {
+    "companyName": "AARK Tech Hub",
+    "size": "2 - 9",
+    "location": "Yamunanagar, India",
+    "url": "https://aarktechub.com/"
+  },
+  {
+    "companyName": "LAUREA PEOPLE'S SIGNATURE",
+    "size": "10 - 49",
+    "location": "Cyberjaya, Malaysia",
+    "url": "https://www.laureapeoplessignature.com/"
+  },
+  {
+    "companyName": "TMV Social",
+    "size": "2 - 9",
+    "location": "Kearney, United States",
+    "url": "https://www.tmvsocial.com/"
+  },
+  {
+    "companyName": "Dream Reflection Media Pvt Ltd",
+    "size": "2 - 9",
+    "location": "Colorado Springs, United States",
+    "url": "https://dreamreflectionmedia.com/"
+  },
+  {
+    "companyName": "Consult PR, Inc.",
+    "size": "10 - 49",
+    "location": "West Palm Beach, United States",
+    "url": "https://www.consultpr.net/"
+  },
+  {
+    "companyName": "McKayne",
+    "size": "10 - 49",
+    "location": "Chennai, India",
+    "url": "https://mckayne.com/"
+  }
+]

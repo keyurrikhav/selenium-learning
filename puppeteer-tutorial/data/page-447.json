@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "Eview Software",
+    "size": "10 - 49",
+    "location": "Cluj-Napoca, Romania",
+    "url": "http://www.eview-software.com"
+  },
+  {
+    "companyName": "Dunitech Software Solutions",
+    "size": "2 - 9",
+    "location": "Dubai, UAE",
+    "url": "https://dunitech.ae/"
+  },
+  {
+    "companyName": "Globiz Technology Inc.",
+    "size": "50 - 249",
+    "location": "Ludhiana, India",
+    "url": "https://globiztechnology.com/"
+  },
+  {
+    "companyName": "7code",
+    "size": "10 - 49",
+    "location": "Cluj-Napoca, Romania",
+    "url": "https://7code.ro/"
+  },
+  {
+    "companyName": "kyiv Solutions",
+    "size": "10 - 49",
+    "location": "Kyiv, Ukraine",
+    "url": "https://www.kyiv.solutions"
+  },
+  {
+    "companyName": "kudosta solutions",
+    "size": "2 - 9",
+    "location": "Jaipur, India",
+    "url": "https://kudosta.com/"
+  },
+  {
+    "companyName": "Your Tech Club B.V.",
+    "size": "10 - 49",
+    "location": "Amsterdam, Netherlands",
+    "url": "https://yourtechclub.com/en/"
+  },
+  {
+    "companyName": "Codekubix",
+    "size": "10 - 49",
+    "location": "Ludhiana, India",
+    "url": "https://www.codekubix.com/"
+  },
+  {
+    "companyName": "MetaSys Limited",
+    "size": "10 - 49",
+    "location": "Harrisonville, United States",
+    "url": "https://www.metasysltd.com/"
+  },
+  {
+    "companyName": "NCRi Inc",
+    "size": "50 - 249",
+    "location": "Mississauga, Canada",
+    "url": "https://www.ncri.com/"
+  },
+  {
+    "companyName": "Fatcamel Software",
+    "size": "10 - 49",
+    "location": "Jaipur, India",
+    "url": "https://fatcamel.io/"
+  },
+  {
+    "companyName": "Codenomad",
+    "size": "50 - 249",
+    "location": "Mohali, India",
+    "url": "https://www.codenomad.net/"
+  },
+  {
+    "companyName": "Ceegees",
+    "size": "10 - 49",
+    "location": "Bengaluru, India",
+    "url": "https://ceegees.in/"
+  },
+  {
+    "companyName": "Revolo Infotech",
+    "size": "10 - 49",
+    "location": "Mumbai, India",
+    "url": "https://www.revolotech.com/"
+  },
+  {
+    "companyName": "Zeek Digital",
+    "size": "10 - 49",
+    "location": "Chennai, India",
+    "url": "https://www.zeek.digital/"
+  },
+  {
+    "companyName": "Reality Premedia Services Pvt Ltd",
+    "size": "50 - 249",
+    "location": "Pune, India",
+    "url": "https://www.realitypremedia.com/"
+  },
+  {
+    "companyName": "The Else Inc.",
+    "size": "2 - 9",
+    "location": "Seoul, South Korea",
+    "url": "https://else.red"
+  },
+  {
+    "companyName": "Big Entitires",
+    "size": "10 - 49",
+    "location": "Lewes, United States",
+    "url": "https://www.bigentities.com/qaaas.html"
+  },
+  {
+    "companyName": "Hot Custard",
+    "size": "Freelancer",
+    "location": "Split, Croatia",
+    "url": "https://www.hotcustard.co.uk/"
+  },
+  {
+    "companyName": "Plusone Technologies Pvt Ltd",
+    "size": "10 - 49",
+    "location": "Gurgaon, India",
+    "url": "https://plusonetech.co/"
+  },
+  {
+    "companyName": "Arham Techpro",
+    "size": "50 - 249",
+    "location": "Narayanganj, Bangladesh",
+    "url": "https://arhamtechpro.com/"
+  },
+  {
+    "companyName": "Premlinx LLC",
+    "size": "2 - 9",
+    "location": "Los Angeles, United States",
+    "url": "https://www.premlinx.com/"
+  },
+  {
+    "companyName": "StuntCoders",
+    "size": "10 - 49",
+    "location": "Dover, United States",
+    "url": "https://stuntcoders.com/"
+  },
+  {
+    "companyName": "eBizInfoSys",
+    "size": "2 - 9",
+    "location": "Pathankot, India",
+    "url": "https://www.ebizinfosys.com/"
+  },
+  {
+    "companyName": "Wac",
+    "size": "250 - 999",
+    "location": "Thrissur, India",
+    "url": "https://webandcrafts.com/"
+  },
+  {
+    "companyName": "ATLabs Cloud Technologies",
+    "size": "10 - 49",
+    "location": "Dubai, UAE",
+    "url": "https://www.atlabs.ae/"
+  },
+  {
+    "companyName": "Teckflux",
+    "size": "10 - 49",
+    "location": "Cypress, United States",
+    "url": "https://teckflux.com"
+  },
+  {
+    "companyName": "Kasadara Technology Solutions Pvt Ltd",
+    "size": "50 - 249",
+    "location": "Coimbatore, India",
+    "url": "https://kasadara.com/"
+  },
+  {
+    "companyName": "Solutio Studio",
+    "size": "10 - 49",
+    "location": "Kyiv, Ukraine",
+    "url": "https://www.solutio.team/"
+  },
+  {
+    "companyName": "Better Websites Australia",
+    "size": "2 - 9",
+    "location": "Sunshine Coast, Australia",
+    "url": "https://betterwebsites.com.au"
+  },
+  {
+    "companyName": "Shadow infosystem",
+    "size": "50 - 249",
+    "location": "Noida, India",
+    "url": "https://www.shadowinfosystem.com/"
+  },
+  {
+    "companyName": "Digital Dreamers",
+    "size": "10 - 49",
+    "location": "Gdansk, Poland",
+    "url": "https://digitaldreamers.dev/"
+  },
+  {
+    "companyName": "Enacle Infotech",
+    "size": "2 - 9",
+    "location": "Surat, India",
+    "url": "https://www.enacleinfotech.com/"
+  },
+  {
+    "companyName": "Desiq Creative Agency",
+    "size": "2 - 9",
+    "location": "Takoradi, Ghana",
+    "url": "https://www.desiq.co/"
+  },
+  {
+    "companyName": "Virtual Think Technologies Pvt.Ltd.",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "https://virtual-think.com/"
+  },
+  {
+    "companyName": "Analogue IT Solutions",
+    "size": "10 - 49",
+    "location": "Hyderabad, India",
+    "url": "https://analogueitsolutions.com/"
+  },
+  {
+    "companyName": "BrainPath Consults",
+    "size": "10 - 49",
+    "location": "Lagos, Nigeria",
+    "url": "https://brainpathconsults.com/"
+  },
+  {
+    "companyName": "Kodin Soft",
+    "size": "10 - 49",
+    "location": "Sofia, Bulgaria",
+    "url": "https://www.kodinsoft.net/"
+  },
+  {
+    "companyName": "Unify SoftTech",
+    "size": "2 - 9",
+    "location": "Jalandhar, India",
+    "url": "https://www.unifysofttech.com/website-designing/"
+  },
+  {
+    "companyName": "I2k2 Networks",
+    "size": "250 - 999",
+    "location": "Noida, India",
+    "url": "https://www.i2k2.com/"
+  },
+  {
+    "companyName": "Spring Computing Technologies Inc",
+    "size": "50 - 249",
+    "location": "Frisco, United States",
+    "url": "https://springct.com/"
+  },
+  {
+    "companyName": "Omni Group",
+    "size": "10 - 49",
+    "location": "Nottingham, United Kingdom",
+    "url": "https://www.byomni.co.uk"
+  },
+  {
+    "companyName": "Amalgam",
+    "size": "10 - 49",
+    "location": "Wayne, United States",
+    "url": "https://amalgam-inc.com/"
+  },
+  {
+    "companyName": "ClousTech",
+    "size": "2 - 9",
+    "location": "Coimbatore, India",
+    "url": "https://www.cloustech.com"
+  },
+  {
+    "companyName": "AlphaSquad Technologies",
+    "size": "10 - 49",
+    "location": "San Francisco, United States",
+    "url": "https://www.alphasquadinc.com"
+  },
+  {
+    "companyName": "DAS Labs",
+    "size": "10 - 49",
+    "location": "Rancho Cucamonga, United States",
+    "url": "https://www.dasxr.ai/"
+  },
+  {
+    "companyName": "Cloudwhiz",
+    "size": "2 - 9",
+    "location": "Kochi, India",
+    "url": "https://cloudwhiz.in/"
+  },
+  {
+    "companyName": "Marktine Technology Solutions Pvt Ltd",
+    "size": "250 - 999",
+    "location": "Jaipur, India",
+    "url": "https://marktine.com/"
+  }
+]

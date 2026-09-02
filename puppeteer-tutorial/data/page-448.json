@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "RevStack",
+    "size": "50 - 249",
+    "location": "Wilmington, United States",
+    "url": "https://revstack.co/"
+  },
+  {
+    "companyName": "OpenMalo Technologies",
+    "size": "50 - 249",
+    "location": "Rajkot, India",
+    "url": "https://www.openmalo.com/"
+  },
+  {
+    "companyName": "CraftDigitally",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "https://craftdigitally.com/"
+  },
+  {
+    "companyName": "SupreoX Limited",
+    "size": "2 - 9",
+    "location": "Aventura, United States",
+    "url": "https://supreox.com"
+  },
+  {
+    "companyName": "Eightyseven Technology & IT Solutions",
+    "size": "2 - 9",
+    "location": "Kumasi, Ghana",
+    "url": "https://www.eightyseventech.com"
+  },
+  {
+    "companyName": "Outbustech",
+    "size": "10 - 49",
+    "location": "Boulder, United States",
+    "url": "https://outbustech.com/"
+  },
+  {
+    "companyName": "Parish Softwares Private Limited",
+    "size": "10 - 49",
+    "location": "Jaipur, India",
+    "url": "https://www.parishsoftwares.com/"
+  },
+  {
+    "companyName": "Anasol Software",
+    "size": "2 - 9",
+    "location": "Lucknow, India",
+    "url": "https://anasolsoftware.com/"
+  },
+  {
+    "companyName": "Placid Technologies",
+    "size": "2 - 9",
+    "location": "Jersey City, United States",
+    "url": "https://placidtechnologies.com/"
+  },
+  {
+    "companyName": "Royale Cheese innovations LLP",
+    "size": "2 - 9",
+    "location": "Ahmedabad, India",
+    "url": "https://www.royalecheese.com/"
+  },
+  {
+    "companyName": "Cubicuz Solutions",
+    "size": "10 - 49",
+    "location": "Karachi, Pakistan",
+    "url": "https://cubicuz.com"
+  },
+  {
+    "companyName": "Rapidzz Solutions",
+    "size": "50 - 249",
+    "location": "Lahore, Pakistan",
+    "url": "https://www.rapidzzsolutions.com/"
+  },
+  {
+    "companyName": "eSquall LLC",
+    "size": "10 - 49",
+    "location": "Rawalpindi, Pakistan",
+    "url": "https://esquall.com/"
+  },
+  {
+    "companyName": "Saffron Edge Inc",
+    "size": "50 - 249",
+    "location": "Passaic County, United States",
+    "url": "https://www.saffronedge.com/"
+  },
+  {
+    "companyName": "Ionic Solutions",
+    "size": "10 - 49",
+    "location": "Surat, India",
+    "url": "https://www.ionicsolutions.in/"
+  },
+  {
+    "companyName": "Veltris",
+    "size": "250 - 999",
+    "location": "Milpitas, United States",
+    "url": "https://www.veltris.com/"
+  },
+  {
+    "companyName": "Popup Agency",
+    "size": "10 - 49",
+    "location": "Doha, Qatar",
+    "url": "https://www.popup.qa/"
+  },
+  {
+    "companyName": "nQode",
+    "size": "10 - 49",
+    "location": "Novi Sad, Serbia",
+    "url": "https://nqode.io/"
+  },
+  {
+    "companyName": "Tycoonz Solutions",
+    "size": "10 - 49",
+    "location": "Lahore, Pakistan",
+    "url": "https://tycoonzsolutions.com/"
+  },
+  {
+    "companyName": "Shoma.net premium IT solution",
+    "size": "2 - 9",
+    "location": "Dubai, UAE",
+    "url": "https://shoma.net/"
+  },
+  {
+    "companyName": "Hexium",
+    "size": "2 - 9",
+    "location": "Montpellier, France",
+    "url": "https://www.hexium.io/"
+  },
+  {
+    "companyName": "Zeppstrr",
+    "size": "10 - 49",
+    "location": "Bengaluru, India",
+    "url": "https://zeppstr.com/"
+  },
+  {
+    "companyName": "Cyber Trends",
+    "size": "2 - 9",
+    "location": "Lahore, Pakistan",
+    "url": "https://www.cybertrends.com.pk"
+  },
+  {
+    "companyName": "CloudFlex",
+    "size": "10 - 49",
+    "location": "Kyiv, Ukraine",
+    "url": "https://cloudflex.team"
+  },
+  {
+    "companyName": "Webclues Technology",
+    "size": "2 - 9",
+    "location": "Mumbai, India",
+    "url": "https://www.webcluestechnology.com/"
+  },
+  {
+    "companyName": "SyntecX Canada",
+    "size": "2 - 9",
+    "location": "Aurora, United States",
+    "url": "https://syntecx.ca/"
+  },
+  {
+    "companyName": "Codingmart Technologies Private Limited",
+    "size": "50 - 249",
+    "location": "Bengaluru, India",
+    "url": "http://www.codingmart.com"
+  },
+  {
+    "companyName": "SMV Experts",
+    "size": "10 - 49",
+    "location": "San Marcos, United States",
+    "url": "https://smvexperts.com/"
+  },
+  {
+    "companyName": "ONEXT STUDIO",
+    "size": "10 - 49",
+    "location": "Hanoi, Vietnam",
+    "url": "https://onextstudio.com/"
+  },
+  {
+    "companyName": "Playmoweb",
+    "size": "10 - 49",
+    "location": "Angers, France",
+    "url": "https://playmoweb.com"
+  },
+  {
+    "companyName": "VelanApps",
+    "size": "250 - 999",
+    "location": "Dover, United States",
+    "url": "https://velanapps.com/"
+  },
+  {
+    "companyName": "Optimistix Media",
+    "size": "10 - 49",
+    "location": "Noida, India",
+    "url": "https://optimistixmedia.com/"
+  },
+  {
+    "companyName": "Zelisline Ltd",
+    "size": "2 - 9",
+    "location": "Nairobi, Kenya",
+    "url": "https://zelisline.co.ke"
+  },
+  {
+    "companyName": "Active Services Digital",
+    "size": "2 - 9",
+    "location": "Port Louis, Mauritius",
+    "url": "https://activeservices.online"
+  },
+  {
+    "companyName": "Byloop Technologies Pvt Ltd",
+    "size": "10 - 49",
+    "location": "Indore, India",
+    "url": "https://bylooptechnologies.com/"
+  },
+  {
+    "companyName": "Zeesweb",
+    "size": "2 - 9",
+    "location": "Tarabulus ash-Sham, Lebanon",
+    "url": "https://www.zeesweb.com/"
+  },
+  {
+    "companyName": "Teknikali Tech",
+    "size": "10 - 49",
+    "location": "Nairobi, Kenya",
+    "url": "https://teknikalitech.com/"
+  },
+  {
+    "companyName": "Beta Byte Technologies",
+    "size": "10 - 49",
+    "location": "Mohali, India",
+    "url": "https://www.betabyte.in/"
+  },
+  {
+    "companyName": "Everincodeh Technology",
+    "size": "10 - 49",
+    "location": "Indore, India",
+    "url": "https://everincodeh.com/"
+  },
+  {
+    "companyName": "Flexinexa",
+    "size": "10 - 49",
+    "location": "Richmond Hill, Canada",
+    "url": "https://flexinexa.com/"
+  },
+  {
+    "companyName": "Aun Digital",
+    "size": "50 - 249",
+    "location": "Dubai, UAE",
+    "url": "https://aundigital.ae"
+  },
+  {
+    "companyName": "Heptagon Global Services",
+    "size": "50 - 249",
+    "location": "Gandhinagar, India",
+    "url": "https://heptagonservices.com/"
+  },
+  {
+    "companyName": "W2X Labs",
+    "size": "50 - 249",
+    "location": "Chennai, India",
+    "url": "https://w2xlabs.com/"
+  },
+  {
+    "companyName": "Oski solutions",
+    "size": "10 - 49",
+    "location": "Tallinn, Estonia",
+    "url": "https://oski.site/"
+  },
+  {
+    "companyName": "Tech Yantra Solutions Pvt Ltd",
+    "size": "10 - 49",
+    "location": "Ahmedabad, India",
+    "url": "https://techyantra.com/"
+  },
+  {
+    "companyName": "Early Bird Labs",
+    "size": "10 - 49",
+    "location": "Saint Petersburg, United States",
+    "url": "https://earlybirdlabs.io/"
+  },
+  {
+    "companyName": "Ahtapot Yazilim",
+    "size": "2 - 9",
+    "location": "Istanbul, Turkey",
+    "url": "https://www.ahtapotyazilim.com"
+  },
+  {
+    "companyName": "RADD India",
+    "size": "10 - 49",
+    "location": "Delhi, India",
+    "url": "https://www.raddindia.com"
+  }
+]

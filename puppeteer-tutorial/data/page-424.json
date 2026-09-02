@@ -1,0 +1,290 @@
+[
+  {
+    "companyName": "Jupiter Designs Technologies",
+    "size": "2 - 9",
+    "location": "Nairobi, Kenya",
+    "url": "http://www.jdt.co.ke"
+  },
+  {
+    "companyName": "Abacasys Corporation",
+    "size": "50 - 249",
+    "location": "Aurora, United States",
+    "url": "https://abacasys.com/"
+  },
+  {
+    "companyName": "Do With AI",
+    "size": "10 - 49",
+    "location": "Lahore, Pakistan",
+    "url": "https://dowith.ai/"
+  },
+  {
+    "companyName": "Denamico",
+    "size": "10 - 49",
+    "location": "Minneapolis, United States",
+    "url": "https://www.denamico.com/"
+  },
+  {
+    "companyName": "EnCloud",
+    "size": "10 - 49",
+    "location": "Sydney, Australia",
+    "url": "https://encloud.com.au/"
+  },
+  {
+    "companyName": "DigiGrammers",
+    "size": "2 - 9",
+    "location": "Dehradun, India",
+    "url": "https://www.digigrammers.com/"
+  },
+  {
+    "companyName": "Web Designer Dubai - Saad Ashraf",
+    "size": "2 - 9",
+    "location": "",
+    "url": "https://www.saadashraf.net/"
+  },
+  {
+    "companyName": "DAMASCODE - Digital Agency, Unipessoal, lda",
+    "size": "2 - 9",
+    "location": "Lisbon, Portugal",
+    "url": "https://damascode.pt"
+  },
+  {
+    "companyName": "ThinkCLoudys",
+    "size": "2 - 9",
+    "location": "",
+    "url": "https://www.thinkcloudys.com"
+  },
+  {
+    "companyName": "BASH Consulting LLC",
+    "size": "Freelancer",
+    "location": "",
+    "url": "https://www.bashconsultants.com"
+  },
+  {
+    "companyName": "Coderus",
+    "size": "10 - 49",
+    "location": "Ipswich, United Kingdom",
+    "url": "https://www.coderus.com/"
+  },
+  {
+    "companyName": "First Idea Web Development Private Limited",
+    "size": "10 - 49",
+    "location": "Lahore, Pakistan",
+    "url": "https://firstideaweb.com"
+  },
+  {
+    "companyName": "Webcom Systems Pvt Ltd",
+    "size": "50 - 249",
+    "location": "Mohali, India",
+    "url": "https://webcomsystem.net/"
+  },
+  {
+    "companyName": "Ai Web Media",
+    "size": "10 - 49",
+    "location": "Noida, India",
+    "url": "http://aiwebmedia.com"
+  },
+  {
+    "companyName": "EOrchids TechSolutions",
+    "size": "10 - 49",
+    "location": "Chennai, India",
+    "url": "https://e-orchids.com/"
+  },
+  {
+    "companyName": "Infilon Technologies",
+    "size": "2 - 9",
+    "location": "Ahmedabad, India",
+    "url": "https://www.infilon.com/"
+  },
+  {
+    "companyName": "Shira Infotech",
+    "size": "50 - 249",
+    "location": "Delhi, India",
+    "url": "https://shirainfotech.com/"
+  },
+  {
+    "companyName": "Agilyx Group",
+    "size": "50 - 249",
+    "location": "Victoria, Canada",
+    "url": "https://www.agilyxgroup.com/"
+  },
+  {
+    "companyName": "Krishna Technology",
+    "size": "2 - 9",
+    "location": "Sikar, India",
+    "url": "http://www.krishnatechnology.com/"
+  },
+  {
+    "companyName": "Vacnic IT Solution Pvt. Ltd.",
+    "size": "10 - 49",
+    "location": "Noida, India",
+    "url": "https://vacnic.com"
+  },
+  {
+    "companyName": "Amrut Technologies",
+    "size": "10 - 49",
+    "location": "Mohali, India",
+    "url": "https://amruttechnologies.com/"
+  },
+  {
+    "companyName": "Innovate Technologies Pakistan",
+    "size": "2 - 9",
+    "location": "Gujranwala, Pakistan",
+    "url": "https://innovate.com.pk"
+  },
+  {
+    "companyName": "Aicomp",
+    "size": "50 - 249",
+    "location": "Sonnenbuhl, Germany",
+    "url": "https://www.aicomp.com/"
+  },
+  {
+    "companyName": "Semantica Digital",
+    "size": "10 - 49",
+    "location": "Cape Town, South Africa",
+    "url": "https://www.semantica.co.za"
+  },
+  {
+    "companyName": "Ceetech Consultancy",
+    "size": "2 - 9",
+    "location": "London, United Kingdom",
+    "url": "http://www.ceetechconsultancy.com/"
+  },
+  {
+    "companyName": "Akshu Soft Tech",
+    "size": "10 - 49",
+    "location": "Gandhinagar, India",
+    "url": "http://akshusofttech.com/"
+  },
+  {
+    "companyName": "Deltek",
+    "size": "1,000 - 9,999",
+    "location": "Utrecht, Netherlands",
+    "url": "https://www.deltek.com/"
+  },
+  {
+    "companyName": "Zweidevs",
+    "size": "2 - 9",
+    "location": "Lahore, Pakistan",
+    "url": "https://www.zweidevs.com"
+  },
+  {
+    "companyName": "Call Bharat",
+    "size": "10 - 49",
+    "location": "",
+    "url": "https://www.callbharat.com/"
+  },
+  {
+    "companyName": "7T",
+    "size": "50 - 249",
+    "location": "Dallas, United States",
+    "url": "https://7t.ai/"
+  },
+  {
+    "companyName": "Brand Visage Communication",
+    "size": "10 - 49",
+    "location": "Delhi, India",
+    "url": "https://brandvisage.com/"
+  },
+  {
+    "companyName": "Webinnovators",
+    "size": "10 - 49",
+    "location": "Kolkata, India",
+    "url": "https://webinnoovators.com/"
+  },
+  {
+    "companyName": "Risians 360 Solution",
+    "size": "2 - 9",
+    "location": "Dubai, UAE",
+    "url": "https://risians.com/"
+  },
+  {
+    "companyName": "Zirkeltech",
+    "size": "10 - 49",
+    "location": "Frankfurt, Germany",
+    "url": "https://zirkeltech.com/"
+  },
+  {
+    "companyName": "WGC",
+    "size": "2 - 9",
+    "location": "",
+    "url": "https://wgc.net.in/"
+  },
+  {
+    "companyName": "Extreme Solution",
+    "size": "10 - 49",
+    "location": "Irvine, United States",
+    "url": "https://extremesolution.com/"
+  },
+  {
+    "companyName": "Curl Labs",
+    "size": "50 - 249",
+    "location": "Bhaktapur, Nepal",
+    "url": "https://curllabs.com"
+  },
+  {
+    "companyName": "Yoctotta Softwares private limited",
+    "size": "10 - 49",
+    "location": "Bhubaneswar, India",
+    "url": "https://yoctotta.com"
+  },
+  {
+    "companyName": "Tetrahex",
+    "size": "2 - 9",
+    "location": "Lahore, Pakistan",
+    "url": "https://tetrahex.com/"
+  },
+  {
+    "companyName": "Zenibyte Creative Ltd",
+    "size": "2 - 9",
+    "location": "London, United Kingdom",
+    "url": "https://www.zenibyte.com/"
+  },
+  {
+    "companyName": "Mobile App Experts",
+    "size": "50 - 249",
+    "location": "London, United Kingdom",
+    "url": "https://www.mobileappexperts.co.uk/"
+  },
+  {
+    "companyName": "Toshost",
+    "size": "10 - 49",
+    "location": "London, United Kingdom",
+    "url": "https://toshost.com"
+  },
+  {
+    "companyName": "Flatic Solutions",
+    "size": "50 - 249",
+    "location": "Kanpur, India",
+    "url": "https://www.flaticsolutions.com/"
+  },
+  {
+    "companyName": "Codesaaz",
+    "size": "10 - 49",
+    "location": "Islamabad, Pakistan",
+    "url": "http://codesaaz.com/"
+  },
+  {
+    "companyName": "IT INFOWAY",
+    "size": "2 - 9",
+    "location": "Rajkot, India",
+    "url": "https://itinfoway.com/"
+  },
+  {
+    "companyName": "Parkhya Solutions Pvt Ltd",
+    "size": "10 - 49",
+    "location": "",
+    "url": "https://www.parkhya.com/"
+  },
+  {
+    "companyName": "SolutionChamps Technologies",
+    "size": "50 - 249",
+    "location": "Coimbatore, India",
+    "url": "https://solutionchamps.com/"
+  },
+  {
+    "companyName": "Outible",
+    "size": "2 - 9",
+    "location": "",
+    "url": "https://outible.com"
+  }
+]
