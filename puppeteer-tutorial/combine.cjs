@@ -176,13 +176,15 @@ function main() {
         rows.push(row.join(","));
     }
 
-    fs.writeFileSync(
+    fs.writeFileSync (
         OUTPUT_CSV,
         rows.join("\n"),
         "utf8"
-    );
+    ) ;
 
     console.log("Saved CSV:", OUTPUT_CSV);
+
+    
 }
 
 
